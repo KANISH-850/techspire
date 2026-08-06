@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root {
+  /* Medical Tech Light Palette */
+  --sidebar-bg: #F0F4F8;
+  --chat-bg: #FFFFFF;
+  --text-primary: #1F2937;
+  --text-secondary: #6B7280;
+  
+  --primary-blue: #003380;
+  --primary-blue-hover: #002266;
+  --secondary-blue: #EBF3FA;
+  
+  --accent-green: #10B981;
+  --chip-outline: #2C7A7B;
+  --chip-text: #2C7A7B;
+  
+  --user-msg-bg: #003380;
+  --assistant-msg-bg: #F9FAFB;
+  --border-color: #E5E7EB;
+  
+  --error-color: #EF4444;
+  
+  --font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-family);
+  background: var(--chat-bg);
+  color: var(--text-primary);
+  height: 100vh;
+  overflow: hidden;
+}
+
+#root {
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.3);
+}

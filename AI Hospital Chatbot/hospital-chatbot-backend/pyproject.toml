@@ -1,0 +1,35 @@
+[project]
+name = "hospital-chatbot-backend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "KANISH", email = "kanishkgin@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "alembic>=1.13.1",
+    "fastapi>=0.109.0",
+    "google-generativeai>=0.4.0",
+    "httpx>=0.26.0",
+    "openai>=1.12.0",
+    "psycopg2-binary>=2.9.9",
+    "pydantic>=2.5.3",
+    "pydantic-settings>=2.1.0",
+    "pytest>=8.0.0",
+    "python-dotenv>=1.0.0",
+    "sqlalchemy>=2.0.25",
+    "uvicorn[standard]>=0.27.0",
+    "PyJWT>=2.8.0",
+    "passlib[bcrypt]>=1.7.4",
+]
+
+[project.scripts]
+hospital-chatbot-backend = "hospital_chatbot_backend:main"
+
+[build-system]
+requires = ["uv_build>=0.12.1,<0.13.0"]
+build-backend = "uv_build"
+
+[tool.pyright]
+extraPaths = ["."]

@@ -1,0 +1,6 @@
+from fastapi import APIRouter
+
+from app.modules.chatbot.api.router import router as chatbot_router
+
+api_router = APIRouter()
+api_router.include_router(chatbot_router, prefix="/chatbot", tags=["Chatbot"])

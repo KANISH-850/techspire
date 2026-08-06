@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./hospital-chatbot-backend"
+    ],
+    "python.envFile": "${workspaceFolder}/.env",
+    "python.defaultInterpreterPath": "${workspaceFolder}/hospital-chatbot-backend/.venv/Scripts/python.exe"
+}

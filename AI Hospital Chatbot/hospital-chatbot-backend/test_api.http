@@ -1,0 +1,67 @@
+### Variables
+@baseUrl = http://127.0.0.1:8000/api/v1
+# We use a random timestamp so you can run this test multiple times without "User already exists" errors.
+@email = test_e2e_{{$timestamp}}@example.com
+@password = secretpassword123
+
+
+### ==========================================
+### 1. HEALTH CHECK
+### ==========================================
+GET {{baseUrl}}/chatbot/health
+
+
+### ==========================================
+### 2. REGISTER A NEW USER
+### ==========================================
+POST {{baseUrl}}/auth/register
+Content-Type: application/json
+
+{
+  "email": "{{email}}",
+  "username": "user_{{$timestamp}}",
+  "password": "{{password}}"
+}
+
+
+### ==========================================
+### 3. LOGIN (Get Access Token)
+### ==========================================
+# @name loginRequest
+POST {{baseUrl}}/auth/login
+Content-Type: application/x-www-form-urlencoded
+
+username={{email}}&password={{password}}
+
+### Automatically extract the token from the login response!
+@authToken = {{loginRequest.response.body.access_token}}
+
+
+### ==========================================
+### 4. CREATE A CONVERSATION
+### ==========================================
+# @name createConversation
+POST {{baseUrl}}/chatbot/conversations
+Authorization: Bearer {{authToken}}
+Content-Type: application/json
+
+{
+  "title": "End to End Test Symptoms",
+  "status": "active"
+}
+
+### Automatically extract the conversation ID!
+@convId = {{createConversation.response.body.id}}
+
+
+### ==========================================
+### 5. SEND A CHAT MESSAGE
+### ==========================================
+POST {{baseUrl}}/chatbot/chat
+Authorization: Bearer {{authToken}}
+Content-Type: application/json
+
+{
+  "conversation_id": "{{convId}}",
+  "message": "Hello, I have a mild headache."
+}
