@@ -1,0 +1,5491 @@
+date,medicine_name,quantity_used,department
+2025-08-23,Paracetamol,36,General
+2025-08-23,Paracetamol,49,Emergency
+2025-08-23,Paracetamol,88,ICU
+2025-08-23,Amoxicillin,109,General
+2025-08-23,Amoxicillin,100,Emergency
+2025-08-23,Amoxicillin,44,ICU
+2025-08-23,Insulin,47,General
+2025-08-23,Insulin,68,Emergency
+2025-08-23,Insulin,67,ICU
+2025-08-23,Antibiotics,52,General
+2025-08-23,Antibiotics,17,Emergency
+2025-08-23,Antibiotics,87,ICU
+2025-08-23,IV Fluids,27,General
+2025-08-23,IV Fluids,124,Emergency
+2025-08-23,IV Fluids,36,ICU
+2025-08-24,Paracetamol,22,General
+2025-08-24,Paracetamol,70,Emergency
+2025-08-24,Paracetamol,69,ICU
+2025-08-24,Amoxicillin,14,General
+2025-08-24,Amoxicillin,87,Emergency
+2025-08-24,Amoxicillin,75,ICU
+2025-08-24,Insulin,22,General
+2025-08-24,Insulin,109,Emergency
+2025-08-24,Insulin,41,ICU
+2025-08-24,Antibiotics,89,General
+2025-08-24,Antibiotics,34,Emergency
+2025-08-24,Antibiotics,67,ICU
+2025-08-24,IV Fluids,78,General
+2025-08-24,IV Fluids,83,Emergency
+2025-08-24,IV Fluids,29,ICU
+2025-08-25,Paracetamol,83,General
+2025-08-25,Paracetamol,66,Emergency
+2025-08-25,Paracetamol,55,ICU
+2025-08-25,Amoxicillin,90,General
+2025-08-25,Amoxicillin,32,Emergency
+2025-08-25,Amoxicillin,85,ICU
+2025-08-25,Insulin,72,General
+2025-08-25,Insulin,80,Emergency
+2025-08-25,Insulin,44,ICU
+2025-08-25,Antibiotics,85,General
+2025-08-25,Antibiotics,27,Emergency
+2025-08-25,Antibiotics,62,ICU
+2025-08-25,IV Fluids,14,General
+2025-08-25,IV Fluids,88,Emergency
+2025-08-25,IV Fluids,88,ICU
+2025-08-26,Paracetamol,69,General
+2025-08-26,Paracetamol,42,Emergency
+2025-08-26,Paracetamol,33,ICU
+2025-08-26,Amoxicillin,31,General
+2025-08-26,Amoxicillin,56,Emergency
+2025-08-26,Amoxicillin,12,ICU
+2025-08-26,Insulin,102,General
+2025-08-26,Insulin,73,Emergency
+2025-08-26,Insulin,62,ICU
+2025-08-26,Antibiotics,79,General
+2025-08-26,Antibiotics,69,Emergency
+2025-08-26,Antibiotics,78,ICU
+2025-08-26,IV Fluids,93,General
+2025-08-26,IV Fluids,134,Emergency
+2025-08-26,IV Fluids,36,ICU
+2025-08-27,Paracetamol,95,General
+2025-08-27,Paracetamol,31,Emergency
+2025-08-27,Paracetamol,36,ICU
+2025-08-27,Amoxicillin,39,General
+2025-08-27,Amoxicillin,59,Emergency
+2025-08-27,Amoxicillin,68,ICU
+2025-08-27,Insulin,89,General
+2025-08-27,Insulin,95,Emergency
+2025-08-27,Insulin,24,ICU
+2025-08-27,Antibiotics,75,General
+2025-08-27,Antibiotics,88,Emergency
+2025-08-27,Antibiotics,16,ICU
+2025-08-27,IV Fluids,101,General
+2025-08-27,IV Fluids,129,Emergency
+2025-08-27,IV Fluids,30,ICU
+2025-08-28,Paracetamol,50,General
+2025-08-28,Paracetamol,68,Emergency
+2025-08-28,Paracetamol,64,ICU
+2025-08-28,Amoxicillin,75,General
+2025-08-28,Amoxicillin,93,Emergency
+2025-08-28,Amoxicillin,23,ICU
+2025-08-28,Insulin,51,General
+2025-08-28,Insulin,75,Emergency
+2025-08-28,Insulin,96,ICU
+2025-08-28,Antibiotics,92,General
+2025-08-28,Antibiotics,40,Emergency
+2025-08-28,Antibiotics,19,ICU
+2025-08-28,IV Fluids,16,General
+2025-08-28,IV Fluids,92,Emergency
+2025-08-28,IV Fluids,53,ICU
+2025-08-29,Paracetamol,89,General
+2025-08-29,Paracetamol,82,Emergency
+2025-08-29,Paracetamol,53,ICU
+2025-08-29,Amoxicillin,35,General
+2025-08-29,Amoxicillin,91,Emergency
+2025-08-29,Amoxicillin,65,ICU
+2025-08-29,Insulin,49,General
+2025-08-29,Insulin,99,Emergency
+2025-08-29,Insulin,84,ICU
+2025-08-29,Antibiotics,61,General
+2025-08-29,Antibiotics,79,Emergency
+2025-08-29,Antibiotics,27,ICU
+2025-08-29,IV Fluids,64,General
+2025-08-29,IV Fluids,74,Emergency
+2025-08-29,IV Fluids,43,ICU
+2025-08-30,Paracetamol,14,General
+2025-08-30,Paracetamol,11,Emergency
+2025-08-30,Paracetamol,17,ICU
+2025-08-30,Amoxicillin,32,General
+2025-08-30,Amoxicillin,53,Emergency
+2025-08-30,Amoxicillin,84,ICU
+2025-08-30,Insulin,59,General
+2025-08-30,Insulin,70,Emergency
+2025-08-30,Insulin,23,ICU
+2025-08-30,Antibiotics,64,General
+2025-08-30,Antibiotics,78,Emergency
+2025-08-30,Antibiotics,95,ICU
+2025-08-30,IV Fluids,20,General
+2025-08-30,IV Fluids,129,Emergency
+2025-08-30,IV Fluids,87,ICU
+2025-08-31,Paracetamol,57,General
+2025-08-31,Paracetamol,81,Emergency
+2025-08-31,Paracetamol,75,ICU
+2025-08-31,Amoxicillin,42,General
+2025-08-31,Amoxicillin,58,Emergency
+2025-08-31,Amoxicillin,27,ICU
+2025-08-31,Insulin,63,General
+2025-08-31,Insulin,27,Emergency
+2025-08-31,Insulin,22,ICU
+2025-08-31,Antibiotics,26,General
+2025-08-31,Antibiotics,20,Emergency
+2025-08-31,Antibiotics,75,ICU
+2025-08-31,IV Fluids,18,General
+2025-08-31,IV Fluids,83,Emergency
+2025-08-31,IV Fluids,83,ICU
+2025-09-01,Paracetamol,40,General
+2025-09-01,Paracetamol,51,Emergency
+2025-09-01,Paracetamol,41,ICU
+2025-09-01,Amoxicillin,25,General
+2025-09-01,Amoxicillin,80,Emergency
+2025-09-01,Amoxicillin,100,ICU
+2025-09-01,Insulin,39,General
+2025-09-01,Insulin,14,Emergency
+2025-09-01,Insulin,51,ICU
+2025-09-01,Antibiotics,78,General
+2025-09-01,Antibiotics,78,Emergency
+2025-09-01,Antibiotics,41,ICU
+2025-09-01,IV Fluids,58,General
+2025-09-01,IV Fluids,92,Emergency
+2025-09-01,IV Fluids,61,ICU
+2025-09-02,Paracetamol,92,General
+2025-09-02,Paracetamol,51,Emergency
+2025-09-02,Paracetamol,67,ICU
+2025-09-02,Amoxicillin,62,General
+2025-09-02,Amoxicillin,95,Emergency
+2025-09-02,Amoxicillin,101,ICU
+2025-09-02,Insulin,71,General
+2025-09-02,Insulin,63,Emergency
+2025-09-02,Insulin,69,ICU
+2025-09-02,Antibiotics,97,General
+2025-09-02,Antibiotics,81,Emergency
+2025-09-02,Antibiotics,64,ICU
+2025-09-02,IV Fluids,62,General
+2025-09-02,IV Fluids,75,Emergency
+2025-09-02,IV Fluids,101,ICU
+2025-09-03,Paracetamol,68,General
+2025-09-03,Paracetamol,105,Emergency
+2025-09-03,Paracetamol,26,ICU
+2025-09-03,Amoxicillin,108,General
+2025-09-03,Amoxicillin,21,Emergency
+2025-09-03,Amoxicillin,27,ICU
+2025-09-03,Insulin,40,General
+2025-09-03,Insulin,24,Emergency
+2025-09-03,Insulin,57,ICU
+2025-09-03,Antibiotics,67,General
+2025-09-03,Antibiotics,76,Emergency
+2025-09-03,Antibiotics,80,ICU
+2025-09-03,IV Fluids,47,General
+2025-09-03,IV Fluids,100,Emergency
+2025-09-03,IV Fluids,27,ICU
+2025-09-04,Paracetamol,59,General
+2025-09-04,Paracetamol,76,Emergency
+2025-09-04,Paracetamol,81,ICU
+2025-09-04,Amoxicillin,74,General
+2025-09-04,Amoxicillin,73,Emergency
+2025-09-04,Amoxicillin,62,ICU
+2025-09-04,Insulin,59,General
+2025-09-04,Insulin,53,Emergency
+2025-09-04,Insulin,55,ICU
+2025-09-04,Antibiotics,39,General
+2025-09-04,Antibiotics,60,Emergency
+2025-09-04,Antibiotics,94,ICU
+2025-09-04,IV Fluids,46,General
+2025-09-04,IV Fluids,90,Emergency
+2025-09-04,IV Fluids,53,ICU
+2025-09-05,Paracetamol,55,General
+2025-09-05,Paracetamol,101,Emergency
+2025-09-05,Paracetamol,13,ICU
+2025-09-05,Amoxicillin,35,General
+2025-09-05,Amoxicillin,63,Emergency
+2025-09-05,Amoxicillin,102,ICU
+2025-09-05,Insulin,30,General
+2025-09-05,Insulin,94,Emergency
+2025-09-05,Insulin,71,ICU
+2025-09-05,Antibiotics,38,General
+2025-09-05,Antibiotics,95,Emergency
+2025-09-05,Antibiotics,54,ICU
+2025-09-05,IV Fluids,50,General
+2025-09-05,IV Fluids,126,Emergency
+2025-09-05,IV Fluids,61,ICU
+2025-09-06,Paracetamol,103,General
+2025-09-06,Paracetamol,23,Emergency
+2025-09-06,Paracetamol,67,ICU
+2025-09-06,Amoxicillin,27,General
+2025-09-06,Amoxicillin,19,Emergency
+2025-09-06,Amoxicillin,26,ICU
+2025-09-06,Insulin,78,General
+2025-09-06,Insulin,77,Emergency
+2025-09-06,Insulin,62,ICU
+2025-09-06,Antibiotics,33,General
+2025-09-06,Antibiotics,35,Emergency
+2025-09-06,Antibiotics,40,ICU
+2025-09-06,IV Fluids,52,General
+2025-09-06,IV Fluids,87,Emergency
+2025-09-06,IV Fluids,23,ICU
+2025-09-07,Paracetamol,39,General
+2025-09-07,Paracetamol,53,Emergency
+2025-09-07,Paracetamol,75,ICU
+2025-09-07,Amoxicillin,73,General
+2025-09-07,Amoxicillin,38,Emergency
+2025-09-07,Amoxicillin,74,ICU
+2025-09-07,Insulin,37,General
+2025-09-07,Insulin,18,Emergency
+2025-09-07,Insulin,93,ICU
+2025-09-07,Antibiotics,43,General
+2025-09-07,Antibiotics,64,Emergency
+2025-09-07,Antibiotics,56,ICU
+2025-09-07,IV Fluids,87,General
+2025-09-07,IV Fluids,128,Emergency
+2025-09-07,IV Fluids,65,ICU
+2025-09-08,Paracetamol,62,General
+2025-09-08,Paracetamol,94,Emergency
+2025-09-08,Paracetamol,43,ICU
+2025-09-08,Amoxicillin,36,General
+2025-09-08,Amoxicillin,86,Emergency
+2025-09-08,Amoxicillin,47,ICU
+2025-09-08,Insulin,11,General
+2025-09-08,Insulin,68,Emergency
+2025-09-08,Insulin,95,ICU
+2025-09-08,Antibiotics,65,General
+2025-09-08,Antibiotics,61,Emergency
+2025-09-08,Antibiotics,51,ICU
+2025-09-08,IV Fluids,64,General
+2025-09-08,IV Fluids,152,Emergency
+2025-09-08,IV Fluids,87,ICU
+2025-09-09,Paracetamol,85,General
+2025-09-09,Paracetamol,47,Emergency
+2025-09-09,Paracetamol,100,ICU
+2025-09-09,Amoxicillin,82,General
+2025-09-09,Amoxicillin,35,Emergency
+2025-09-09,Amoxicillin,35,ICU
+2025-09-09,Insulin,32,General
+2025-09-09,Insulin,19,Emergency
+2025-09-09,Insulin,55,ICU
+2025-09-09,Antibiotics,110,General
+2025-09-09,Antibiotics,77,Emergency
+2025-09-09,Antibiotics,47,ICU
+2025-09-09,IV Fluids,94,General
+2025-09-09,IV Fluids,106,Emergency
+2025-09-09,IV Fluids,82,ICU
+2025-09-10,Paracetamol,94,General
+2025-09-10,Paracetamol,75,Emergency
+2025-09-10,Paracetamol,40,ICU
+2025-09-10,Amoxicillin,20,General
+2025-09-10,Amoxicillin,93,Emergency
+2025-09-10,Amoxicillin,27,ICU
+2025-09-10,Insulin,56,General
+2025-09-10,Insulin,24,Emergency
+2025-09-10,Insulin,80,ICU
+2025-09-10,Antibiotics,79,General
+2025-09-10,Antibiotics,65,Emergency
+2025-09-10,Antibiotics,51,ICU
+2025-09-10,IV Fluids,16,General
+2025-09-10,IV Fluids,106,Emergency
+2025-09-10,IV Fluids,21,ICU
+2025-09-11,Paracetamol,60,General
+2025-09-11,Paracetamol,76,Emergency
+2025-09-11,Paracetamol,87,ICU
+2025-09-11,Amoxicillin,62,General
+2025-09-11,Amoxicillin,52,Emergency
+2025-09-11,Amoxicillin,71,ICU
+2025-09-11,Insulin,43,General
+2025-09-11,Insulin,20,Emergency
+2025-09-11,Insulin,35,ICU
+2025-09-11,Antibiotics,87,General
+2025-09-11,Antibiotics,47,Emergency
+2025-09-11,Antibiotics,104,ICU
+2025-09-11,IV Fluids,54,General
+2025-09-11,IV Fluids,140,Emergency
+2025-09-11,IV Fluids,107,ICU
+2025-09-12,Paracetamol,91,General
+2025-09-12,Paracetamol,56,Emergency
+2025-09-12,Paracetamol,77,ICU
+2025-09-12,Amoxicillin,16,General
+2025-09-12,Amoxicillin,44,Emergency
+2025-09-12,Amoxicillin,63,ICU
+2025-09-12,Insulin,26,General
+2025-09-12,Insulin,68,Emergency
+2025-09-12,Insulin,49,ICU
+2025-09-12,Antibiotics,29,General
+2025-09-12,Antibiotics,89,Emergency
+2025-09-12,Antibiotics,82,ICU
+2025-09-12,IV Fluids,70,General
+2025-09-12,IV Fluids,75,Emergency
+2025-09-12,IV Fluids,30,ICU
+2025-09-13,Paracetamol,94,General
+2025-09-13,Paracetamol,38,Emergency
+2025-09-13,Paracetamol,78,ICU
+2025-09-13,Amoxicillin,79,General
+2025-09-13,Amoxicillin,100,Emergency
+2025-09-13,Amoxicillin,93,ICU
+2025-09-13,Insulin,35,General
+2025-09-13,Insulin,26,Emergency
+2025-09-13,Insulin,72,ICU
+2025-09-13,Antibiotics,34,General
+2025-09-13,Antibiotics,97,Emergency
+2025-09-13,Antibiotics,47,ICU
+2025-09-13,IV Fluids,110,General
+2025-09-13,IV Fluids,72,Emergency
+2025-09-13,IV Fluids,86,ICU
+2025-09-14,Paracetamol,104,General
+2025-09-14,Paracetamol,38,Emergency
+2025-09-14,Paracetamol,27,ICU
+2025-09-14,Amoxicillin,12,General
+2025-09-14,Amoxicillin,53,Emergency
+2025-09-14,Amoxicillin,83,ICU
+2025-09-14,Insulin,94,General
+2025-09-14,Insulin,15,Emergency
+2025-09-14,Insulin,95,ICU
+2025-09-14,Antibiotics,42,General
+2025-09-14,Antibiotics,39,Emergency
+2025-09-14,Antibiotics,51,ICU
+2025-09-14,IV Fluids,71,General
+2025-09-14,IV Fluids,87,Emergency
+2025-09-14,IV Fluids,81,ICU
+2025-09-15,Paracetamol,71,General
+2025-09-15,Paracetamol,49,Emergency
+2025-09-15,Paracetamol,23,ICU
+2025-09-15,Amoxicillin,60,General
+2025-09-15,Amoxicillin,87,Emergency
+2025-09-15,Amoxicillin,25,ICU
+2025-09-15,Insulin,44,General
+2025-09-15,Insulin,54,Emergency
+2025-09-15,Insulin,67,ICU
+2025-09-15,Antibiotics,69,General
+2025-09-15,Antibiotics,109,Emergency
+2025-09-15,Antibiotics,10,ICU
+2025-09-15,IV Fluids,43,General
+2025-09-15,IV Fluids,64,Emergency
+2025-09-15,IV Fluids,49,ICU
+2025-09-16,Paracetamol,32,General
+2025-09-16,Paracetamol,23,Emergency
+2025-09-16,Paracetamol,36,ICU
+2025-09-16,Amoxicillin,48,General
+2025-09-16,Amoxicillin,21,Emergency
+2025-09-16,Amoxicillin,59,ICU
+2025-09-16,Insulin,81,General
+2025-09-16,Insulin,28,Emergency
+2025-09-16,Insulin,86,ICU
+2025-09-16,Antibiotics,56,General
+2025-09-16,Antibiotics,41,Emergency
+2025-09-16,Antibiotics,94,ICU
+2025-09-16,IV Fluids,34,General
+2025-09-16,IV Fluids,132,Emergency
+2025-09-16,IV Fluids,32,ICU
+2025-09-17,Paracetamol,70,General
+2025-09-17,Paracetamol,99,Emergency
+2025-09-17,Paracetamol,22,ICU
+2025-09-17,Amoxicillin,85,General
+2025-09-17,Amoxicillin,68,Emergency
+2025-09-17,Amoxicillin,101,ICU
+2025-09-17,Insulin,85,General
+2025-09-17,Insulin,71,Emergency
+2025-09-17,Insulin,102,ICU
+2025-09-17,Antibiotics,30,General
+2025-09-17,Antibiotics,54,Emergency
+2025-09-17,Antibiotics,29,ICU
+2025-09-17,IV Fluids,26,General
+2025-09-17,IV Fluids,107,Emergency
+2025-09-17,IV Fluids,20,ICU
+2025-09-18,Paracetamol,67,General
+2025-09-18,Paracetamol,105,Emergency
+2025-09-18,Paracetamol,50,ICU
+2025-09-18,Amoxicillin,21,General
+2025-09-18,Amoxicillin,76,Emergency
+2025-09-18,Amoxicillin,56,ICU
+2025-09-18,Insulin,52,General
+2025-09-18,Insulin,63,Emergency
+2025-09-18,Insulin,83,ICU
+2025-09-18,Antibiotics,53,General
+2025-09-18,Antibiotics,67,Emergency
+2025-09-18,Antibiotics,19,ICU
+2025-09-18,IV Fluids,73,General
+2025-09-18,IV Fluids,133,Emergency
+2025-09-18,IV Fluids,73,ICU
+2025-09-19,Paracetamol,63,General
+2025-09-19,Paracetamol,85,Emergency
+2025-09-19,Paracetamol,90,ICU
+2025-09-19,Amoxicillin,22,General
+2025-09-19,Amoxicillin,50,Emergency
+2025-09-19,Amoxicillin,36,ICU
+2025-09-19,Insulin,90,General
+2025-09-19,Insulin,79,Emergency
+2025-09-19,Insulin,111,ICU
+2025-09-19,Antibiotics,36,General
+2025-09-19,Antibiotics,64,Emergency
+2025-09-19,Antibiotics,48,ICU
+2025-09-19,IV Fluids,39,General
+2025-09-19,IV Fluids,106,Emergency
+2025-09-19,IV Fluids,78,ICU
+2025-09-20,Paracetamol,64,General
+2025-09-20,Paracetamol,57,Emergency
+2025-09-20,Paracetamol,62,ICU
+2025-09-20,Amoxicillin,89,General
+2025-09-20,Amoxicillin,54,Emergency
+2025-09-20,Amoxicillin,77,ICU
+2025-09-20,Insulin,47,General
+2025-09-20,Insulin,44,Emergency
+2025-09-20,Insulin,14,ICU
+2025-09-20,Antibiotics,25,General
+2025-09-20,Antibiotics,99,Emergency
+2025-09-20,Antibiotics,62,ICU
+2025-09-20,IV Fluids,65,General
+2025-09-20,IV Fluids,148,Emergency
+2025-09-20,IV Fluids,85,ICU
+2025-09-21,Paracetamol,64,General
+2025-09-21,Paracetamol,25,Emergency
+2025-09-21,Paracetamol,34,ICU
+2025-09-21,Amoxicillin,84,General
+2025-09-21,Amoxicillin,62,Emergency
+2025-09-21,Amoxicillin,60,ICU
+2025-09-21,Insulin,100,General
+2025-09-21,Insulin,25,Emergency
+2025-09-21,Insulin,76,ICU
+2025-09-21,Antibiotics,39,General
+2025-09-21,Antibiotics,17,Emergency
+2025-09-21,Antibiotics,105,ICU
+2025-09-21,IV Fluids,50,General
+2025-09-21,IV Fluids,86,Emergency
+2025-09-21,IV Fluids,83,ICU
+2025-09-22,Paracetamol,12,General
+2025-09-22,Paracetamol,7,Emergency
+2025-09-22,Paracetamol,111,ICU
+2025-09-22,Amoxicillin,28,General
+2025-09-22,Amoxicillin,95,Emergency
+2025-09-22,Amoxicillin,66,ICU
+2025-09-22,Insulin,101,General
+2025-09-22,Insulin,91,Emergency
+2025-09-22,Insulin,46,ICU
+2025-09-22,Antibiotics,103,General
+2025-09-22,Antibiotics,54,Emergency
+2025-09-22,Antibiotics,36,ICU
+2025-09-22,IV Fluids,56,General
+2025-09-22,IV Fluids,154,Emergency
+2025-09-22,IV Fluids,20,ICU
+2025-09-23,Paracetamol,100,General
+2025-09-23,Paracetamol,85,Emergency
+2025-09-23,Paracetamol,109,ICU
+2025-09-23,Amoxicillin,77,General
+2025-09-23,Amoxicillin,64,Emergency
+2025-09-23,Amoxicillin,27,ICU
+2025-09-23,Insulin,57,General
+2025-09-23,Insulin,58,Emergency
+2025-09-23,Insulin,72,ICU
+2025-09-23,Antibiotics,48,General
+2025-09-23,Antibiotics,89,Emergency
+2025-09-23,Antibiotics,55,ICU
+2025-09-23,IV Fluids,38,General
+2025-09-23,IV Fluids,86,Emergency
+2025-09-23,IV Fluids,12,ICU
+2025-09-24,Paracetamol,33,General
+2025-09-24,Paracetamol,14,Emergency
+2025-09-24,Paracetamol,64,ICU
+2025-09-24,Amoxicillin,19,General
+2025-09-24,Amoxicillin,95,Emergency
+2025-09-24,Amoxicillin,14,ICU
+2025-09-24,Insulin,70,General
+2025-09-24,Insulin,86,Emergency
+2025-09-24,Insulin,103,ICU
+2025-09-24,Antibiotics,63,General
+2025-09-24,Antibiotics,87,Emergency
+2025-09-24,Antibiotics,11,ICU
+2025-09-24,IV Fluids,13,General
+2025-09-24,IV Fluids,111,Emergency
+2025-09-24,IV Fluids,40,ICU
+2025-09-25,Paracetamol,107,General
+2025-09-25,Paracetamol,15,Emergency
+2025-09-25,Paracetamol,85,ICU
+2025-09-25,Amoxicillin,96,General
+2025-09-25,Amoxicillin,23,Emergency
+2025-09-25,Amoxicillin,72,ICU
+2025-09-25,Insulin,34,General
+2025-09-25,Insulin,63,Emergency
+2025-09-25,Insulin,38,ICU
+2025-09-25,Antibiotics,50,General
+2025-09-25,Antibiotics,105,Emergency
+2025-09-25,Antibiotics,33,ICU
+2025-09-25,IV Fluids,55,General
+2025-09-25,IV Fluids,95,Emergency
+2025-09-25,IV Fluids,94,ICU
+2025-09-26,Paracetamol,80,General
+2025-09-26,Paracetamol,33,Emergency
+2025-09-26,Paracetamol,57,ICU
+2025-09-26,Amoxicillin,16,General
+2025-09-26,Amoxicillin,76,Emergency
+2025-09-26,Amoxicillin,73,ICU
+2025-09-26,Insulin,55,General
+2025-09-26,Insulin,91,Emergency
+2025-09-26,Insulin,28,ICU
+2025-09-26,Antibiotics,32,General
+2025-09-26,Antibiotics,56,Emergency
+2025-09-26,Antibiotics,84,ICU
+2025-09-26,IV Fluids,12,General
+2025-09-26,IV Fluids,136,Emergency
+2025-09-26,IV Fluids,88,ICU
+2025-09-27,Paracetamol,65,General
+2025-09-27,Paracetamol,63,Emergency
+2025-09-27,Paracetamol,89,ICU
+2025-09-27,Amoxicillin,97,General
+2025-09-27,Amoxicillin,58,Emergency
+2025-09-27,Amoxicillin,35,ICU
+2025-09-27,Insulin,31,General
+2025-09-27,Insulin,92,Emergency
+2025-09-27,Insulin,24,ICU
+2025-09-27,Antibiotics,33,General
+2025-09-27,Antibiotics,82,Emergency
+2025-09-27,Antibiotics,20,ICU
+2025-09-27,IV Fluids,109,General
+2025-09-27,IV Fluids,88,Emergency
+2025-09-27,IV Fluids,33,ICU
+2025-09-28,Paracetamol,18,General
+2025-09-28,Paracetamol,19,Emergency
+2025-09-28,Paracetamol,94,ICU
+2025-09-28,Amoxicillin,33,General
+2025-09-28,Amoxicillin,16,Emergency
+2025-09-28,Amoxicillin,26,ICU
+2025-09-28,Insulin,37,General
+2025-09-28,Insulin,74,Emergency
+2025-09-28,Insulin,14,ICU
+2025-09-28,Antibiotics,90,General
+2025-09-28,Antibiotics,20,Emergency
+2025-09-28,Antibiotics,80,ICU
+2025-09-28,IV Fluids,31,General
+2025-09-28,IV Fluids,110,Emergency
+2025-09-28,IV Fluids,61,ICU
+2025-09-29,Paracetamol,46,General
+2025-09-29,Paracetamol,31,Emergency
+2025-09-29,Paracetamol,24,ICU
+2025-09-29,Amoxicillin,36,General
+2025-09-29,Amoxicillin,53,Emergency
+2025-09-29,Amoxicillin,11,ICU
+2025-09-29,Insulin,67,General
+2025-09-29,Insulin,96,Emergency
+2025-09-29,Insulin,45,ICU
+2025-09-29,Antibiotics,57,General
+2025-09-29,Antibiotics,98,Emergency
+2025-09-29,Antibiotics,99,ICU
+2025-09-29,IV Fluids,13,General
+2025-09-29,IV Fluids,110,Emergency
+2025-09-29,IV Fluids,51,ICU
+2025-09-30,Paracetamol,37,General
+2025-09-30,Paracetamol,24,Emergency
+2025-09-30,Paracetamol,34,ICU
+2025-09-30,Amoxicillin,52,General
+2025-09-30,Amoxicillin,94,Emergency
+2025-09-30,Amoxicillin,28,ICU
+2025-09-30,Insulin,29,General
+2025-09-30,Insulin,85,Emergency
+2025-09-30,Insulin,19,ICU
+2025-09-30,Antibiotics,45,General
+2025-09-30,Antibiotics,18,Emergency
+2025-09-30,Antibiotics,81,ICU
+2025-09-30,IV Fluids,64,General
+2025-09-30,IV Fluids,58,Emergency
+2025-09-30,IV Fluids,68,ICU
+2025-10-01,Paracetamol,48,General
+2025-10-01,Paracetamol,85,Emergency
+2025-10-01,Paracetamol,11,ICU
+2025-10-01,Amoxicillin,46,General
+2025-10-01,Amoxicillin,41,Emergency
+2025-10-01,Amoxicillin,87,ICU
+2025-10-01,Insulin,44,General
+2025-10-01,Insulin,96,Emergency
+2025-10-01,Insulin,98,ICU
+2025-10-01,Antibiotics,74,General
+2025-10-01,Antibiotics,28,Emergency
+2025-10-01,Antibiotics,51,ICU
+2025-10-01,IV Fluids,5,General
+2025-10-01,IV Fluids,66,Emergency
+2025-10-01,IV Fluids,23,ICU
+2025-10-02,Paracetamol,20,General
+2025-10-02,Paracetamol,34,Emergency
+2025-10-02,Paracetamol,60,ICU
+2025-10-02,Amoxicillin,29,General
+2025-10-02,Amoxicillin,100,Emergency
+2025-10-02,Amoxicillin,58,ICU
+2025-10-02,Insulin,56,General
+2025-10-02,Insulin,100,Emergency
+2025-10-02,Insulin,41,ICU
+2025-10-02,Antibiotics,33,General
+2025-10-02,Antibiotics,60,Emergency
+2025-10-02,Antibiotics,39,ICU
+2025-10-02,IV Fluids,95,General
+2025-10-02,IV Fluids,128,Emergency
+2025-10-02,IV Fluids,12,ICU
+2025-10-03,Paracetamol,26,General
+2025-10-03,Paracetamol,28,Emergency
+2025-10-03,Paracetamol,86,ICU
+2025-10-03,Amoxicillin,45,General
+2025-10-03,Amoxicillin,31,Emergency
+2025-10-03,Amoxicillin,33,ICU
+2025-10-03,Insulin,76,General
+2025-10-03,Insulin,15,Emergency
+2025-10-03,Insulin,52,ICU
+2025-10-03,Antibiotics,48,General
+2025-10-03,Antibiotics,82,Emergency
+2025-10-03,Antibiotics,68,ICU
+2025-10-03,IV Fluids,75,General
+2025-10-03,IV Fluids,112,Emergency
+2025-10-03,IV Fluids,13,ICU
+2025-10-04,Paracetamol,47,General
+2025-10-04,Paracetamol,99,Emergency
+2025-10-04,Paracetamol,49,ICU
+2025-10-04,Amoxicillin,7,General
+2025-10-04,Amoxicillin,59,Emergency
+2025-10-04,Amoxicillin,17,ICU
+2025-10-04,Insulin,15,General
+2025-10-04,Insulin,81,Emergency
+2025-10-04,Insulin,28,ICU
+2025-10-04,Antibiotics,29,General
+2025-10-04,Antibiotics,20,Emergency
+2025-10-04,Antibiotics,111,ICU
+2025-10-04,IV Fluids,36,General
+2025-10-04,IV Fluids,118,Emergency
+2025-10-04,IV Fluids,16,ICU
+2025-10-05,Paracetamol,54,General
+2025-10-05,Paracetamol,42,Emergency
+2025-10-05,Paracetamol,16,ICU
+2025-10-05,Amoxicillin,26,General
+2025-10-05,Amoxicillin,27,Emergency
+2025-10-05,Amoxicillin,62,ICU
+2025-10-05,Insulin,96,General
+2025-10-05,Insulin,52,Emergency
+2025-10-05,Insulin,62,ICU
+2025-10-05,Antibiotics,62,General
+2025-10-05,Antibiotics,86,Emergency
+2025-10-05,Antibiotics,30,ICU
+2025-10-05,IV Fluids,66,General
+2025-10-05,IV Fluids,143,Emergency
+2025-10-05,IV Fluids,69,ICU
+2025-10-06,Paracetamol,91,General
+2025-10-06,Paracetamol,42,Emergency
+2025-10-06,Paracetamol,65,ICU
+2025-10-06,Amoxicillin,37,General
+2025-10-06,Amoxicillin,58,Emergency
+2025-10-06,Amoxicillin,90,ICU
+2025-10-06,Insulin,51,General
+2025-10-06,Insulin,55,Emergency
+2025-10-06,Insulin,37,ICU
+2025-10-06,Antibiotics,79,General
+2025-10-06,Antibiotics,70,Emergency
+2025-10-06,Antibiotics,54,ICU
+2025-10-06,IV Fluids,63,General
+2025-10-06,IV Fluids,127,Emergency
+2025-10-06,IV Fluids,77,ICU
+2025-10-07,Paracetamol,87,General
+2025-10-07,Paracetamol,26,Emergency
+2025-10-07,Paracetamol,73,ICU
+2025-10-07,Amoxicillin,72,General
+2025-10-07,Amoxicillin,83,Emergency
+2025-10-07,Amoxicillin,20,ICU
+2025-10-07,Insulin,76,General
+2025-10-07,Insulin,83,Emergency
+2025-10-07,Insulin,92,ICU
+2025-10-07,Antibiotics,60,General
+2025-10-07,Antibiotics,78,Emergency
+2025-10-07,Antibiotics,106,ICU
+2025-10-07,IV Fluids,104,General
+2025-10-07,IV Fluids,93,Emergency
+2025-10-07,IV Fluids,16,ICU
+2025-10-08,Paracetamol,35,General
+2025-10-08,Paracetamol,52,Emergency
+2025-10-08,Paracetamol,61,ICU
+2025-10-08,Amoxicillin,24,General
+2025-10-08,Amoxicillin,72,Emergency
+2025-10-08,Amoxicillin,48,ICU
+2025-10-08,Insulin,74,General
+2025-10-08,Insulin,80,Emergency
+2025-10-08,Insulin,30,ICU
+2025-10-08,Antibiotics,80,General
+2025-10-08,Antibiotics,33,Emergency
+2025-10-08,Antibiotics,93,ICU
+2025-10-08,IV Fluids,74,General
+2025-10-08,IV Fluids,151,Emergency
+2025-10-08,IV Fluids,60,ICU
+2025-10-09,Paracetamol,36,General
+2025-10-09,Paracetamol,17,Emergency
+2025-10-09,Paracetamol,28,ICU
+2025-10-09,Amoxicillin,101,General
+2025-10-09,Amoxicillin,94,Emergency
+2025-10-09,Amoxicillin,76,ICU
+2025-10-09,Insulin,79,General
+2025-10-09,Insulin,53,Emergency
+2025-10-09,Insulin,25,ICU
+2025-10-09,Antibiotics,66,General
+2025-10-09,Antibiotics,28,Emergency
+2025-10-09,Antibiotics,63,ICU
+2025-10-09,IV Fluids,65,General
+2025-10-09,IV Fluids,101,Emergency
+2025-10-09,IV Fluids,77,ICU
+2025-10-10,Paracetamol,90,General
+2025-10-10,Paracetamol,89,Emergency
+2025-10-10,Paracetamol,91,ICU
+2025-10-10,Amoxicillin,45,General
+2025-10-10,Amoxicillin,51,Emergency
+2025-10-10,Amoxicillin,57,ICU
+2025-10-10,Insulin,13,General
+2025-10-10,Insulin,63,Emergency
+2025-10-10,Insulin,60,ICU
+2025-10-10,Antibiotics,27,General
+2025-10-10,Antibiotics,56,Emergency
+2025-10-10,Antibiotics,32,ICU
+2025-10-10,IV Fluids,30,General
+2025-10-10,IV Fluids,105,Emergency
+2025-10-10,IV Fluids,35,ICU
+2025-10-11,Paracetamol,69,General
+2025-10-11,Paracetamol,28,Emergency
+2025-10-11,Paracetamol,59,ICU
+2025-10-11,Amoxicillin,67,General
+2025-10-11,Amoxicillin,38,Emergency
+2025-10-11,Amoxicillin,55,ICU
+2025-10-11,Insulin,109,General
+2025-10-11,Insulin,74,Emergency
+2025-10-11,Insulin,91,ICU
+2025-10-11,Antibiotics,45,General
+2025-10-11,Antibiotics,103,Emergency
+2025-10-11,Antibiotics,98,ICU
+2025-10-11,IV Fluids,83,General
+2025-10-11,IV Fluids,121,Emergency
+2025-10-11,IV Fluids,89,ICU
+2025-10-12,Paracetamol,95,General
+2025-10-12,Paracetamol,30,Emergency
+2025-10-12,Paracetamol,95,ICU
+2025-10-12,Amoxicillin,110,General
+2025-10-12,Amoxicillin,88,Emergency
+2025-10-12,Amoxicillin,48,ICU
+2025-10-12,Insulin,43,General
+2025-10-12,Insulin,89,Emergency
+2025-10-12,Insulin,82,ICU
+2025-10-12,Antibiotics,61,General
+2025-10-12,Antibiotics,79,Emergency
+2025-10-12,Antibiotics,63,ICU
+2025-10-12,IV Fluids,63,General
+2025-10-12,IV Fluids,69,Emergency
+2025-10-12,IV Fluids,31,ICU
+2025-10-13,Paracetamol,91,General
+2025-10-13,Paracetamol,71,Emergency
+2025-10-13,Paracetamol,85,ICU
+2025-10-13,Amoxicillin,72,General
+2025-10-13,Amoxicillin,37,Emergency
+2025-10-13,Amoxicillin,101,ICU
+2025-10-13,Insulin,27,General
+2025-10-13,Insulin,25,Emergency
+2025-10-13,Insulin,25,ICU
+2025-10-13,Antibiotics,31,General
+2025-10-13,Antibiotics,50,Emergency
+2025-10-13,Antibiotics,86,ICU
+2025-10-13,IV Fluids,88,General
+2025-10-13,IV Fluids,134,Emergency
+2025-10-13,IV Fluids,68,ICU
+2025-10-14,Paracetamol,99,General
+2025-10-14,Paracetamol,101,Emergency
+2025-10-14,Paracetamol,41,ICU
+2025-10-14,Amoxicillin,81,General
+2025-10-14,Amoxicillin,49,Emergency
+2025-10-14,Amoxicillin,109,ICU
+2025-10-14,Insulin,91,General
+2025-10-14,Insulin,75,Emergency
+2025-10-14,Insulin,46,ICU
+2025-10-14,Antibiotics,35,General
+2025-10-14,Antibiotics,90,Emergency
+2025-10-14,Antibiotics,103,ICU
+2025-10-14,IV Fluids,87,General
+2025-10-14,IV Fluids,73,Emergency
+2025-10-14,IV Fluids,74,ICU
+2025-10-15,Paracetamol,68,General
+2025-10-15,Paracetamol,48,Emergency
+2025-10-15,Paracetamol,34,ICU
+2025-10-15,Amoxicillin,22,General
+2025-10-15,Amoxicillin,12,Emergency
+2025-10-15,Amoxicillin,66,ICU
+2025-10-15,Insulin,62,General
+2025-10-15,Insulin,58,Emergency
+2025-10-15,Insulin,87,ICU
+2025-10-15,Antibiotics,96,General
+2025-10-15,Antibiotics,87,Emergency
+2025-10-15,Antibiotics,31,ICU
+2025-10-15,IV Fluids,80,General
+2025-10-15,IV Fluids,106,Emergency
+2025-10-15,IV Fluids,12,ICU
+2025-10-16,Paracetamol,23,General
+2025-10-16,Paracetamol,66,Emergency
+2025-10-16,Paracetamol,84,ICU
+2025-10-16,Amoxicillin,82,General
+2025-10-16,Amoxicillin,72,Emergency
+2025-10-16,Amoxicillin,47,ICU
+2025-10-16,Insulin,41,General
+2025-10-16,Insulin,36,Emergency
+2025-10-16,Insulin,48,ICU
+2025-10-16,Antibiotics,37,General
+2025-10-16,Antibiotics,63,Emergency
+2025-10-16,Antibiotics,89,ICU
+2025-10-16,IV Fluids,69,General
+2025-10-16,IV Fluids,74,Emergency
+2025-10-16,IV Fluids,41,ICU
+2025-10-17,Paracetamol,73,General
+2025-10-17,Paracetamol,91,Emergency
+2025-10-17,Paracetamol,94,ICU
+2025-10-17,Amoxicillin,19,General
+2025-10-17,Amoxicillin,71,Emergency
+2025-10-17,Amoxicillin,91,ICU
+2025-10-17,Insulin,33,General
+2025-10-17,Insulin,75,Emergency
+2025-10-17,Insulin,51,ICU
+2025-10-17,Antibiotics,62,General
+2025-10-17,Antibiotics,82,Emergency
+2025-10-17,Antibiotics,36,ICU
+2025-10-17,IV Fluids,34,General
+2025-10-17,IV Fluids,74,Emergency
+2025-10-17,IV Fluids,59,ICU
+2025-10-18,Paracetamol,24,General
+2025-10-18,Paracetamol,48,Emergency
+2025-10-18,Paracetamol,28,ICU
+2025-10-18,Amoxicillin,37,General
+2025-10-18,Amoxicillin,90,Emergency
+2025-10-18,Amoxicillin,30,ICU
+2025-10-18,Insulin,69,General
+2025-10-18,Insulin,72,Emergency
+2025-10-18,Insulin,55,ICU
+2025-10-18,Antibiotics,44,General
+2025-10-18,Antibiotics,55,Emergency
+2025-10-18,Antibiotics,30,ICU
+2025-10-18,IV Fluids,75,General
+2025-10-18,IV Fluids,135,Emergency
+2025-10-18,IV Fluids,63,ICU
+2025-10-19,Paracetamol,62,General
+2025-10-19,Paracetamol,69,Emergency
+2025-10-19,Paracetamol,46,ICU
+2025-10-19,Amoxicillin,52,General
+2025-10-19,Amoxicillin,12,Emergency
+2025-10-19,Amoxicillin,72,ICU
+2025-10-19,Insulin,113,General
+2025-10-19,Insulin,84,Emergency
+2025-10-19,Insulin,55,ICU
+2025-10-19,Antibiotics,70,General
+2025-10-19,Antibiotics,94,Emergency
+2025-10-19,Antibiotics,33,ICU
+2025-10-19,IV Fluids,97,General
+2025-10-19,IV Fluids,150,Emergency
+2025-10-19,IV Fluids,75,ICU
+2025-10-20,Paracetamol,83,General
+2025-10-20,Paracetamol,32,Emergency
+2025-10-20,Paracetamol,103,ICU
+2025-10-20,Amoxicillin,46,General
+2025-10-20,Amoxicillin,95,Emergency
+2025-10-20,Amoxicillin,24,ICU
+2025-10-20,Insulin,36,General
+2025-10-20,Insulin,63,Emergency
+2025-10-20,Insulin,48,ICU
+2025-10-20,Antibiotics,52,General
+2025-10-20,Antibiotics,51,Emergency
+2025-10-20,Antibiotics,110,ICU
+2025-10-20,IV Fluids,23,General
+2025-10-20,IV Fluids,128,Emergency
+2025-10-20,IV Fluids,56,ICU
+2025-10-21,Paracetamol,51,General
+2025-10-21,Paracetamol,56,Emergency
+2025-10-21,Paracetamol,96,ICU
+2025-10-21,Amoxicillin,59,General
+2025-10-21,Amoxicillin,59,Emergency
+2025-10-21,Amoxicillin,62,ICU
+2025-10-21,Insulin,66,General
+2025-10-21,Insulin,92,Emergency
+2025-10-21,Insulin,63,ICU
+2025-10-21,Antibiotics,17,General
+2025-10-21,Antibiotics,72,Emergency
+2025-10-21,Antibiotics,44,ICU
+2025-10-21,IV Fluids,12,General
+2025-10-21,IV Fluids,71,Emergency
+2025-10-21,IV Fluids,113,ICU
+2025-10-22,Paracetamol,90,General
+2025-10-22,Paracetamol,26,Emergency
+2025-10-22,Paracetamol,16,ICU
+2025-10-22,Amoxicillin,49,General
+2025-10-22,Amoxicillin,17,Emergency
+2025-10-22,Amoxicillin,88,ICU
+2025-10-22,Insulin,29,General
+2025-10-22,Insulin,72,Emergency
+2025-10-22,Insulin,30,ICU
+2025-10-22,Antibiotics,27,General
+2025-10-22,Antibiotics,18,Emergency
+2025-10-22,Antibiotics,97,ICU
+2025-10-22,IV Fluids,83,General
+2025-10-22,IV Fluids,145,Emergency
+2025-10-22,IV Fluids,54,ICU
+2025-10-23,Paracetamol,21,General
+2025-10-23,Paracetamol,43,Emergency
+2025-10-23,Paracetamol,89,ICU
+2025-10-23,Amoxicillin,57,General
+2025-10-23,Amoxicillin,53,Emergency
+2025-10-23,Amoxicillin,33,ICU
+2025-10-23,Insulin,96,General
+2025-10-23,Insulin,83,Emergency
+2025-10-23,Insulin,102,ICU
+2025-10-23,Antibiotics,102,General
+2025-10-23,Antibiotics,96,Emergency
+2025-10-23,Antibiotics,33,ICU
+2025-10-23,IV Fluids,104,General
+2025-10-23,IV Fluids,152,Emergency
+2025-10-23,IV Fluids,34,ICU
+2025-10-24,Paracetamol,61,General
+2025-10-24,Paracetamol,99,Emergency
+2025-10-24,Paracetamol,31,ICU
+2025-10-24,Amoxicillin,57,General
+2025-10-24,Amoxicillin,78,Emergency
+2025-10-24,Amoxicillin,61,ICU
+2025-10-24,Insulin,79,General
+2025-10-24,Insulin,81,Emergency
+2025-10-24,Insulin,32,ICU
+2025-10-24,Antibiotics,30,General
+2025-10-24,Antibiotics,108,Emergency
+2025-10-24,Antibiotics,91,ICU
+2025-10-24,IV Fluids,21,General
+2025-10-24,IV Fluids,162,Emergency
+2025-10-24,IV Fluids,96,ICU
+2025-10-25,Paracetamol,45,General
+2025-10-25,Paracetamol,60,Emergency
+2025-10-25,Paracetamol,39,ICU
+2025-10-25,Amoxicillin,64,General
+2025-10-25,Amoxicillin,52,Emergency
+2025-10-25,Amoxicillin,68,ICU
+2025-10-25,Insulin,99,General
+2025-10-25,Insulin,73,Emergency
+2025-10-25,Insulin,91,ICU
+2025-10-25,Antibiotics,28,General
+2025-10-25,Antibiotics,41,Emergency
+2025-10-25,Antibiotics,32,ICU
+2025-10-25,IV Fluids,92,General
+2025-10-25,IV Fluids,153,Emergency
+2025-10-25,IV Fluids,101,ICU
+2025-10-26,Paracetamol,60,General
+2025-10-26,Paracetamol,19,Emergency
+2025-10-26,Paracetamol,67,ICU
+2025-10-26,Amoxicillin,39,General
+2025-10-26,Amoxicillin,33,Emergency
+2025-10-26,Amoxicillin,74,ICU
+2025-10-26,Insulin,99,General
+2025-10-26,Insulin,97,Emergency
+2025-10-26,Insulin,30,ICU
+2025-10-26,Antibiotics,29,General
+2025-10-26,Antibiotics,97,Emergency
+2025-10-26,Antibiotics,26,ICU
+2025-10-26,IV Fluids,39,General
+2025-10-26,IV Fluids,87,Emergency
+2025-10-26,IV Fluids,14,ICU
+2025-10-27,Paracetamol,69,General
+2025-10-27,Paracetamol,46,Emergency
+2025-10-27,Paracetamol,85,ICU
+2025-10-27,Amoxicillin,100,General
+2025-10-27,Amoxicillin,50,Emergency
+2025-10-27,Amoxicillin,50,ICU
+2025-10-27,Insulin,46,General
+2025-10-27,Insulin,55,Emergency
+2025-10-27,Insulin,40,ICU
+2025-10-27,Antibiotics,50,General
+2025-10-27,Antibiotics,40,Emergency
+2025-10-27,Antibiotics,33,ICU
+2025-10-27,IV Fluids,95,General
+2025-10-27,IV Fluids,83,Emergency
+2025-10-27,IV Fluids,102,ICU
+2025-10-28,Paracetamol,65,General
+2025-10-28,Paracetamol,85,Emergency
+2025-10-28,Paracetamol,14,ICU
+2025-10-28,Amoxicillin,32,General
+2025-10-28,Amoxicillin,19,Emergency
+2025-10-28,Amoxicillin,39,ICU
+2025-10-28,Insulin,66,General
+2025-10-28,Insulin,77,Emergency
+2025-10-28,Insulin,60,ICU
+2025-10-28,Antibiotics,39,General
+2025-10-28,Antibiotics,19,Emergency
+2025-10-28,Antibiotics,63,ICU
+2025-10-28,IV Fluids,31,General
+2025-10-28,IV Fluids,138,Emergency
+2025-10-28,IV Fluids,59,ICU
+2025-10-29,Paracetamol,89,General
+2025-10-29,Paracetamol,41,Emergency
+2025-10-29,Paracetamol,76,ICU
+2025-10-29,Amoxicillin,22,General
+2025-10-29,Amoxicillin,73,Emergency
+2025-10-29,Amoxicillin,28,ICU
+2025-10-29,Insulin,81,General
+2025-10-29,Insulin,103,Emergency
+2025-10-29,Insulin,90,ICU
+2025-10-29,Antibiotics,73,General
+2025-10-29,Antibiotics,61,Emergency
+2025-10-29,Antibiotics,66,ICU
+2025-10-29,IV Fluids,26,General
+2025-10-29,IV Fluids,101,Emergency
+2025-10-29,IV Fluids,76,ICU
+2025-10-30,Paracetamol,37,General
+2025-10-30,Paracetamol,90,Emergency
+2025-10-30,Paracetamol,84,ICU
+2025-10-30,Amoxicillin,79,General
+2025-10-30,Amoxicillin,93,Emergency
+2025-10-30,Amoxicillin,44,ICU
+2025-10-30,Insulin,33,General
+2025-10-30,Insulin,84,Emergency
+2025-10-30,Insulin,24,ICU
+2025-10-30,Antibiotics,37,General
+2025-10-30,Antibiotics,61,Emergency
+2025-10-30,Antibiotics,85,ICU
+2025-10-30,IV Fluids,19,General
+2025-10-30,IV Fluids,85,Emergency
+2025-10-30,IV Fluids,75,ICU
+2025-10-31,Paracetamol,24,General
+2025-10-31,Paracetamol,51,Emergency
+2025-10-31,Paracetamol,88,ICU
+2025-10-31,Amoxicillin,58,General
+2025-10-31,Amoxicillin,82,Emergency
+2025-10-31,Amoxicillin,79,ICU
+2025-10-31,Insulin,72,General
+2025-10-31,Insulin,17,Emergency
+2025-10-31,Insulin,63,ICU
+2025-10-31,Antibiotics,40,General
+2025-10-31,Antibiotics,75,Emergency
+2025-10-31,Antibiotics,26,ICU
+2025-10-31,IV Fluids,29,General
+2025-10-31,IV Fluids,89,Emergency
+2025-10-31,IV Fluids,35,ICU
+2025-11-01,Paracetamol,96,General
+2025-11-01,Paracetamol,31,Emergency
+2025-11-01,Paracetamol,100,ICU
+2025-11-01,Amoxicillin,73,General
+2025-11-01,Amoxicillin,43,Emergency
+2025-11-01,Amoxicillin,74,ICU
+2025-11-01,Insulin,36,General
+2025-11-01,Insulin,72,Emergency
+2025-11-01,Insulin,113,ICU
+2025-11-01,Antibiotics,85,General
+2025-11-01,Antibiotics,68,Emergency
+2025-11-01,Antibiotics,76,ICU
+2025-11-01,IV Fluids,11,General
+2025-11-01,IV Fluids,141,Emergency
+2025-11-01,IV Fluids,59,ICU
+2025-11-02,Paracetamol,46,General
+2025-11-02,Paracetamol,30,Emergency
+2025-11-02,Paracetamol,89,ICU
+2025-11-02,Amoxicillin,101,General
+2025-11-02,Amoxicillin,12,Emergency
+2025-11-02,Amoxicillin,96,ICU
+2025-11-02,Insulin,23,General
+2025-11-02,Insulin,35,Emergency
+2025-11-02,Insulin,36,ICU
+2025-11-02,Antibiotics,83,General
+2025-11-02,Antibiotics,28,Emergency
+2025-11-02,Antibiotics,87,ICU
+2025-11-02,IV Fluids,38,General
+2025-11-02,IV Fluids,81,Emergency
+2025-11-02,IV Fluids,50,ICU
+2025-11-03,Paracetamol,72,General
+2025-11-03,Paracetamol,85,Emergency
+2025-11-03,Paracetamol,91,ICU
+2025-11-03,Amoxicillin,102,General
+2025-11-03,Amoxicillin,91,Emergency
+2025-11-03,Amoxicillin,69,ICU
+2025-11-03,Insulin,34,General
+2025-11-03,Insulin,22,Emergency
+2025-11-03,Insulin,52,ICU
+2025-11-03,Antibiotics,84,General
+2025-11-03,Antibiotics,12,Emergency
+2025-11-03,Antibiotics,97,ICU
+2025-11-03,IV Fluids,79,General
+2025-11-03,IV Fluids,158,Emergency
+2025-11-03,IV Fluids,61,ICU
+2025-11-04,Paracetamol,50,General
+2025-11-04,Paracetamol,89,Emergency
+2025-11-04,Paracetamol,39,ICU
+2025-11-04,Amoxicillin,8,General
+2025-11-04,Amoxicillin,89,Emergency
+2025-11-04,Amoxicillin,67,ICU
+2025-11-04,Insulin,57,General
+2025-11-04,Insulin,37,Emergency
+2025-11-04,Insulin,68,ICU
+2025-11-04,Antibiotics,57,General
+2025-11-04,Antibiotics,53,Emergency
+2025-11-04,Antibiotics,39,ICU
+2025-11-04,IV Fluids,58,General
+2025-11-04,IV Fluids,104,Emergency
+2025-11-04,IV Fluids,86,ICU
+2025-11-05,Paracetamol,35,General
+2025-11-05,Paracetamol,86,Emergency
+2025-11-05,Paracetamol,79,ICU
+2025-11-05,Amoxicillin,50,General
+2025-11-05,Amoxicillin,41,Emergency
+2025-11-05,Amoxicillin,70,ICU
+2025-11-05,Insulin,70,General
+2025-11-05,Insulin,22,Emergency
+2025-11-05,Insulin,74,ICU
+2025-11-05,Antibiotics,86,General
+2025-11-05,Antibiotics,60,Emergency
+2025-11-05,Antibiotics,32,ICU
+2025-11-05,IV Fluids,52,General
+2025-11-05,IV Fluids,162,Emergency
+2025-11-05,IV Fluids,40,ICU
+2025-11-06,Paracetamol,67,General
+2025-11-06,Paracetamol,20,Emergency
+2025-11-06,Paracetamol,86,ICU
+2025-11-06,Amoxicillin,60,General
+2025-11-06,Amoxicillin,82,Emergency
+2025-11-06,Amoxicillin,105,ICU
+2025-11-06,Insulin,32,General
+2025-11-06,Insulin,35,Emergency
+2025-11-06,Insulin,48,ICU
+2025-11-06,Antibiotics,109,General
+2025-11-06,Antibiotics,20,Emergency
+2025-11-06,Antibiotics,23,ICU
+2025-11-06,IV Fluids,61,General
+2025-11-06,IV Fluids,76,Emergency
+2025-11-06,IV Fluids,70,ICU
+2025-11-07,Paracetamol,100,General
+2025-11-07,Paracetamol,18,Emergency
+2025-11-07,Paracetamol,19,ICU
+2025-11-07,Amoxicillin,67,General
+2025-11-07,Amoxicillin,70,Emergency
+2025-11-07,Amoxicillin,61,ICU
+2025-11-07,Insulin,81,General
+2025-11-07,Insulin,42,Emergency
+2025-11-07,Insulin,27,ICU
+2025-11-07,Antibiotics,11,General
+2025-11-07,Antibiotics,95,Emergency
+2025-11-07,Antibiotics,43,ICU
+2025-11-07,IV Fluids,33,General
+2025-11-07,IV Fluids,85,Emergency
+2025-11-07,IV Fluids,82,ICU
+2025-11-08,Paracetamol,26,General
+2025-11-08,Paracetamol,45,Emergency
+2025-11-08,Paracetamol,35,ICU
+2025-11-08,Amoxicillin,79,General
+2025-11-08,Amoxicillin,85,Emergency
+2025-11-08,Amoxicillin,46,ICU
+2025-11-08,Insulin,45,General
+2025-11-08,Insulin,16,Emergency
+2025-11-08,Insulin,88,ICU
+2025-11-08,Antibiotics,34,General
+2025-11-08,Antibiotics,107,Emergency
+2025-11-08,Antibiotics,16,ICU
+2025-11-08,IV Fluids,31,General
+2025-11-08,IV Fluids,117,Emergency
+2025-11-08,IV Fluids,29,ICU
+2025-11-09,Paracetamol,68,General
+2025-11-09,Paracetamol,37,Emergency
+2025-11-09,Paracetamol,42,ICU
+2025-11-09,Amoxicillin,25,General
+2025-11-09,Amoxicillin,70,Emergency
+2025-11-09,Amoxicillin,92,ICU
+2025-11-09,Insulin,18,General
+2025-11-09,Insulin,36,Emergency
+2025-11-09,Insulin,21,ICU
+2025-11-09,Antibiotics,82,General
+2025-11-09,Antibiotics,69,Emergency
+2025-11-09,Antibiotics,50,ICU
+2025-11-09,IV Fluids,71,General
+2025-11-09,IV Fluids,123,Emergency
+2025-11-09,IV Fluids,79,ICU
+2025-11-10,Paracetamol,18,General
+2025-11-10,Paracetamol,89,Emergency
+2025-11-10,Paracetamol,54,ICU
+2025-11-10,Amoxicillin,95,General
+2025-11-10,Amoxicillin,100,Emergency
+2025-11-10,Amoxicillin,24,ICU
+2025-11-10,Insulin,37,General
+2025-11-10,Insulin,101,Emergency
+2025-11-10,Insulin,67,ICU
+2025-11-10,Antibiotics,100,General
+2025-11-10,Antibiotics,39,Emergency
+2025-11-10,Antibiotics,87,ICU
+2025-11-10,IV Fluids,45,General
+2025-11-10,IV Fluids,106,Emergency
+2025-11-10,IV Fluids,21,ICU
+2025-11-11,Paracetamol,93,General
+2025-11-11,Paracetamol,82,Emergency
+2025-11-11,Paracetamol,60,ICU
+2025-11-11,Amoxicillin,111,General
+2025-11-11,Amoxicillin,47,Emergency
+2025-11-11,Amoxicillin,89,ICU
+2025-11-11,Insulin,76,General
+2025-11-11,Insulin,40,Emergency
+2025-11-11,Insulin,111,ICU
+2025-11-11,Antibiotics,79,General
+2025-11-11,Antibiotics,12,Emergency
+2025-11-11,Antibiotics,48,ICU
+2025-11-11,IV Fluids,28,General
+2025-11-11,IV Fluids,122,Emergency
+2025-11-11,IV Fluids,31,ICU
+2025-11-12,Paracetamol,65,General
+2025-11-12,Paracetamol,34,Emergency
+2025-11-12,Paracetamol,22,ICU
+2025-11-12,Amoxicillin,47,General
+2025-11-12,Amoxicillin,93,Emergency
+2025-11-12,Amoxicillin,15,ICU
+2025-11-12,Insulin,61,General
+2025-11-12,Insulin,72,Emergency
+2025-11-12,Insulin,81,ICU
+2025-11-12,Antibiotics,17,General
+2025-11-12,Antibiotics,69,Emergency
+2025-11-12,Antibiotics,24,ICU
+2025-11-12,IV Fluids,47,General
+2025-11-12,IV Fluids,119,Emergency
+2025-11-12,IV Fluids,50,ICU
+2025-11-13,Paracetamol,58,General
+2025-11-13,Paracetamol,38,Emergency
+2025-11-13,Paracetamol,94,ICU
+2025-11-13,Amoxicillin,69,General
+2025-11-13,Amoxicillin,79,Emergency
+2025-11-13,Amoxicillin,86,ICU
+2025-11-13,Insulin,84,General
+2025-11-13,Insulin,28,Emergency
+2025-11-13,Insulin,51,ICU
+2025-11-13,Antibiotics,33,General
+2025-11-13,Antibiotics,67,Emergency
+2025-11-13,Antibiotics,106,ICU
+2025-11-13,IV Fluids,84,General
+2025-11-13,IV Fluids,119,Emergency
+2025-11-13,IV Fluids,60,ICU
+2025-11-14,Paracetamol,86,General
+2025-11-14,Paracetamol,66,Emergency
+2025-11-14,Paracetamol,65,ICU
+2025-11-14,Amoxicillin,83,General
+2025-11-14,Amoxicillin,47,Emergency
+2025-11-14,Amoxicillin,71,ICU
+2025-11-14,Insulin,104,General
+2025-11-14,Insulin,8,Emergency
+2025-11-14,Insulin,21,ICU
+2025-11-14,Antibiotics,68,General
+2025-11-14,Antibiotics,82,Emergency
+2025-11-14,Antibiotics,93,ICU
+2025-11-14,IV Fluids,25,General
+2025-11-14,IV Fluids,147,Emergency
+2025-11-14,IV Fluids,104,ICU
+2025-11-15,Paracetamol,26,General
+2025-11-15,Paracetamol,70,Emergency
+2025-11-15,Paracetamol,74,ICU
+2025-11-15,Amoxicillin,70,General
+2025-11-15,Amoxicillin,53,Emergency
+2025-11-15,Amoxicillin,64,ICU
+2025-11-15,Insulin,42,General
+2025-11-15,Insulin,39,Emergency
+2025-11-15,Insulin,78,ICU
+2025-11-15,Antibiotics,44,General
+2025-11-15,Antibiotics,105,Emergency
+2025-11-15,Antibiotics,50,ICU
+2025-11-15,IV Fluids,42,General
+2025-11-15,IV Fluids,151,Emergency
+2025-11-15,IV Fluids,86,ICU
+2025-11-16,Paracetamol,50,General
+2025-11-16,Paracetamol,43,Emergency
+2025-11-16,Paracetamol,51,ICU
+2025-11-16,Amoxicillin,67,General
+2025-11-16,Amoxicillin,86,Emergency
+2025-11-16,Amoxicillin,59,ICU
+2025-11-16,Insulin,24,General
+2025-11-16,Insulin,35,Emergency
+2025-11-16,Insulin,101,ICU
+2025-11-16,Antibiotics,54,General
+2025-11-16,Antibiotics,65,Emergency
+2025-11-16,Antibiotics,93,ICU
+2025-11-16,IV Fluids,86,General
+2025-11-16,IV Fluids,118,Emergency
+2025-11-16,IV Fluids,24,ICU
+2025-11-17,Paracetamol,54,General
+2025-11-17,Paracetamol,22,Emergency
+2025-11-17,Paracetamol,14,ICU
+2025-11-17,Amoxicillin,14,General
+2025-11-17,Amoxicillin,34,Emergency
+2025-11-17,Amoxicillin,15,ICU
+2025-11-17,Insulin,63,General
+2025-11-17,Insulin,52,Emergency
+2025-11-17,Insulin,43,ICU
+2025-11-17,Antibiotics,26,General
+2025-11-17,Antibiotics,32,Emergency
+2025-11-17,Antibiotics,39,ICU
+2025-11-17,IV Fluids,38,General
+2025-11-17,IV Fluids,114,Emergency
+2025-11-17,IV Fluids,90,ICU
+2025-11-18,Paracetamol,79,General
+2025-11-18,Paracetamol,33,Emergency
+2025-11-18,Paracetamol,55,ICU
+2025-11-18,Amoxicillin,85,General
+2025-11-18,Amoxicillin,103,Emergency
+2025-11-18,Amoxicillin,46,ICU
+2025-11-18,Insulin,46,General
+2025-11-18,Insulin,31,Emergency
+2025-11-18,Insulin,31,ICU
+2025-11-18,Antibiotics,26,General
+2025-11-18,Antibiotics,81,Emergency
+2025-11-18,Antibiotics,43,ICU
+2025-11-18,IV Fluids,97,General
+2025-11-18,IV Fluids,140,Emergency
+2025-11-18,IV Fluids,61,ICU
+2025-11-19,Paracetamol,74,General
+2025-11-19,Paracetamol,76,Emergency
+2025-11-19,Paracetamol,62,ICU
+2025-11-19,Amoxicillin,43,General
+2025-11-19,Amoxicillin,50,Emergency
+2025-11-19,Amoxicillin,113,ICU
+2025-11-19,Insulin,52,General
+2025-11-19,Insulin,21,Emergency
+2025-11-19,Insulin,89,ICU
+2025-11-19,Antibiotics,70,General
+2025-11-19,Antibiotics,102,Emergency
+2025-11-19,Antibiotics,106,ICU
+2025-11-19,IV Fluids,53,General
+2025-11-19,IV Fluids,113,Emergency
+2025-11-19,IV Fluids,56,ICU
+2025-11-20,Paracetamol,14,General
+2025-11-20,Paracetamol,58,Emergency
+2025-11-20,Paracetamol,98,ICU
+2025-11-20,Amoxicillin,26,General
+2025-11-20,Amoxicillin,60,Emergency
+2025-11-20,Amoxicillin,20,ICU
+2025-11-20,Insulin,38,General
+2025-11-20,Insulin,100,Emergency
+2025-11-20,Insulin,25,ICU
+2025-11-20,Antibiotics,66,General
+2025-11-20,Antibiotics,48,Emergency
+2025-11-20,Antibiotics,75,ICU
+2025-11-20,IV Fluids,87,General
+2025-11-20,IV Fluids,111,Emergency
+2025-11-20,IV Fluids,40,ICU
+2025-11-21,Paracetamol,42,General
+2025-11-21,Paracetamol,70,Emergency
+2025-11-21,Paracetamol,61,ICU
+2025-11-21,Amoxicillin,30,General
+2025-11-21,Amoxicillin,53,Emergency
+2025-11-21,Amoxicillin,57,ICU
+2025-11-21,Insulin,27,General
+2025-11-21,Insulin,31,Emergency
+2025-11-21,Insulin,37,ICU
+2025-11-21,Antibiotics,80,General
+2025-11-21,Antibiotics,58,Emergency
+2025-11-21,Antibiotics,87,ICU
+2025-11-21,IV Fluids,56,General
+2025-11-21,IV Fluids,143,Emergency
+2025-11-21,IV Fluids,77,ICU
+2025-11-22,Paracetamol,26,General
+2025-11-22,Paracetamol,54,Emergency
+2025-11-22,Paracetamol,27,ICU
+2025-11-22,Amoxicillin,103,General
+2025-11-22,Amoxicillin,101,Emergency
+2025-11-22,Amoxicillin,104,ICU
+2025-11-22,Insulin,28,General
+2025-11-22,Insulin,19,Emergency
+2025-11-22,Insulin,60,ICU
+2025-11-22,Antibiotics,26,General
+2025-11-22,Antibiotics,35,Emergency
+2025-11-22,Antibiotics,15,ICU
+2025-11-22,IV Fluids,19,General
+2025-11-22,IV Fluids,144,Emergency
+2025-11-22,IV Fluids,87,ICU
+2025-11-23,Paracetamol,41,General
+2025-11-23,Paracetamol,98,Emergency
+2025-11-23,Paracetamol,81,ICU
+2025-11-23,Amoxicillin,45,General
+2025-11-23,Amoxicillin,43,Emergency
+2025-11-23,Amoxicillin,108,ICU
+2025-11-23,Insulin,62,General
+2025-11-23,Insulin,16,Emergency
+2025-11-23,Insulin,75,ICU
+2025-11-23,Antibiotics,24,General
+2025-11-23,Antibiotics,45,Emergency
+2025-11-23,Antibiotics,78,ICU
+2025-11-23,IV Fluids,31,General
+2025-11-23,IV Fluids,138,Emergency
+2025-11-23,IV Fluids,94,ICU
+2025-11-24,Paracetamol,11,General
+2025-11-24,Paracetamol,77,Emergency
+2025-11-24,Paracetamol,68,ICU
+2025-11-24,Amoxicillin,33,General
+2025-11-24,Amoxicillin,28,Emergency
+2025-11-24,Amoxicillin,18,ICU
+2025-11-24,Insulin,49,General
+2025-11-24,Insulin,33,Emergency
+2025-11-24,Insulin,65,ICU
+2025-11-24,Antibiotics,71,General
+2025-11-24,Antibiotics,49,Emergency
+2025-11-24,Antibiotics,74,ICU
+2025-11-24,IV Fluids,15,General
+2025-11-24,IV Fluids,153,Emergency
+2025-11-24,IV Fluids,91,ICU
+2025-11-25,Paracetamol,40,General
+2025-11-25,Paracetamol,68,Emergency
+2025-11-25,Paracetamol,91,ICU
+2025-11-25,Amoxicillin,28,General
+2025-11-25,Amoxicillin,95,Emergency
+2025-11-25,Amoxicillin,100,ICU
+2025-11-25,Insulin,47,General
+2025-11-25,Insulin,83,Emergency
+2025-11-25,Insulin,29,ICU
+2025-11-25,Antibiotics,66,General
+2025-11-25,Antibiotics,79,Emergency
+2025-11-25,Antibiotics,86,ICU
+2025-11-25,IV Fluids,80,General
+2025-11-25,IV Fluids,141,Emergency
+2025-11-25,IV Fluids,47,ICU
+2025-11-26,Paracetamol,34,General
+2025-11-26,Paracetamol,87,Emergency
+2025-11-26,Paracetamol,94,ICU
+2025-11-26,Amoxicillin,68,General
+2025-11-26,Amoxicillin,53,Emergency
+2025-11-26,Amoxicillin,28,ICU
+2025-11-26,Insulin,97,General
+2025-11-26,Insulin,94,Emergency
+2025-11-26,Insulin,60,ICU
+2025-11-26,Antibiotics,83,General
+2025-11-26,Antibiotics,82,Emergency
+2025-11-26,Antibiotics,21,ICU
+2025-11-26,IV Fluids,93,General
+2025-11-26,IV Fluids,140,Emergency
+2025-11-26,IV Fluids,86,ICU
+2025-11-27,Paracetamol,99,General
+2025-11-27,Paracetamol,33,Emergency
+2025-11-27,Paracetamol,65,ICU
+2025-11-27,Amoxicillin,106,General
+2025-11-27,Amoxicillin,62,Emergency
+2025-11-27,Amoxicillin,88,ICU
+2025-11-27,Insulin,91,General
+2025-11-27,Insulin,75,Emergency
+2025-11-27,Insulin,94,ICU
+2025-11-27,Antibiotics,40,General
+2025-11-27,Antibiotics,76,Emergency
+2025-11-27,Antibiotics,80,ICU
+2025-11-27,IV Fluids,31,General
+2025-11-27,IV Fluids,82,Emergency
+2025-11-27,IV Fluids,91,ICU
+2025-11-28,Paracetamol,95,General
+2025-11-28,Paracetamol,64,Emergency
+2025-11-28,Paracetamol,68,ICU
+2025-11-28,Amoxicillin,67,General
+2025-11-28,Amoxicillin,29,Emergency
+2025-11-28,Amoxicillin,64,ICU
+2025-11-28,Insulin,64,General
+2025-11-28,Insulin,90,Emergency
+2025-11-28,Insulin,74,ICU
+2025-11-28,Antibiotics,77,General
+2025-11-28,Antibiotics,53,Emergency
+2025-11-28,Antibiotics,40,ICU
+2025-11-28,IV Fluids,31,General
+2025-11-28,IV Fluids,125,Emergency
+2025-11-28,IV Fluids,35,ICU
+2025-11-29,Paracetamol,25,General
+2025-11-29,Paracetamol,12,Emergency
+2025-11-29,Paracetamol,99,ICU
+2025-11-29,Amoxicillin,26,General
+2025-11-29,Amoxicillin,41,Emergency
+2025-11-29,Amoxicillin,82,ICU
+2025-11-29,Insulin,65,General
+2025-11-29,Insulin,72,Emergency
+2025-11-29,Insulin,26,ICU
+2025-11-29,Antibiotics,55,General
+2025-11-29,Antibiotics,38,Emergency
+2025-11-29,Antibiotics,28,ICU
+2025-11-29,IV Fluids,93,General
+2025-11-29,IV Fluids,153,Emergency
+2025-11-29,IV Fluids,47,ICU
+2025-11-30,Paracetamol,14,General
+2025-11-30,Paracetamol,103,Emergency
+2025-11-30,Paracetamol,76,ICU
+2025-11-30,Amoxicillin,77,General
+2025-11-30,Amoxicillin,79,Emergency
+2025-11-30,Amoxicillin,56,ICU
+2025-11-30,Insulin,66,General
+2025-11-30,Insulin,85,Emergency
+2025-11-30,Insulin,90,ICU
+2025-11-30,Antibiotics,39,General
+2025-11-30,Antibiotics,96,Emergency
+2025-11-30,Antibiotics,82,ICU
+2025-11-30,IV Fluids,60,General
+2025-11-30,IV Fluids,114,Emergency
+2025-11-30,IV Fluids,38,ICU
+2025-12-01,Paracetamol,38,General
+2025-12-01,Paracetamol,60,Emergency
+2025-12-01,Paracetamol,83,ICU
+2025-12-01,Amoxicillin,94,General
+2025-12-01,Amoxicillin,24,Emergency
+2025-12-01,Amoxicillin,90,ICU
+2025-12-01,Insulin,22,General
+2025-12-01,Insulin,103,Emergency
+2025-12-01,Insulin,48,ICU
+2025-12-01,Antibiotics,105,General
+2025-12-01,Antibiotics,60,Emergency
+2025-12-01,Antibiotics,69,ICU
+2025-12-01,IV Fluids,53,General
+2025-12-01,IV Fluids,106,Emergency
+2025-12-01,IV Fluids,85,ICU
+2025-12-02,Paracetamol,19,General
+2025-12-02,Paracetamol,61,Emergency
+2025-12-02,Paracetamol,95,ICU
+2025-12-02,Amoxicillin,97,General
+2025-12-02,Amoxicillin,48,Emergency
+2025-12-02,Amoxicillin,78,ICU
+2025-12-02,Insulin,40,General
+2025-12-02,Insulin,53,Emergency
+2025-12-02,Insulin,54,ICU
+2025-12-02,Antibiotics,80,General
+2025-12-02,Antibiotics,24,Emergency
+2025-12-02,Antibiotics,53,ICU
+2025-12-02,IV Fluids,23,General
+2025-12-02,IV Fluids,106,Emergency
+2025-12-02,IV Fluids,27,ICU
+2025-12-03,Paracetamol,31,General
+2025-12-03,Paracetamol,50,Emergency
+2025-12-03,Paracetamol,61,ICU
+2025-12-03,Amoxicillin,60,General
+2025-12-03,Amoxicillin,78,Emergency
+2025-12-03,Amoxicillin,30,ICU
+2025-12-03,Insulin,42,General
+2025-12-03,Insulin,90,Emergency
+2025-12-03,Insulin,34,ICU
+2025-12-03,Antibiotics,66,General
+2025-12-03,Antibiotics,103,Emergency
+2025-12-03,Antibiotics,30,ICU
+2025-12-03,IV Fluids,35,General
+2025-12-03,IV Fluids,132,Emergency
+2025-12-03,IV Fluids,79,ICU
+2025-12-04,Paracetamol,47,General
+2025-12-04,Paracetamol,40,Emergency
+2025-12-04,Paracetamol,83,ICU
+2025-12-04,Amoxicillin,70,General
+2025-12-04,Amoxicillin,54,Emergency
+2025-12-04,Amoxicillin,29,ICU
+2025-12-04,Insulin,70,General
+2025-12-04,Insulin,24,Emergency
+2025-12-04,Insulin,41,ICU
+2025-12-04,Antibiotics,26,General
+2025-12-04,Antibiotics,55,Emergency
+2025-12-04,Antibiotics,60,ICU
+2025-12-04,IV Fluids,45,General
+2025-12-04,IV Fluids,142,Emergency
+2025-12-04,IV Fluids,20,ICU
+2025-12-05,Paracetamol,36,General
+2025-12-05,Paracetamol,25,Emergency
+2025-12-05,Paracetamol,29,ICU
+2025-12-05,Amoxicillin,99,General
+2025-12-05,Amoxicillin,52,Emergency
+2025-12-05,Amoxicillin,54,ICU
+2025-12-05,Insulin,93,General
+2025-12-05,Insulin,19,Emergency
+2025-12-05,Insulin,29,ICU
+2025-12-05,Antibiotics,39,General
+2025-12-05,Antibiotics,20,Emergency
+2025-12-05,Antibiotics,41,ICU
+2025-12-05,IV Fluids,25,General
+2025-12-05,IV Fluids,88,Emergency
+2025-12-05,IV Fluids,88,ICU
+2025-12-06,Paracetamol,65,General
+2025-12-06,Paracetamol,69,Emergency
+2025-12-06,Paracetamol,82,ICU
+2025-12-06,Amoxicillin,26,General
+2025-12-06,Amoxicillin,41,Emergency
+2025-12-06,Amoxicillin,50,ICU
+2025-12-06,Insulin,99,General
+2025-12-06,Insulin,68,Emergency
+2025-12-06,Insulin,77,ICU
+2025-12-06,Antibiotics,81,General
+2025-12-06,Antibiotics,24,Emergency
+2025-12-06,Antibiotics,23,ICU
+2025-12-06,IV Fluids,20,General
+2025-12-06,IV Fluids,87,Emergency
+2025-12-06,IV Fluids,37,ICU
+2025-12-07,Paracetamol,46,General
+2025-12-07,Paracetamol,101,Emergency
+2025-12-07,Paracetamol,59,ICU
+2025-12-07,Amoxicillin,41,General
+2025-12-07,Amoxicillin,72,Emergency
+2025-12-07,Amoxicillin,83,ICU
+2025-12-07,Insulin,101,General
+2025-12-07,Insulin,44,Emergency
+2025-12-07,Insulin,82,ICU
+2025-12-07,Antibiotics,8,General
+2025-12-07,Antibiotics,26,Emergency
+2025-12-07,Antibiotics,83,ICU
+2025-12-07,IV Fluids,83,General
+2025-12-07,IV Fluids,119,Emergency
+2025-12-07,IV Fluids,38,ICU
+2025-12-08,Paracetamol,64,General
+2025-12-08,Paracetamol,92,Emergency
+2025-12-08,Paracetamol,39,ICU
+2025-12-08,Amoxicillin,14,General
+2025-12-08,Amoxicillin,77,Emergency
+2025-12-08,Amoxicillin,59,ICU
+2025-12-08,Insulin,21,General
+2025-12-08,Insulin,83,Emergency
+2025-12-08,Insulin,73,ICU
+2025-12-08,Antibiotics,98,General
+2025-12-08,Antibiotics,39,Emergency
+2025-12-08,Antibiotics,82,ICU
+2025-12-08,IV Fluids,15,General
+2025-12-08,IV Fluids,137,Emergency
+2025-12-08,IV Fluids,101,ICU
+2025-12-09,Paracetamol,56,General
+2025-12-09,Paracetamol,61,Emergency
+2025-12-09,Paracetamol,64,ICU
+2025-12-09,Amoxicillin,87,General
+2025-12-09,Amoxicillin,88,Emergency
+2025-12-09,Amoxicillin,89,ICU
+2025-12-09,Insulin,53,General
+2025-12-09,Insulin,28,Emergency
+2025-12-09,Insulin,78,ICU
+2025-12-09,Antibiotics,40,General
+2025-12-09,Antibiotics,67,Emergency
+2025-12-09,Antibiotics,49,ICU
+2025-12-09,IV Fluids,19,General
+2025-12-09,IV Fluids,88,Emergency
+2025-12-09,IV Fluids,85,ICU
+2025-12-10,Paracetamol,26,General
+2025-12-10,Paracetamol,41,Emergency
+2025-12-10,Paracetamol,75,ICU
+2025-12-10,Amoxicillin,52,General
+2025-12-10,Amoxicillin,61,Emergency
+2025-12-10,Amoxicillin,61,ICU
+2025-12-10,Insulin,90,General
+2025-12-10,Insulin,22,Emergency
+2025-12-10,Insulin,79,ICU
+2025-12-10,Antibiotics,103,General
+2025-12-10,Antibiotics,93,Emergency
+2025-12-10,Antibiotics,88,ICU
+2025-12-10,IV Fluids,51,General
+2025-12-10,IV Fluids,122,Emergency
+2025-12-10,IV Fluids,42,ICU
+2025-12-11,Paracetamol,19,General
+2025-12-11,Paracetamol,93,Emergency
+2025-12-11,Paracetamol,107,ICU
+2025-12-11,Amoxicillin,74,General
+2025-12-11,Amoxicillin,67,Emergency
+2025-12-11,Amoxicillin,47,ICU
+2025-12-11,Insulin,22,General
+2025-12-11,Insulin,40,Emergency
+2025-12-11,Insulin,112,ICU
+2025-12-11,Antibiotics,42,General
+2025-12-11,Antibiotics,29,Emergency
+2025-12-11,Antibiotics,18,ICU
+2025-12-11,IV Fluids,48,General
+2025-12-11,IV Fluids,122,Emergency
+2025-12-11,IV Fluids,82,ICU
+2025-12-12,Paracetamol,55,General
+2025-12-12,Paracetamol,71,Emergency
+2025-12-12,Paracetamol,83,ICU
+2025-12-12,Amoxicillin,45,General
+2025-12-12,Amoxicillin,44,Emergency
+2025-12-12,Amoxicillin,101,ICU
+2025-12-12,Insulin,36,General
+2025-12-12,Insulin,102,Emergency
+2025-12-12,Insulin,22,ICU
+2025-12-12,Antibiotics,96,General
+2025-12-12,Antibiotics,88,Emergency
+2025-12-12,Antibiotics,18,ICU
+2025-12-12,IV Fluids,42,General
+2025-12-12,IV Fluids,81,Emergency
+2025-12-12,IV Fluids,83,ICU
+2025-12-13,Paracetamol,52,General
+2025-12-13,Paracetamol,72,Emergency
+2025-12-13,Paracetamol,25,ICU
+2025-12-13,Amoxicillin,65,General
+2025-12-13,Amoxicillin,91,Emergency
+2025-12-13,Amoxicillin,48,ICU
+2025-12-13,Insulin,67,General
+2025-12-13,Insulin,55,Emergency
+2025-12-13,Insulin,55,ICU
+2025-12-13,Antibiotics,42,General
+2025-12-13,Antibiotics,14,Emergency
+2025-12-13,Antibiotics,98,ICU
+2025-12-13,IV Fluids,60,General
+2025-12-13,IV Fluids,91,Emergency
+2025-12-13,IV Fluids,72,ICU
+2025-12-14,Paracetamol,18,General
+2025-12-14,Paracetamol,59,Emergency
+2025-12-14,Paracetamol,80,ICU
+2025-12-14,Amoxicillin,28,General
+2025-12-14,Amoxicillin,54,Emergency
+2025-12-14,Amoxicillin,54,ICU
+2025-12-14,Insulin,39,General
+2025-12-14,Insulin,70,Emergency
+2025-12-14,Insulin,75,ICU
+2025-12-14,Antibiotics,31,General
+2025-12-14,Antibiotics,65,Emergency
+2025-12-14,Antibiotics,107,ICU
+2025-12-14,IV Fluids,95,General
+2025-12-14,IV Fluids,150,Emergency
+2025-12-14,IV Fluids,22,ICU
+2025-12-15,Paracetamol,24,General
+2025-12-15,Paracetamol,39,Emergency
+2025-12-15,Paracetamol,28,ICU
+2025-12-15,Amoxicillin,94,General
+2025-12-15,Amoxicillin,83,Emergency
+2025-12-15,Amoxicillin,93,ICU
+2025-12-15,Insulin,88,General
+2025-12-15,Insulin,70,Emergency
+2025-12-15,Insulin,61,ICU
+2025-12-15,Antibiotics,72,General
+2025-12-15,Antibiotics,85,Emergency
+2025-12-15,Antibiotics,42,ICU
+2025-12-15,IV Fluids,49,General
+2025-12-15,IV Fluids,129,Emergency
+2025-12-15,IV Fluids,100,ICU
+2025-12-16,Paracetamol,73,General
+2025-12-16,Paracetamol,18,Emergency
+2025-12-16,Paracetamol,21,ICU
+2025-12-16,Amoxicillin,108,General
+2025-12-16,Amoxicillin,20,Emergency
+2025-12-16,Amoxicillin,75,ICU
+2025-12-16,Insulin,64,General
+2025-12-16,Insulin,46,Emergency
+2025-12-16,Insulin,69,ICU
+2025-12-16,Antibiotics,58,General
+2025-12-16,Antibiotics,61,Emergency
+2025-12-16,Antibiotics,51,ICU
+2025-12-16,IV Fluids,93,General
+2025-12-16,IV Fluids,85,Emergency
+2025-12-16,IV Fluids,18,ICU
+2025-12-17,Paracetamol,88,General
+2025-12-17,Paracetamol,73,Emergency
+2025-12-17,Paracetamol,77,ICU
+2025-12-17,Amoxicillin,29,General
+2025-12-17,Amoxicillin,35,Emergency
+2025-12-17,Amoxicillin,54,ICU
+2025-12-17,Insulin,10,General
+2025-12-17,Insulin,49,Emergency
+2025-12-17,Insulin,41,ICU
+2025-12-17,Antibiotics,59,General
+2025-12-17,Antibiotics,27,Emergency
+2025-12-17,Antibiotics,22,ICU
+2025-12-17,IV Fluids,18,General
+2025-12-17,IV Fluids,91,Emergency
+2025-12-17,IV Fluids,68,ICU
+2025-12-18,Paracetamol,14,General
+2025-12-18,Paracetamol,73,Emergency
+2025-12-18,Paracetamol,99,ICU
+2025-12-18,Amoxicillin,83,General
+2025-12-18,Amoxicillin,95,Emergency
+2025-12-18,Amoxicillin,79,ICU
+2025-12-18,Insulin,102,General
+2025-12-18,Insulin,63,Emergency
+2025-12-18,Insulin,44,ICU
+2025-12-18,Antibiotics,75,General
+2025-12-18,Antibiotics,31,Emergency
+2025-12-18,Antibiotics,25,ICU
+2025-12-18,IV Fluids,33,General
+2025-12-18,IV Fluids,80,Emergency
+2025-12-18,IV Fluids,99,ICU
+2025-12-19,Paracetamol,33,General
+2025-12-19,Paracetamol,63,Emergency
+2025-12-19,Paracetamol,58,ICU
+2025-12-19,Amoxicillin,19,General
+2025-12-19,Amoxicillin,53,Emergency
+2025-12-19,Amoxicillin,15,ICU
+2025-12-19,Insulin,89,General
+2025-12-19,Insulin,17,Emergency
+2025-12-19,Insulin,15,ICU
+2025-12-19,Antibiotics,19,General
+2025-12-19,Antibiotics,43,Emergency
+2025-12-19,Antibiotics,85,ICU
+2025-12-19,IV Fluids,77,General
+2025-12-19,IV Fluids,143,Emergency
+2025-12-19,IV Fluids,57,ICU
+2025-12-20,Paracetamol,42,General
+2025-12-20,Paracetamol,25,Emergency
+2025-12-20,Paracetamol,29,ICU
+2025-12-20,Amoxicillin,105,General
+2025-12-20,Amoxicillin,81,Emergency
+2025-12-20,Amoxicillin,58,ICU
+2025-12-20,Insulin,107,General
+2025-12-20,Insulin,40,Emergency
+2025-12-20,Insulin,58,ICU
+2025-12-20,Antibiotics,71,General
+2025-12-20,Antibiotics,45,Emergency
+2025-12-20,Antibiotics,65,ICU
+2025-12-20,IV Fluids,34,General
+2025-12-20,IV Fluids,77,Emergency
+2025-12-20,IV Fluids,78,ICU
+2025-12-21,Paracetamol,88,General
+2025-12-21,Paracetamol,36,Emergency
+2025-12-21,Paracetamol,71,ICU
+2025-12-21,Amoxicillin,86,General
+2025-12-21,Amoxicillin,35,Emergency
+2025-12-21,Amoxicillin,20,ICU
+2025-12-21,Insulin,50,General
+2025-12-21,Insulin,38,Emergency
+2025-12-21,Insulin,100,ICU
+2025-12-21,Antibiotics,37,General
+2025-12-21,Antibiotics,82,Emergency
+2025-12-21,Antibiotics,95,ICU
+2025-12-21,IV Fluids,33,General
+2025-12-21,IV Fluids,88,Emergency
+2025-12-21,IV Fluids,67,ICU
+2025-12-22,Paracetamol,32,General
+2025-12-22,Paracetamol,82,Emergency
+2025-12-22,Paracetamol,12,ICU
+2025-12-22,Amoxicillin,69,General
+2025-12-22,Amoxicillin,77,Emergency
+2025-12-22,Amoxicillin,27,ICU
+2025-12-22,Insulin,55,General
+2025-12-22,Insulin,36,Emergency
+2025-12-22,Insulin,17,ICU
+2025-12-22,Antibiotics,98,General
+2025-12-22,Antibiotics,96,Emergency
+2025-12-22,Antibiotics,65,ICU
+2025-12-22,IV Fluids,68,General
+2025-12-22,IV Fluids,137,Emergency
+2025-12-22,IV Fluids,83,ICU
+2025-12-23,Paracetamol,49,General
+2025-12-23,Paracetamol,15,Emergency
+2025-12-23,Paracetamol,77,ICU
+2025-12-23,Amoxicillin,33,General
+2025-12-23,Amoxicillin,22,Emergency
+2025-12-23,Amoxicillin,21,ICU
+2025-12-23,Insulin,61,General
+2025-12-23,Insulin,70,Emergency
+2025-12-23,Insulin,109,ICU
+2025-12-23,Antibiotics,82,General
+2025-12-23,Antibiotics,32,Emergency
+2025-12-23,Antibiotics,47,ICU
+2025-12-23,IV Fluids,66,General
+2025-12-23,IV Fluids,108,Emergency
+2025-12-23,IV Fluids,101,ICU
+2025-12-24,Paracetamol,27,General
+2025-12-24,Paracetamol,45,Emergency
+2025-12-24,Paracetamol,101,ICU
+2025-12-24,Amoxicillin,20,General
+2025-12-24,Amoxicillin,81,Emergency
+2025-12-24,Amoxicillin,59,ICU
+2025-12-24,Insulin,39,General
+2025-12-24,Insulin,100,Emergency
+2025-12-24,Insulin,61,ICU
+2025-12-24,Antibiotics,69,General
+2025-12-24,Antibiotics,61,Emergency
+2025-12-24,Antibiotics,53,ICU
+2025-12-24,IV Fluids,71,General
+2025-12-24,IV Fluids,143,Emergency
+2025-12-24,IV Fluids,101,ICU
+2025-12-25,Paracetamol,54,General
+2025-12-25,Paracetamol,82,Emergency
+2025-12-25,Paracetamol,15,ICU
+2025-12-25,Amoxicillin,62,General
+2025-12-25,Amoxicillin,49,Emergency
+2025-12-25,Amoxicillin,76,ICU
+2025-12-25,Insulin,56,General
+2025-12-25,Insulin,52,Emergency
+2025-12-25,Insulin,109,ICU
+2025-12-25,Antibiotics,48,General
+2025-12-25,Antibiotics,17,Emergency
+2025-12-25,Antibiotics,53,ICU
+2025-12-25,IV Fluids,81,General
+2025-12-25,IV Fluids,137,Emergency
+2025-12-25,IV Fluids,13,ICU
+2025-12-26,Paracetamol,53,General
+2025-12-26,Paracetamol,98,Emergency
+2025-12-26,Paracetamol,70,ICU
+2025-12-26,Amoxicillin,11,General
+2025-12-26,Amoxicillin,37,Emergency
+2025-12-26,Amoxicillin,25,ICU
+2025-12-26,Insulin,69,General
+2025-12-26,Insulin,60,Emergency
+2025-12-26,Insulin,43,ICU
+2025-12-26,Antibiotics,27,General
+2025-12-26,Antibiotics,52,Emergency
+2025-12-26,Antibiotics,55,ICU
+2025-12-26,IV Fluids,32,General
+2025-12-26,IV Fluids,101,Emergency
+2025-12-26,IV Fluids,63,ICU
+2025-12-27,Paracetamol,44,General
+2025-12-27,Paracetamol,90,Emergency
+2025-12-27,Paracetamol,27,ICU
+2025-12-27,Amoxicillin,84,General
+2025-12-27,Amoxicillin,103,Emergency
+2025-12-27,Amoxicillin,28,ICU
+2025-12-27,Insulin,88,General
+2025-12-27,Insulin,78,Emergency
+2025-12-27,Insulin,24,ICU
+2025-12-27,Antibiotics,77,General
+2025-12-27,Antibiotics,35,Emergency
+2025-12-27,Antibiotics,49,ICU
+2025-12-27,IV Fluids,14,General
+2025-12-27,IV Fluids,87,Emergency
+2025-12-27,IV Fluids,62,ICU
+2025-12-28,Paracetamol,59,General
+2025-12-28,Paracetamol,19,Emergency
+2025-12-28,Paracetamol,63,ICU
+2025-12-28,Amoxicillin,47,General
+2025-12-28,Amoxicillin,108,Emergency
+2025-12-28,Amoxicillin,93,ICU
+2025-12-28,Insulin,86,General
+2025-12-28,Insulin,48,Emergency
+2025-12-28,Insulin,58,ICU
+2025-12-28,Antibiotics,101,General
+2025-12-28,Antibiotics,41,Emergency
+2025-12-28,Antibiotics,48,ICU
+2025-12-28,IV Fluids,22,General
+2025-12-28,IV Fluids,122,Emergency
+2025-12-28,IV Fluids,106,ICU
+2025-12-29,Paracetamol,72,General
+2025-12-29,Paracetamol,74,Emergency
+2025-12-29,Paracetamol,40,ICU
+2025-12-29,Amoxicillin,59,General
+2025-12-29,Amoxicillin,24,Emergency
+2025-12-29,Amoxicillin,51,ICU
+2025-12-29,Insulin,79,General
+2025-12-29,Insulin,36,Emergency
+2025-12-29,Insulin,92,ICU
+2025-12-29,Antibiotics,84,General
+2025-12-29,Antibiotics,86,Emergency
+2025-12-29,Antibiotics,47,ICU
+2025-12-29,IV Fluids,38,General
+2025-12-29,IV Fluids,148,Emergency
+2025-12-29,IV Fluids,34,ICU
+2025-12-30,Paracetamol,32,General
+2025-12-30,Paracetamol,13,Emergency
+2025-12-30,Paracetamol,63,ICU
+2025-12-30,Amoxicillin,63,General
+2025-12-30,Amoxicillin,79,Emergency
+2025-12-30,Amoxicillin,39,ICU
+2025-12-30,Insulin,99,General
+2025-12-30,Insulin,59,Emergency
+2025-12-30,Insulin,87,ICU
+2025-12-30,Antibiotics,96,General
+2025-12-30,Antibiotics,47,Emergency
+2025-12-30,Antibiotics,54,ICU
+2025-12-30,IV Fluids,25,General
+2025-12-30,IV Fluids,78,Emergency
+2025-12-30,IV Fluids,30,ICU
+2025-12-31,Paracetamol,106,General
+2025-12-31,Paracetamol,73,Emergency
+2025-12-31,Paracetamol,28,ICU
+2025-12-31,Amoxicillin,69,General
+2025-12-31,Amoxicillin,86,Emergency
+2025-12-31,Amoxicillin,26,ICU
+2025-12-31,Insulin,30,General
+2025-12-31,Insulin,53,Emergency
+2025-12-31,Insulin,30,ICU
+2025-12-31,Antibiotics,47,General
+2025-12-31,Antibiotics,93,Emergency
+2025-12-31,Antibiotics,24,ICU
+2025-12-31,IV Fluids,26,General
+2025-12-31,IV Fluids,87,Emergency
+2025-12-31,IV Fluids,28,ICU
+2026-01-01,Paracetamol,72,General
+2026-01-01,Paracetamol,91,Emergency
+2026-01-01,Paracetamol,77,ICU
+2026-01-01,Amoxicillin,43,General
+2026-01-01,Amoxicillin,81,Emergency
+2026-01-01,Amoxicillin,52,ICU
+2026-01-01,Insulin,88,General
+2026-01-01,Insulin,41,Emergency
+2026-01-01,Insulin,85,ICU
+2026-01-01,Antibiotics,81,General
+2026-01-01,Antibiotics,79,Emergency
+2026-01-01,Antibiotics,63,ICU
+2026-01-01,IV Fluids,82,General
+2026-01-01,IV Fluids,144,Emergency
+2026-01-01,IV Fluids,84,ICU
+2026-01-02,Paracetamol,75,General
+2026-01-02,Paracetamol,75,Emergency
+2026-01-02,Paracetamol,34,ICU
+2026-01-02,Amoxicillin,23,General
+2026-01-02,Amoxicillin,66,Emergency
+2026-01-02,Amoxicillin,92,ICU
+2026-01-02,Insulin,77,General
+2026-01-02,Insulin,61,Emergency
+2026-01-02,Insulin,97,ICU
+2026-01-02,Antibiotics,66,General
+2026-01-02,Antibiotics,101,Emergency
+2026-01-02,Antibiotics,75,ICU
+2026-01-02,IV Fluids,98,General
+2026-01-02,IV Fluids,116,Emergency
+2026-01-02,IV Fluids,54,ICU
+2026-01-03,Paracetamol,97,General
+2026-01-03,Paracetamol,17,Emergency
+2026-01-03,Paracetamol,42,ICU
+2026-01-03,Amoxicillin,33,General
+2026-01-03,Amoxicillin,92,Emergency
+2026-01-03,Amoxicillin,90,ICU
+2026-01-03,Insulin,88,General
+2026-01-03,Insulin,85,Emergency
+2026-01-03,Insulin,48,ICU
+2026-01-03,Antibiotics,52,General
+2026-01-03,Antibiotics,37,Emergency
+2026-01-03,Antibiotics,49,ICU
+2026-01-03,IV Fluids,50,General
+2026-01-03,IV Fluids,79,Emergency
+2026-01-03,IV Fluids,64,ICU
+2026-01-04,Paracetamol,94,General
+2026-01-04,Paracetamol,92,Emergency
+2026-01-04,Paracetamol,67,ICU
+2026-01-04,Amoxicillin,84,General
+2026-01-04,Amoxicillin,92,Emergency
+2026-01-04,Amoxicillin,103,ICU
+2026-01-04,Insulin,58,General
+2026-01-04,Insulin,97,Emergency
+2026-01-04,Insulin,59,ICU
+2026-01-04,Antibiotics,29,General
+2026-01-04,Antibiotics,27,Emergency
+2026-01-04,Antibiotics,56,ICU
+2026-01-04,IV Fluids,87,General
+2026-01-04,IV Fluids,71,Emergency
+2026-01-04,IV Fluids,27,ICU
+2026-01-05,Paracetamol,49,General
+2026-01-05,Paracetamol,24,Emergency
+2026-01-05,Paracetamol,91,ICU
+2026-01-05,Amoxicillin,50,General
+2026-01-05,Amoxicillin,59,Emergency
+2026-01-05,Amoxicillin,51,ICU
+2026-01-05,Insulin,40,General
+2026-01-05,Insulin,86,Emergency
+2026-01-05,Insulin,41,ICU
+2026-01-05,Antibiotics,74,General
+2026-01-05,Antibiotics,12,Emergency
+2026-01-05,Antibiotics,41,ICU
+2026-01-05,IV Fluids,17,General
+2026-01-05,IV Fluids,148,Emergency
+2026-01-05,IV Fluids,95,ICU
+2026-01-06,Paracetamol,31,General
+2026-01-06,Paracetamol,66,Emergency
+2026-01-06,Paracetamol,81,ICU
+2026-01-06,Amoxicillin,48,General
+2026-01-06,Amoxicillin,7,Emergency
+2026-01-06,Amoxicillin,60,ICU
+2026-01-06,Insulin,15,General
+2026-01-06,Insulin,75,Emergency
+2026-01-06,Insulin,82,ICU
+2026-01-06,Antibiotics,62,General
+2026-01-06,Antibiotics,97,Emergency
+2026-01-06,Antibiotics,69,ICU
+2026-01-06,IV Fluids,74,General
+2026-01-06,IV Fluids,163,Emergency
+2026-01-06,IV Fluids,70,ICU
+2026-01-07,Paracetamol,44,General
+2026-01-07,Paracetamol,24,Emergency
+2026-01-07,Paracetamol,76,ICU
+2026-01-07,Amoxicillin,81,General
+2026-01-07,Amoxicillin,30,Emergency
+2026-01-07,Amoxicillin,87,ICU
+2026-01-07,Insulin,49,General
+2026-01-07,Insulin,53,Emergency
+2026-01-07,Insulin,12,ICU
+2026-01-07,Antibiotics,71,General
+2026-01-07,Antibiotics,75,Emergency
+2026-01-07,Antibiotics,85,ICU
+2026-01-07,IV Fluids,80,General
+2026-01-07,IV Fluids,96,Emergency
+2026-01-07,IV Fluids,74,ICU
+2026-01-08,Paracetamol,42,General
+2026-01-08,Paracetamol,112,Emergency
+2026-01-08,Paracetamol,76,ICU
+2026-01-08,Amoxicillin,30,General
+2026-01-08,Amoxicillin,62,Emergency
+2026-01-08,Amoxicillin,82,ICU
+2026-01-08,Insulin,30,General
+2026-01-08,Insulin,56,Emergency
+2026-01-08,Insulin,63,ICU
+2026-01-08,Antibiotics,46,General
+2026-01-08,Antibiotics,45,Emergency
+2026-01-08,Antibiotics,34,ICU
+2026-01-08,IV Fluids,45,General
+2026-01-08,IV Fluids,119,Emergency
+2026-01-08,IV Fluids,93,ICU
+2026-01-09,Paracetamol,17,General
+2026-01-09,Paracetamol,83,Emergency
+2026-01-09,Paracetamol,61,ICU
+2026-01-09,Amoxicillin,91,General
+2026-01-09,Amoxicillin,46,Emergency
+2026-01-09,Amoxicillin,35,ICU
+2026-01-09,Insulin,89,General
+2026-01-09,Insulin,94,Emergency
+2026-01-09,Insulin,62,ICU
+2026-01-09,Antibiotics,28,General
+2026-01-09,Antibiotics,27,Emergency
+2026-01-09,Antibiotics,43,ICU
+2026-01-09,IV Fluids,99,General
+2026-01-09,IV Fluids,96,Emergency
+2026-01-09,IV Fluids,20,ICU
+2026-01-10,Paracetamol,58,General
+2026-01-10,Paracetamol,65,Emergency
+2026-01-10,Paracetamol,82,ICU
+2026-01-10,Amoxicillin,47,General
+2026-01-10,Amoxicillin,58,Emergency
+2026-01-10,Amoxicillin,50,ICU
+2026-01-10,Insulin,78,General
+2026-01-10,Insulin,77,Emergency
+2026-01-10,Insulin,60,ICU
+2026-01-10,Antibiotics,72,General
+2026-01-10,Antibiotics,83,Emergency
+2026-01-10,Antibiotics,52,ICU
+2026-01-10,IV Fluids,96,General
+2026-01-10,IV Fluids,155,Emergency
+2026-01-10,IV Fluids,26,ICU
+2026-01-11,Paracetamol,101,General
+2026-01-11,Paracetamol,24,Emergency
+2026-01-11,Paracetamol,47,ICU
+2026-01-11,Amoxicillin,96,General
+2026-01-11,Amoxicillin,93,Emergency
+2026-01-11,Amoxicillin,98,ICU
+2026-01-11,Insulin,72,General
+2026-01-11,Insulin,85,Emergency
+2026-01-11,Insulin,39,ICU
+2026-01-11,Antibiotics,12,General
+2026-01-11,Antibiotics,60,Emergency
+2026-01-11,Antibiotics,38,ICU
+2026-01-11,IV Fluids,56,General
+2026-01-11,IV Fluids,144,Emergency
+2026-01-11,IV Fluids,50,ICU
+2026-01-12,Paracetamol,96,General
+2026-01-12,Paracetamol,88,Emergency
+2026-01-12,Paracetamol,20,ICU
+2026-01-12,Amoxicillin,92,General
+2026-01-12,Amoxicillin,85,Emergency
+2026-01-12,Amoxicillin,27,ICU
+2026-01-12,Insulin,44,General
+2026-01-12,Insulin,68,Emergency
+2026-01-12,Insulin,88,ICU
+2026-01-12,Antibiotics,49,General
+2026-01-12,Antibiotics,51,Emergency
+2026-01-12,Antibiotics,47,ICU
+2026-01-12,IV Fluids,53,General
+2026-01-12,IV Fluids,119,Emergency
+2026-01-12,IV Fluids,104,ICU
+2026-01-13,Paracetamol,27,General
+2026-01-13,Paracetamol,50,Emergency
+2026-01-13,Paracetamol,32,ICU
+2026-01-13,Amoxicillin,22,General
+2026-01-13,Amoxicillin,106,Emergency
+2026-01-13,Amoxicillin,48,ICU
+2026-01-13,Insulin,87,General
+2026-01-13,Insulin,92,Emergency
+2026-01-13,Insulin,42,ICU
+2026-01-13,Antibiotics,51,General
+2026-01-13,Antibiotics,67,Emergency
+2026-01-13,Antibiotics,31,ICU
+2026-01-13,IV Fluids,26,General
+2026-01-13,IV Fluids,96,Emergency
+2026-01-13,IV Fluids,65,ICU
+2026-01-14,Paracetamol,83,General
+2026-01-14,Paracetamol,62,Emergency
+2026-01-14,Paracetamol,49,ICU
+2026-01-14,Amoxicillin,65,General
+2026-01-14,Amoxicillin,61,Emergency
+2026-01-14,Amoxicillin,49,ICU
+2026-01-14,Insulin,56,General
+2026-01-14,Insulin,106,Emergency
+2026-01-14,Insulin,28,ICU
+2026-01-14,Antibiotics,38,General
+2026-01-14,Antibiotics,43,Emergency
+2026-01-14,Antibiotics,34,ICU
+2026-01-14,IV Fluids,34,General
+2026-01-14,IV Fluids,96,Emergency
+2026-01-14,IV Fluids,36,ICU
+2026-01-15,Paracetamol,66,General
+2026-01-15,Paracetamol,106,Emergency
+2026-01-15,Paracetamol,32,ICU
+2026-01-15,Amoxicillin,98,General
+2026-01-15,Amoxicillin,95,Emergency
+2026-01-15,Amoxicillin,79,ICU
+2026-01-15,Insulin,93,General
+2026-01-15,Insulin,76,Emergency
+2026-01-15,Insulin,37,ICU
+2026-01-15,Antibiotics,77,General
+2026-01-15,Antibiotics,57,Emergency
+2026-01-15,Antibiotics,64,ICU
+2026-01-15,IV Fluids,92,General
+2026-01-15,IV Fluids,127,Emergency
+2026-01-15,IV Fluids,49,ICU
+2026-01-16,Paracetamol,72,General
+2026-01-16,Paracetamol,89,Emergency
+2026-01-16,Paracetamol,44,ICU
+2026-01-16,Amoxicillin,26,General
+2026-01-16,Amoxicillin,54,Emergency
+2026-01-16,Amoxicillin,78,ICU
+2026-01-16,Insulin,71,General
+2026-01-16,Insulin,46,Emergency
+2026-01-16,Insulin,66,ICU
+2026-01-16,Antibiotics,93,General
+2026-01-16,Antibiotics,29,Emergency
+2026-01-16,Antibiotics,81,ICU
+2026-01-16,IV Fluids,49,General
+2026-01-16,IV Fluids,154,Emergency
+2026-01-16,IV Fluids,93,ICU
+2026-01-17,Paracetamol,58,General
+2026-01-17,Paracetamol,43,Emergency
+2026-01-17,Paracetamol,29,ICU
+2026-01-17,Amoxicillin,54,General
+2026-01-17,Amoxicillin,89,Emergency
+2026-01-17,Amoxicillin,31,ICU
+2026-01-17,Insulin,25,General
+2026-01-17,Insulin,77,Emergency
+2026-01-17,Insulin,67,ICU
+2026-01-17,Antibiotics,98,General
+2026-01-17,Antibiotics,60,Emergency
+2026-01-17,Antibiotics,34,ICU
+2026-01-17,IV Fluids,86,General
+2026-01-17,IV Fluids,110,Emergency
+2026-01-17,IV Fluids,23,ICU
+2026-01-18,Paracetamol,34,General
+2026-01-18,Paracetamol,94,Emergency
+2026-01-18,Paracetamol,25,ICU
+2026-01-18,Amoxicillin,41,General
+2026-01-18,Amoxicillin,53,Emergency
+2026-01-18,Amoxicillin,54,ICU
+2026-01-18,Insulin,77,General
+2026-01-18,Insulin,91,Emergency
+2026-01-18,Insulin,69,ICU
+2026-01-18,Antibiotics,84,General
+2026-01-18,Antibiotics,47,Emergency
+2026-01-18,Antibiotics,74,ICU
+2026-01-18,IV Fluids,36,General
+2026-01-18,IV Fluids,122,Emergency
+2026-01-18,IV Fluids,63,ICU
+2026-01-19,Paracetamol,35,General
+2026-01-19,Paracetamol,101,Emergency
+2026-01-19,Paracetamol,99,ICU
+2026-01-19,Amoxicillin,23,General
+2026-01-19,Amoxicillin,80,Emergency
+2026-01-19,Amoxicillin,48,ICU
+2026-01-19,Insulin,46,General
+2026-01-19,Insulin,51,Emergency
+2026-01-19,Insulin,86,ICU
+2026-01-19,Antibiotics,63,General
+2026-01-19,Antibiotics,61,Emergency
+2026-01-19,Antibiotics,61,ICU
+2026-01-19,IV Fluids,26,General
+2026-01-19,IV Fluids,134,Emergency
+2026-01-19,IV Fluids,78,ICU
+2026-01-20,Paracetamol,79,General
+2026-01-20,Paracetamol,13,Emergency
+2026-01-20,Paracetamol,59,ICU
+2026-01-20,Amoxicillin,81,General
+2026-01-20,Amoxicillin,61,Emergency
+2026-01-20,Amoxicillin,17,ICU
+2026-01-20,Insulin,93,General
+2026-01-20,Insulin,94,Emergency
+2026-01-20,Insulin,26,ICU
+2026-01-20,Antibiotics,94,General
+2026-01-20,Antibiotics,86,Emergency
+2026-01-20,Antibiotics,88,ICU
+2026-01-20,IV Fluids,20,General
+2026-01-20,IV Fluids,165,Emergency
+2026-01-20,IV Fluids,66,ICU
+2026-01-21,Paracetamol,32,General
+2026-01-21,Paracetamol,34,Emergency
+2026-01-21,Paracetamol,95,ICU
+2026-01-21,Amoxicillin,59,General
+2026-01-21,Amoxicillin,85,Emergency
+2026-01-21,Amoxicillin,26,ICU
+2026-01-21,Insulin,48,General
+2026-01-21,Insulin,95,Emergency
+2026-01-21,Insulin,37,ICU
+2026-01-21,Antibiotics,91,General
+2026-01-21,Antibiotics,72,Emergency
+2026-01-21,Antibiotics,49,ICU
+2026-01-21,IV Fluids,52,General
+2026-01-21,IV Fluids,131,Emergency
+2026-01-21,IV Fluids,65,ICU
+2026-01-22,Paracetamol,41,General
+2026-01-22,Paracetamol,90,Emergency
+2026-01-22,Paracetamol,64,ICU
+2026-01-22,Amoxicillin,75,General
+2026-01-22,Amoxicillin,66,Emergency
+2026-01-22,Amoxicillin,98,ICU
+2026-01-22,Insulin,34,General
+2026-01-22,Insulin,56,Emergency
+2026-01-22,Insulin,97,ICU
+2026-01-22,Antibiotics,47,General
+2026-01-22,Antibiotics,90,Emergency
+2026-01-22,Antibiotics,43,ICU
+2026-01-22,IV Fluids,93,General
+2026-01-22,IV Fluids,87,Emergency
+2026-01-22,IV Fluids,35,ICU
+2026-01-23,Paracetamol,53,General
+2026-01-23,Paracetamol,39,Emergency
+2026-01-23,Paracetamol,82,ICU
+2026-01-23,Amoxicillin,95,General
+2026-01-23,Amoxicillin,60,Emergency
+2026-01-23,Amoxicillin,36,ICU
+2026-01-23,Insulin,53,General
+2026-01-23,Insulin,81,Emergency
+2026-01-23,Insulin,77,ICU
+2026-01-23,Antibiotics,95,General
+2026-01-23,Antibiotics,52,Emergency
+2026-01-23,Antibiotics,21,ICU
+2026-01-23,IV Fluids,12,General
+2026-01-23,IV Fluids,125,Emergency
+2026-01-23,IV Fluids,65,ICU
+2026-01-24,Paracetamol,22,General
+2026-01-24,Paracetamol,106,Emergency
+2026-01-24,Paracetamol,89,ICU
+2026-01-24,Amoxicillin,11,General
+2026-01-24,Amoxicillin,63,Emergency
+2026-01-24,Amoxicillin,61,ICU
+2026-01-24,Insulin,27,General
+2026-01-24,Insulin,29,Emergency
+2026-01-24,Insulin,94,ICU
+2026-01-24,Antibiotics,104,General
+2026-01-24,Antibiotics,98,Emergency
+2026-01-24,Antibiotics,80,ICU
+2026-01-24,IV Fluids,53,General
+2026-01-24,IV Fluids,83,Emergency
+2026-01-24,IV Fluids,88,ICU
+2026-01-25,Paracetamol,84,General
+2026-01-25,Paracetamol,28,Emergency
+2026-01-25,Paracetamol,60,ICU
+2026-01-25,Amoxicillin,38,General
+2026-01-25,Amoxicillin,57,Emergency
+2026-01-25,Amoxicillin,71,ICU
+2026-01-25,Insulin,53,General
+2026-01-25,Insulin,46,Emergency
+2026-01-25,Insulin,38,ICU
+2026-01-25,Antibiotics,30,General
+2026-01-25,Antibiotics,71,Emergency
+2026-01-25,Antibiotics,22,ICU
+2026-01-25,IV Fluids,64,General
+2026-01-25,IV Fluids,132,Emergency
+2026-01-25,IV Fluids,57,ICU
+2026-01-26,Paracetamol,60,General
+2026-01-26,Paracetamol,95,Emergency
+2026-01-26,Paracetamol,78,ICU
+2026-01-26,Amoxicillin,40,General
+2026-01-26,Amoxicillin,26,Emergency
+2026-01-26,Amoxicillin,95,ICU
+2026-01-26,Insulin,88,General
+2026-01-26,Insulin,67,Emergency
+2026-01-26,Insulin,80,ICU
+2026-01-26,Antibiotics,81,General
+2026-01-26,Antibiotics,102,Emergency
+2026-01-26,Antibiotics,75,ICU
+2026-01-26,IV Fluids,92,General
+2026-01-26,IV Fluids,139,Emergency
+2026-01-26,IV Fluids,97,ICU
+2026-01-27,Paracetamol,35,General
+2026-01-27,Paracetamol,90,Emergency
+2026-01-27,Paracetamol,108,ICU
+2026-01-27,Amoxicillin,32,General
+2026-01-27,Amoxicillin,41,Emergency
+2026-01-27,Amoxicillin,31,ICU
+2026-01-27,Insulin,65,General
+2026-01-27,Insulin,68,Emergency
+2026-01-27,Insulin,86,ICU
+2026-01-27,Antibiotics,73,General
+2026-01-27,Antibiotics,38,Emergency
+2026-01-27,Antibiotics,54,ICU
+2026-01-27,IV Fluids,11,General
+2026-01-27,IV Fluids,132,Emergency
+2026-01-27,IV Fluids,19,ICU
+2026-01-28,Paracetamol,48,General
+2026-01-28,Paracetamol,24,Emergency
+2026-01-28,Paracetamol,73,ICU
+2026-01-28,Amoxicillin,41,General
+2026-01-28,Amoxicillin,75,Emergency
+2026-01-28,Amoxicillin,98,ICU
+2026-01-28,Insulin,81,General
+2026-01-28,Insulin,83,Emergency
+2026-01-28,Insulin,62,ICU
+2026-01-28,Antibiotics,32,General
+2026-01-28,Antibiotics,29,Emergency
+2026-01-28,Antibiotics,90,ICU
+2026-01-28,IV Fluids,98,General
+2026-01-28,IV Fluids,110,Emergency
+2026-01-28,IV Fluids,50,ICU
+2026-01-29,Paracetamol,80,General
+2026-01-29,Paracetamol,81,Emergency
+2026-01-29,Paracetamol,56,ICU
+2026-01-29,Amoxicillin,46,General
+2026-01-29,Amoxicillin,54,Emergency
+2026-01-29,Amoxicillin,44,ICU
+2026-01-29,Insulin,34,General
+2026-01-29,Insulin,83,Emergency
+2026-01-29,Insulin,74,ICU
+2026-01-29,Antibiotics,43,General
+2026-01-29,Antibiotics,96,Emergency
+2026-01-29,Antibiotics,29,ICU
+2026-01-29,IV Fluids,16,General
+2026-01-29,IV Fluids,158,Emergency
+2026-01-29,IV Fluids,45,ICU
+2026-01-30,Paracetamol,18,General
+2026-01-30,Paracetamol,18,Emergency
+2026-01-30,Paracetamol,44,ICU
+2026-01-30,Amoxicillin,57,General
+2026-01-30,Amoxicillin,110,Emergency
+2026-01-30,Amoxicillin,59,ICU
+2026-01-30,Insulin,50,General
+2026-01-30,Insulin,91,Emergency
+2026-01-30,Insulin,80,ICU
+2026-01-30,Antibiotics,36,General
+2026-01-30,Antibiotics,67,Emergency
+2026-01-30,Antibiotics,88,ICU
+2026-01-30,IV Fluids,84,General
+2026-01-30,IV Fluids,106,Emergency
+2026-01-30,IV Fluids,32,ICU
+2026-01-31,Paracetamol,70,General
+2026-01-31,Paracetamol,45,Emergency
+2026-01-31,Paracetamol,10,ICU
+2026-01-31,Amoxicillin,102,General
+2026-01-31,Amoxicillin,31,Emergency
+2026-01-31,Amoxicillin,89,ICU
+2026-01-31,Insulin,54,General
+2026-01-31,Insulin,27,Emergency
+2026-01-31,Insulin,46,ICU
+2026-01-31,Antibiotics,76,General
+2026-01-31,Antibiotics,61,Emergency
+2026-01-31,Antibiotics,35,ICU
+2026-01-31,IV Fluids,88,General
+2026-01-31,IV Fluids,99,Emergency
+2026-01-31,IV Fluids,76,ICU
+2026-02-01,Paracetamol,40,General
+2026-02-01,Paracetamol,79,Emergency
+2026-02-01,Paracetamol,25,ICU
+2026-02-01,Amoxicillin,97,General
+2026-02-01,Amoxicillin,91,Emergency
+2026-02-01,Amoxicillin,71,ICU
+2026-02-01,Insulin,99,General
+2026-02-01,Insulin,65,Emergency
+2026-02-01,Insulin,83,ICU
+2026-02-01,Antibiotics,85,General
+2026-02-01,Antibiotics,78,Emergency
+2026-02-01,Antibiotics,102,ICU
+2026-02-01,IV Fluids,32,General
+2026-02-01,IV Fluids,111,Emergency
+2026-02-01,IV Fluids,86,ICU
+2026-02-02,Paracetamol,91,General
+2026-02-02,Paracetamol,53,Emergency
+2026-02-02,Paracetamol,29,ICU
+2026-02-02,Amoxicillin,16,General
+2026-02-02,Amoxicillin,112,Emergency
+2026-02-02,Amoxicillin,83,ICU
+2026-02-02,Insulin,57,General
+2026-02-02,Insulin,110,Emergency
+2026-02-02,Insulin,76,ICU
+2026-02-02,Antibiotics,74,General
+2026-02-02,Antibiotics,106,Emergency
+2026-02-02,Antibiotics,28,ICU
+2026-02-02,IV Fluids,110,General
+2026-02-02,IV Fluids,124,Emergency
+2026-02-02,IV Fluids,37,ICU
+2026-02-03,Paracetamol,39,General
+2026-02-03,Paracetamol,25,Emergency
+2026-02-03,Paracetamol,81,ICU
+2026-02-03,Amoxicillin,52,General
+2026-02-03,Amoxicillin,41,Emergency
+2026-02-03,Amoxicillin,72,ICU
+2026-02-03,Insulin,66,General
+2026-02-03,Insulin,59,Emergency
+2026-02-03,Insulin,70,ICU
+2026-02-03,Antibiotics,53,General
+2026-02-03,Antibiotics,81,Emergency
+2026-02-03,Antibiotics,45,ICU
+2026-02-03,IV Fluids,35,General
+2026-02-03,IV Fluids,136,Emergency
+2026-02-03,IV Fluids,29,ICU
+2026-02-04,Paracetamol,50,General
+2026-02-04,Paracetamol,91,Emergency
+2026-02-04,Paracetamol,36,ICU
+2026-02-04,Amoxicillin,75,General
+2026-02-04,Amoxicillin,51,Emergency
+2026-02-04,Amoxicillin,48,ICU
+2026-02-04,Insulin,74,General
+2026-02-04,Insulin,95,Emergency
+2026-02-04,Insulin,72,ICU
+2026-02-04,Antibiotics,35,General
+2026-02-04,Antibiotics,65,Emergency
+2026-02-04,Antibiotics,89,ICU
+2026-02-04,IV Fluids,56,General
+2026-02-04,IV Fluids,98,Emergency
+2026-02-04,IV Fluids,76,ICU
+2026-02-05,Paracetamol,71,General
+2026-02-05,Paracetamol,26,Emergency
+2026-02-05,Paracetamol,19,ICU
+2026-02-05,Amoxicillin,111,General
+2026-02-05,Amoxicillin,107,Emergency
+2026-02-05,Amoxicillin,39,ICU
+2026-02-05,Insulin,83,General
+2026-02-05,Insulin,88,Emergency
+2026-02-05,Insulin,67,ICU
+2026-02-05,Antibiotics,84,General
+2026-02-05,Antibiotics,58,Emergency
+2026-02-05,Antibiotics,92,ICU
+2026-02-05,IV Fluids,19,General
+2026-02-05,IV Fluids,113,Emergency
+2026-02-05,IV Fluids,87,ICU
+2026-02-06,Paracetamol,106,General
+2026-02-06,Paracetamol,101,Emergency
+2026-02-06,Paracetamol,78,ICU
+2026-02-06,Amoxicillin,78,General
+2026-02-06,Amoxicillin,16,Emergency
+2026-02-06,Amoxicillin,58,ICU
+2026-02-06,Insulin,36,General
+2026-02-06,Insulin,110,Emergency
+2026-02-06,Insulin,103,ICU
+2026-02-06,Antibiotics,96,General
+2026-02-06,Antibiotics,63,Emergency
+2026-02-06,Antibiotics,33,ICU
+2026-02-06,IV Fluids,92,General
+2026-02-06,IV Fluids,62,Emergency
+2026-02-06,IV Fluids,39,ICU
+2026-02-07,Paracetamol,84,General
+2026-02-07,Paracetamol,26,Emergency
+2026-02-07,Paracetamol,30,ICU
+2026-02-07,Amoxicillin,73,General
+2026-02-07,Amoxicillin,70,Emergency
+2026-02-07,Amoxicillin,56,ICU
+2026-02-07,Insulin,76,General
+2026-02-07,Insulin,59,Emergency
+2026-02-07,Insulin,100,ICU
+2026-02-07,Antibiotics,91,General
+2026-02-07,Antibiotics,46,Emergency
+2026-02-07,Antibiotics,16,ICU
+2026-02-07,IV Fluids,68,General
+2026-02-07,IV Fluids,117,Emergency
+2026-02-07,IV Fluids,82,ICU
+2026-02-08,Paracetamol,87,General
+2026-02-08,Paracetamol,39,Emergency
+2026-02-08,Paracetamol,70,ICU
+2026-02-08,Amoxicillin,66,General
+2026-02-08,Amoxicillin,21,Emergency
+2026-02-08,Amoxicillin,50,ICU
+2026-02-08,Insulin,65,General
+2026-02-08,Insulin,70,Emergency
+2026-02-08,Insulin,52,ICU
+2026-02-08,Antibiotics,32,General
+2026-02-08,Antibiotics,66,Emergency
+2026-02-08,Antibiotics,100,ICU
+2026-02-08,IV Fluids,51,General
+2026-02-08,IV Fluids,149,Emergency
+2026-02-08,IV Fluids,26,ICU
+2026-02-09,Paracetamol,53,General
+2026-02-09,Paracetamol,42,Emergency
+2026-02-09,Paracetamol,21,ICU
+2026-02-09,Amoxicillin,81,General
+2026-02-09,Amoxicillin,83,Emergency
+2026-02-09,Amoxicillin,66,ICU
+2026-02-09,Insulin,105,General
+2026-02-09,Insulin,31,Emergency
+2026-02-09,Insulin,39,ICU
+2026-02-09,Antibiotics,74,General
+2026-02-09,Antibiotics,61,Emergency
+2026-02-09,Antibiotics,19,ICU
+2026-02-09,IV Fluids,114,General
+2026-02-09,IV Fluids,104,Emergency
+2026-02-09,IV Fluids,100,ICU
+2026-02-10,Paracetamol,74,General
+2026-02-10,Paracetamol,37,Emergency
+2026-02-10,Paracetamol,40,ICU
+2026-02-10,Amoxicillin,94,General
+2026-02-10,Amoxicillin,102,Emergency
+2026-02-10,Amoxicillin,62,ICU
+2026-02-10,Insulin,40,General
+2026-02-10,Insulin,74,Emergency
+2026-02-10,Insulin,61,ICU
+2026-02-10,Antibiotics,89,General
+2026-02-10,Antibiotics,67,Emergency
+2026-02-10,Antibiotics,93,ICU
+2026-02-10,IV Fluids,56,General
+2026-02-10,IV Fluids,109,Emergency
+2026-02-10,IV Fluids,103,ICU
+2026-02-11,Paracetamol,103,General
+2026-02-11,Paracetamol,48,Emergency
+2026-02-11,Paracetamol,103,ICU
+2026-02-11,Amoxicillin,98,General
+2026-02-11,Amoxicillin,61,Emergency
+2026-02-11,Amoxicillin,55,ICU
+2026-02-11,Insulin,84,General
+2026-02-11,Insulin,77,Emergency
+2026-02-11,Insulin,44,ICU
+2026-02-11,Antibiotics,91,General
+2026-02-11,Antibiotics,101,Emergency
+2026-02-11,Antibiotics,38,ICU
+2026-02-11,IV Fluids,47,General
+2026-02-11,IV Fluids,75,Emergency
+2026-02-11,IV Fluids,42,ICU
+2026-02-12,Paracetamol,103,General
+2026-02-12,Paracetamol,43,Emergency
+2026-02-12,Paracetamol,105,ICU
+2026-02-12,Amoxicillin,53,General
+2026-02-12,Amoxicillin,79,Emergency
+2026-02-12,Amoxicillin,29,ICU
+2026-02-12,Insulin,79,General
+2026-02-12,Insulin,55,Emergency
+2026-02-12,Insulin,49,ICU
+2026-02-12,Antibiotics,105,General
+2026-02-12,Antibiotics,43,Emergency
+2026-02-12,Antibiotics,39,ICU
+2026-02-12,IV Fluids,33,General
+2026-02-12,IV Fluids,161,Emergency
+2026-02-12,IV Fluids,64,ICU
+2026-02-13,Paracetamol,96,General
+2026-02-13,Paracetamol,43,Emergency
+2026-02-13,Paracetamol,42,ICU
+2026-02-13,Amoxicillin,43,General
+2026-02-13,Amoxicillin,75,Emergency
+2026-02-13,Amoxicillin,99,ICU
+2026-02-13,Insulin,48,General
+2026-02-13,Insulin,33,Emergency
+2026-02-13,Insulin,22,ICU
+2026-02-13,Antibiotics,50,General
+2026-02-13,Antibiotics,37,Emergency
+2026-02-13,Antibiotics,52,ICU
+2026-02-13,IV Fluids,83,General
+2026-02-13,IV Fluids,91,Emergency
+2026-02-13,IV Fluids,106,ICU
+2026-02-14,Paracetamol,47,General
+2026-02-14,Paracetamol,37,Emergency
+2026-02-14,Paracetamol,15,ICU
+2026-02-14,Amoxicillin,73,General
+2026-02-14,Amoxicillin,28,Emergency
+2026-02-14,Amoxicillin,90,ICU
+2026-02-14,Insulin,52,General
+2026-02-14,Insulin,56,Emergency
+2026-02-14,Insulin,106,ICU
+2026-02-14,Antibiotics,68,General
+2026-02-14,Antibiotics,54,Emergency
+2026-02-14,Antibiotics,71,ICU
+2026-02-14,IV Fluids,40,General
+2026-02-14,IV Fluids,108,Emergency
+2026-02-14,IV Fluids,39,ICU
+2026-02-15,Paracetamol,13,General
+2026-02-15,Paracetamol,32,Emergency
+2026-02-15,Paracetamol,111,ICU
+2026-02-15,Amoxicillin,85,General
+2026-02-15,Amoxicillin,86,Emergency
+2026-02-15,Amoxicillin,98,ICU
+2026-02-15,Insulin,24,General
+2026-02-15,Insulin,42,Emergency
+2026-02-15,Insulin,90,ICU
+2026-02-15,Antibiotics,44,General
+2026-02-15,Antibiotics,80,Emergency
+2026-02-15,Antibiotics,81,ICU
+2026-02-15,IV Fluids,78,General
+2026-02-15,IV Fluids,70,Emergency
+2026-02-15,IV Fluids,72,ICU
+2026-02-16,Paracetamol,41,General
+2026-02-16,Paracetamol,53,Emergency
+2026-02-16,Paracetamol,68,ICU
+2026-02-16,Amoxicillin,78,General
+2026-02-16,Amoxicillin,67,Emergency
+2026-02-16,Amoxicillin,96,ICU
+2026-02-16,Insulin,103,General
+2026-02-16,Insulin,69,Emergency
+2026-02-16,Insulin,73,ICU
+2026-02-16,Antibiotics,85,General
+2026-02-16,Antibiotics,60,Emergency
+2026-02-16,Antibiotics,21,ICU
+2026-02-16,IV Fluids,25,General
+2026-02-16,IV Fluids,84,Emergency
+2026-02-16,IV Fluids,44,ICU
+2026-02-17,Paracetamol,26,General
+2026-02-17,Paracetamol,28,Emergency
+2026-02-17,Paracetamol,37,ICU
+2026-02-17,Amoxicillin,46,General
+2026-02-17,Amoxicillin,60,Emergency
+2026-02-17,Amoxicillin,86,ICU
+2026-02-17,Insulin,64,General
+2026-02-17,Insulin,66,Emergency
+2026-02-17,Insulin,59,ICU
+2026-02-17,Antibiotics,55,General
+2026-02-17,Antibiotics,84,Emergency
+2026-02-17,Antibiotics,71,ICU
+2026-02-17,IV Fluids,68,General
+2026-02-17,IV Fluids,72,Emergency
+2026-02-17,IV Fluids,32,ICU
+2026-02-18,Paracetamol,93,General
+2026-02-18,Paracetamol,33,Emergency
+2026-02-18,Paracetamol,65,ICU
+2026-02-18,Amoxicillin,31,General
+2026-02-18,Amoxicillin,65,Emergency
+2026-02-18,Amoxicillin,104,ICU
+2026-02-18,Insulin,36,General
+2026-02-18,Insulin,105,Emergency
+2026-02-18,Insulin,92,ICU
+2026-02-18,Antibiotics,95,General
+2026-02-18,Antibiotics,25,Emergency
+2026-02-18,Antibiotics,18,ICU
+2026-02-18,IV Fluids,83,General
+2026-02-18,IV Fluids,125,Emergency
+2026-02-18,IV Fluids,74,ICU
+2026-02-19,Paracetamol,92,General
+2026-02-19,Paracetamol,102,Emergency
+2026-02-19,Paracetamol,78,ICU
+2026-02-19,Amoxicillin,30,General
+2026-02-19,Amoxicillin,76,Emergency
+2026-02-19,Amoxicillin,45,ICU
+2026-02-19,Insulin,88,General
+2026-02-19,Insulin,63,Emergency
+2026-02-19,Insulin,35,ICU
+2026-02-19,Antibiotics,54,General
+2026-02-19,Antibiotics,24,Emergency
+2026-02-19,Antibiotics,67,ICU
+2026-02-19,IV Fluids,93,General
+2026-02-19,IV Fluids,150,Emergency
+2026-02-19,IV Fluids,27,ICU
+2026-02-20,Paracetamol,52,General
+2026-02-20,Paracetamol,51,Emergency
+2026-02-20,Paracetamol,99,ICU
+2026-02-20,Amoxicillin,103,General
+2026-02-20,Amoxicillin,87,Emergency
+2026-02-20,Amoxicillin,62,ICU
+2026-02-20,Insulin,88,General
+2026-02-20,Insulin,16,Emergency
+2026-02-20,Insulin,56,ICU
+2026-02-20,Antibiotics,105,General
+2026-02-20,Antibiotics,26,Emergency
+2026-02-20,Antibiotics,92,ICU
+2026-02-20,IV Fluids,66,General
+2026-02-20,IV Fluids,132,Emergency
+2026-02-20,IV Fluids,58,ICU
+2026-02-21,Paracetamol,81,General
+2026-02-21,Paracetamol,113,Emergency
+2026-02-21,Paracetamol,25,ICU
+2026-02-21,Amoxicillin,46,General
+2026-02-21,Amoxicillin,86,Emergency
+2026-02-21,Amoxicillin,91,ICU
+2026-02-21,Insulin,15,General
+2026-02-21,Insulin,62,Emergency
+2026-02-21,Insulin,58,ICU
+2026-02-21,Antibiotics,26,General
+2026-02-21,Antibiotics,74,Emergency
+2026-02-21,Antibiotics,37,ICU
+2026-02-21,IV Fluids,59,General
+2026-02-21,IV Fluids,137,Emergency
+2026-02-21,IV Fluids,52,ICU
+2026-02-22,Paracetamol,112,General
+2026-02-22,Paracetamol,61,Emergency
+2026-02-22,Paracetamol,94,ICU
+2026-02-22,Amoxicillin,98,General
+2026-02-22,Amoxicillin,46,Emergency
+2026-02-22,Amoxicillin,103,ICU
+2026-02-22,Insulin,27,General
+2026-02-22,Insulin,61,Emergency
+2026-02-22,Insulin,78,ICU
+2026-02-22,Antibiotics,43,General
+2026-02-22,Antibiotics,33,Emergency
+2026-02-22,Antibiotics,71,ICU
+2026-02-22,IV Fluids,21,General
+2026-02-22,IV Fluids,109,Emergency
+2026-02-22,IV Fluids,28,ICU
+2026-02-23,Paracetamol,106,General
+2026-02-23,Paracetamol,51,Emergency
+2026-02-23,Paracetamol,96,ICU
+2026-02-23,Amoxicillin,89,General
+2026-02-23,Amoxicillin,40,Emergency
+2026-02-23,Amoxicillin,54,ICU
+2026-02-23,Insulin,57,General
+2026-02-23,Insulin,50,Emergency
+2026-02-23,Insulin,20,ICU
+2026-02-23,Antibiotics,86,General
+2026-02-23,Antibiotics,99,Emergency
+2026-02-23,Antibiotics,81,ICU
+2026-02-23,IV Fluids,45,General
+2026-02-23,IV Fluids,115,Emergency
+2026-02-23,IV Fluids,41,ICU
+2026-02-24,Paracetamol,96,General
+2026-02-24,Paracetamol,87,Emergency
+2026-02-24,Paracetamol,41,ICU
+2026-02-24,Amoxicillin,86,General
+2026-02-24,Amoxicillin,95,Emergency
+2026-02-24,Amoxicillin,11,ICU
+2026-02-24,Insulin,67,General
+2026-02-24,Insulin,50,Emergency
+2026-02-24,Insulin,29,ICU
+2026-02-24,Antibiotics,66,General
+2026-02-24,Antibiotics,73,Emergency
+2026-02-24,Antibiotics,21,ICU
+2026-02-24,IV Fluids,107,General
+2026-02-24,IV Fluids,71,Emergency
+2026-02-24,IV Fluids,30,ICU
+2026-02-25,Paracetamol,42,General
+2026-02-25,Paracetamol,107,Emergency
+2026-02-25,Paracetamol,56,ICU
+2026-02-25,Amoxicillin,36,General
+2026-02-25,Amoxicillin,40,Emergency
+2026-02-25,Amoxicillin,32,ICU
+2026-02-25,Insulin,93,General
+2026-02-25,Insulin,103,Emergency
+2026-02-25,Insulin,73,ICU
+2026-02-25,Antibiotics,103,General
+2026-02-25,Antibiotics,98,Emergency
+2026-02-25,Antibiotics,102,ICU
+2026-02-25,IV Fluids,60,General
+2026-02-25,IV Fluids,113,Emergency
+2026-02-25,IV Fluids,48,ICU
+2026-02-26,Paracetamol,84,General
+2026-02-26,Paracetamol,106,Emergency
+2026-02-26,Paracetamol,72,ICU
+2026-02-26,Amoxicillin,79,General
+2026-02-26,Amoxicillin,62,Emergency
+2026-02-26,Amoxicillin,108,ICU
+2026-02-26,Insulin,64,General
+2026-02-26,Insulin,98,Emergency
+2026-02-26,Insulin,72,ICU
+2026-02-26,Antibiotics,57,General
+2026-02-26,Antibiotics,44,Emergency
+2026-02-26,Antibiotics,33,ICU
+2026-02-26,IV Fluids,35,General
+2026-02-26,IV Fluids,122,Emergency
+2026-02-26,IV Fluids,40,ICU
+2026-02-27,Paracetamol,53,General
+2026-02-27,Paracetamol,89,Emergency
+2026-02-27,Paracetamol,85,ICU
+2026-02-27,Amoxicillin,60,General
+2026-02-27,Amoxicillin,32,Emergency
+2026-02-27,Amoxicillin,52,ICU
+2026-02-27,Insulin,107,General
+2026-02-27,Insulin,87,Emergency
+2026-02-27,Insulin,85,ICU
+2026-02-27,Antibiotics,43,General
+2026-02-27,Antibiotics,68,Emergency
+2026-02-27,Antibiotics,49,ICU
+2026-02-27,IV Fluids,13,General
+2026-02-27,IV Fluids,92,Emergency
+2026-02-27,IV Fluids,77,ICU
+2026-02-28,Paracetamol,63,General
+2026-02-28,Paracetamol,69,Emergency
+2026-02-28,Paracetamol,22,ICU
+2026-02-28,Amoxicillin,58,General
+2026-02-28,Amoxicillin,105,Emergency
+2026-02-28,Amoxicillin,26,ICU
+2026-02-28,Insulin,30,General
+2026-02-28,Insulin,69,Emergency
+2026-02-28,Insulin,86,ICU
+2026-02-28,Antibiotics,26,General
+2026-02-28,Antibiotics,70,Emergency
+2026-02-28,Antibiotics,26,ICU
+2026-02-28,IV Fluids,23,General
+2026-02-28,IV Fluids,123,Emergency
+2026-02-28,IV Fluids,50,ICU
+2026-03-01,Paracetamol,26,General
+2026-03-01,Paracetamol,83,Emergency
+2026-03-01,Paracetamol,99,ICU
+2026-03-01,Amoxicillin,40,General
+2026-03-01,Amoxicillin,27,Emergency
+2026-03-01,Amoxicillin,110,ICU
+2026-03-01,Insulin,25,General
+2026-03-01,Insulin,103,Emergency
+2026-03-01,Insulin,71,ICU
+2026-03-01,Antibiotics,73,General
+2026-03-01,Antibiotics,22,Emergency
+2026-03-01,Antibiotics,85,ICU
+2026-03-01,IV Fluids,42,General
+2026-03-01,IV Fluids,111,Emergency
+2026-03-01,IV Fluids,33,ICU
+2026-03-02,Paracetamol,75,General
+2026-03-02,Paracetamol,54,Emergency
+2026-03-02,Paracetamol,11,ICU
+2026-03-02,Amoxicillin,54,General
+2026-03-02,Amoxicillin,72,Emergency
+2026-03-02,Amoxicillin,110,ICU
+2026-03-02,Insulin,87,General
+2026-03-02,Insulin,104,Emergency
+2026-03-02,Insulin,57,ICU
+2026-03-02,Antibiotics,31,General
+2026-03-02,Antibiotics,39,Emergency
+2026-03-02,Antibiotics,40,ICU
+2026-03-02,IV Fluids,102,General
+2026-03-02,IV Fluids,127,Emergency
+2026-03-02,IV Fluids,63,ICU
+2026-03-03,Paracetamol,28,General
+2026-03-03,Paracetamol,63,Emergency
+2026-03-03,Paracetamol,92,ICU
+2026-03-03,Amoxicillin,85,General
+2026-03-03,Amoxicillin,16,Emergency
+2026-03-03,Amoxicillin,72,ICU
+2026-03-03,Insulin,37,General
+2026-03-03,Insulin,52,Emergency
+2026-03-03,Insulin,51,ICU
+2026-03-03,Antibiotics,59,General
+2026-03-03,Antibiotics,64,Emergency
+2026-03-03,Antibiotics,83,ICU
+2026-03-03,IV Fluids,96,General
+2026-03-03,IV Fluids,82,Emergency
+2026-03-03,IV Fluids,86,ICU
+2026-03-04,Paracetamol,22,General
+2026-03-04,Paracetamol,52,Emergency
+2026-03-04,Paracetamol,18,ICU
+2026-03-04,Amoxicillin,27,General
+2026-03-04,Amoxicillin,28,Emergency
+2026-03-04,Amoxicillin,43,ICU
+2026-03-04,Insulin,86,General
+2026-03-04,Insulin,53,Emergency
+2026-03-04,Insulin,91,ICU
+2026-03-04,Antibiotics,45,General
+2026-03-04,Antibiotics,94,Emergency
+2026-03-04,Antibiotics,37,ICU
+2026-03-04,IV Fluids,106,General
+2026-03-04,IV Fluids,116,Emergency
+2026-03-04,IV Fluids,105,ICU
+2026-03-05,Paracetamol,110,General
+2026-03-05,Paracetamol,99,Emergency
+2026-03-05,Paracetamol,46,ICU
+2026-03-05,Amoxicillin,49,General
+2026-03-05,Amoxicillin,64,Emergency
+2026-03-05,Amoxicillin,64,ICU
+2026-03-05,Insulin,61,General
+2026-03-05,Insulin,90,Emergency
+2026-03-05,Insulin,69,ICU
+2026-03-05,Antibiotics,102,General
+2026-03-05,Antibiotics,51,Emergency
+2026-03-05,Antibiotics,27,ICU
+2026-03-05,IV Fluids,84,General
+2026-03-05,IV Fluids,113,Emergency
+2026-03-05,IV Fluids,80,ICU
+2026-03-06,Paracetamol,66,General
+2026-03-06,Paracetamol,66,Emergency
+2026-03-06,Paracetamol,41,ICU
+2026-03-06,Amoxicillin,23,General
+2026-03-06,Amoxicillin,108,Emergency
+2026-03-06,Amoxicillin,63,ICU
+2026-03-06,Insulin,95,General
+2026-03-06,Insulin,82,Emergency
+2026-03-06,Insulin,35,ICU
+2026-03-06,Antibiotics,111,General
+2026-03-06,Antibiotics,91,Emergency
+2026-03-06,Antibiotics,62,ICU
+2026-03-06,IV Fluids,53,General
+2026-03-06,IV Fluids,87,Emergency
+2026-03-06,IV Fluids,26,ICU
+2026-03-07,Paracetamol,88,General
+2026-03-07,Paracetamol,60,Emergency
+2026-03-07,Paracetamol,85,ICU
+2026-03-07,Amoxicillin,24,General
+2026-03-07,Amoxicillin,63,Emergency
+2026-03-07,Amoxicillin,53,ICU
+2026-03-07,Insulin,101,General
+2026-03-07,Insulin,61,Emergency
+2026-03-07,Insulin,58,ICU
+2026-03-07,Antibiotics,39,General
+2026-03-07,Antibiotics,38,Emergency
+2026-03-07,Antibiotics,98,ICU
+2026-03-07,IV Fluids,54,General
+2026-03-07,IV Fluids,109,Emergency
+2026-03-07,IV Fluids,55,ICU
+2026-03-08,Paracetamol,103,General
+2026-03-08,Paracetamol,65,Emergency
+2026-03-08,Paracetamol,111,ICU
+2026-03-08,Amoxicillin,91,General
+2026-03-08,Amoxicillin,25,Emergency
+2026-03-08,Amoxicillin,18,ICU
+2026-03-08,Insulin,86,General
+2026-03-08,Insulin,38,Emergency
+2026-03-08,Insulin,84,ICU
+2026-03-08,Antibiotics,79,General
+2026-03-08,Antibiotics,13,Emergency
+2026-03-08,Antibiotics,34,ICU
+2026-03-08,IV Fluids,88,General
+2026-03-08,IV Fluids,157,Emergency
+2026-03-08,IV Fluids,35,ICU
+2026-03-09,Paracetamol,82,General
+2026-03-09,Paracetamol,49,Emergency
+2026-03-09,Paracetamol,45,ICU
+2026-03-09,Amoxicillin,102,General
+2026-03-09,Amoxicillin,83,Emergency
+2026-03-09,Amoxicillin,37,ICU
+2026-03-09,Insulin,72,General
+2026-03-09,Insulin,76,Emergency
+2026-03-09,Insulin,63,ICU
+2026-03-09,Antibiotics,104,General
+2026-03-09,Antibiotics,53,Emergency
+2026-03-09,Antibiotics,77,ICU
+2026-03-09,IV Fluids,109,General
+2026-03-09,IV Fluids,147,Emergency
+2026-03-09,IV Fluids,67,ICU
+2026-03-10,Paracetamol,29,General
+2026-03-10,Paracetamol,95,Emergency
+2026-03-10,Paracetamol,30,ICU
+2026-03-10,Amoxicillin,77,General
+2026-03-10,Amoxicillin,87,Emergency
+2026-03-10,Amoxicillin,16,ICU
+2026-03-10,Insulin,60,General
+2026-03-10,Insulin,103,Emergency
+2026-03-10,Insulin,69,ICU
+2026-03-10,Antibiotics,35,General
+2026-03-10,Antibiotics,73,Emergency
+2026-03-10,Antibiotics,98,ICU
+2026-03-10,IV Fluids,24,General
+2026-03-10,IV Fluids,63,Emergency
+2026-03-10,IV Fluids,102,ICU
+2026-03-11,Paracetamol,52,General
+2026-03-11,Paracetamol,47,Emergency
+2026-03-11,Paracetamol,100,ICU
+2026-03-11,Amoxicillin,69,General
+2026-03-11,Amoxicillin,65,Emergency
+2026-03-11,Amoxicillin,24,ICU
+2026-03-11,Insulin,50,General
+2026-03-11,Insulin,40,Emergency
+2026-03-11,Insulin,86,ICU
+2026-03-11,Antibiotics,69,General
+2026-03-11,Antibiotics,22,Emergency
+2026-03-11,Antibiotics,98,ICU
+2026-03-11,IV Fluids,66,General
+2026-03-11,IV Fluids,128,Emergency
+2026-03-11,IV Fluids,112,ICU
+2026-03-12,Paracetamol,47,General
+2026-03-12,Paracetamol,18,Emergency
+2026-03-12,Paracetamol,33,ICU
+2026-03-12,Amoxicillin,64,General
+2026-03-12,Amoxicillin,89,Emergency
+2026-03-12,Amoxicillin,21,ICU
+2026-03-12,Insulin,40,General
+2026-03-12,Insulin,102,Emergency
+2026-03-12,Insulin,73,ICU
+2026-03-12,Antibiotics,30,General
+2026-03-12,Antibiotics,73,Emergency
+2026-03-12,Antibiotics,55,ICU
+2026-03-12,IV Fluids,52,General
+2026-03-12,IV Fluids,86,Emergency
+2026-03-12,IV Fluids,77,ICU
+2026-03-13,Paracetamol,103,General
+2026-03-13,Paracetamol,68,Emergency
+2026-03-13,Paracetamol,39,ICU
+2026-03-13,Amoxicillin,89,General
+2026-03-13,Amoxicillin,70,Emergency
+2026-03-13,Amoxicillin,55,ICU
+2026-03-13,Insulin,22,General
+2026-03-13,Insulin,64,Emergency
+2026-03-13,Insulin,81,ICU
+2026-03-13,Antibiotics,69,General
+2026-03-13,Antibiotics,36,Emergency
+2026-03-13,Antibiotics,80,ICU
+2026-03-13,IV Fluids,54,General
+2026-03-13,IV Fluids,116,Emergency
+2026-03-13,IV Fluids,26,ICU
+2026-03-14,Paracetamol,62,General
+2026-03-14,Paracetamol,80,Emergency
+2026-03-14,Paracetamol,82,ICU
+2026-03-14,Amoxicillin,53,General
+2026-03-14,Amoxicillin,54,Emergency
+2026-03-14,Amoxicillin,66,ICU
+2026-03-14,Insulin,31,General
+2026-03-14,Insulin,49,Emergency
+2026-03-14,Insulin,75,ICU
+2026-03-14,Antibiotics,54,General
+2026-03-14,Antibiotics,91,Emergency
+2026-03-14,Antibiotics,54,ICU
+2026-03-14,IV Fluids,106,General
+2026-03-14,IV Fluids,90,Emergency
+2026-03-14,IV Fluids,25,ICU
+2026-03-15,Paracetamol,51,General
+2026-03-15,Paracetamol,37,Emergency
+2026-03-15,Paracetamol,22,ICU
+2026-03-15,Amoxicillin,100,General
+2026-03-15,Amoxicillin,33,Emergency
+2026-03-15,Amoxicillin,52,ICU
+2026-03-15,Insulin,63,General
+2026-03-15,Insulin,50,Emergency
+2026-03-15,Insulin,93,ICU
+2026-03-15,Antibiotics,72,General
+2026-03-15,Antibiotics,95,Emergency
+2026-03-15,Antibiotics,88,ICU
+2026-03-15,IV Fluids,47,General
+2026-03-15,IV Fluids,101,Emergency
+2026-03-15,IV Fluids,28,ICU
+2026-03-16,Paracetamol,76,General
+2026-03-16,Paracetamol,84,Emergency
+2026-03-16,Paracetamol,88,ICU
+2026-03-16,Amoxicillin,20,General
+2026-03-16,Amoxicillin,99,Emergency
+2026-03-16,Amoxicillin,56,ICU
+2026-03-16,Insulin,27,General
+2026-03-16,Insulin,71,Emergency
+2026-03-16,Insulin,71,ICU
+2026-03-16,Antibiotics,100,General
+2026-03-16,Antibiotics,60,Emergency
+2026-03-16,Antibiotics,85,ICU
+2026-03-16,IV Fluids,53,General
+2026-03-16,IV Fluids,150,Emergency
+2026-03-16,IV Fluids,75,ICU
+2026-03-17,Paracetamol,59,General
+2026-03-17,Paracetamol,53,Emergency
+2026-03-17,Paracetamol,104,ICU
+2026-03-17,Amoxicillin,81,General
+2026-03-17,Amoxicillin,94,Emergency
+2026-03-17,Amoxicillin,92,ICU
+2026-03-17,Insulin,26,General
+2026-03-17,Insulin,41,Emergency
+2026-03-17,Insulin,27,ICU
+2026-03-17,Antibiotics,70,General
+2026-03-17,Antibiotics,46,Emergency
+2026-03-17,Antibiotics,70,ICU
+2026-03-17,IV Fluids,57,General
+2026-03-17,IV Fluids,153,Emergency
+2026-03-17,IV Fluids,42,ICU
+2026-03-18,Paracetamol,35,General
+2026-03-18,Paracetamol,43,Emergency
+2026-03-18,Paracetamol,99,ICU
+2026-03-18,Amoxicillin,29,General
+2026-03-18,Amoxicillin,94,Emergency
+2026-03-18,Amoxicillin,101,ICU
+2026-03-18,Insulin,58,General
+2026-03-18,Insulin,49,Emergency
+2026-03-18,Insulin,79,ICU
+2026-03-18,Antibiotics,67,General
+2026-03-18,Antibiotics,63,Emergency
+2026-03-18,Antibiotics,41,ICU
+2026-03-18,IV Fluids,103,General
+2026-03-18,IV Fluids,78,Emergency
+2026-03-18,IV Fluids,40,ICU
+2026-03-19,Paracetamol,90,General
+2026-03-19,Paracetamol,43,Emergency
+2026-03-19,Paracetamol,58,ICU
+2026-03-19,Amoxicillin,74,General
+2026-03-19,Amoxicillin,67,Emergency
+2026-03-19,Amoxicillin,81,ICU
+2026-03-19,Insulin,56,General
+2026-03-19,Insulin,69,Emergency
+2026-03-19,Insulin,78,ICU
+2026-03-19,Antibiotics,18,General
+2026-03-19,Antibiotics,70,Emergency
+2026-03-19,Antibiotics,83,ICU
+2026-03-19,IV Fluids,31,General
+2026-03-19,IV Fluids,127,Emergency
+2026-03-19,IV Fluids,26,ICU
+2026-03-20,Paracetamol,85,General
+2026-03-20,Paracetamol,65,Emergency
+2026-03-20,Paracetamol,36,ICU
+2026-03-20,Amoxicillin,32,General
+2026-03-20,Amoxicillin,60,Emergency
+2026-03-20,Amoxicillin,31,ICU
+2026-03-20,Insulin,43,General
+2026-03-20,Insulin,72,Emergency
+2026-03-20,Insulin,60,ICU
+2026-03-20,Antibiotics,53,General
+2026-03-20,Antibiotics,54,Emergency
+2026-03-20,Antibiotics,20,ICU
+2026-03-20,IV Fluids,82,General
+2026-03-20,IV Fluids,92,Emergency
+2026-03-20,IV Fluids,51,ICU
+2026-03-21,Paracetamol,82,General
+2026-03-21,Paracetamol,72,Emergency
+2026-03-21,Paracetamol,103,ICU
+2026-03-21,Amoxicillin,40,General
+2026-03-21,Amoxicillin,91,Emergency
+2026-03-21,Amoxicillin,31,ICU
+2026-03-21,Insulin,47,General
+2026-03-21,Insulin,26,Emergency
+2026-03-21,Insulin,23,ICU
+2026-03-21,Antibiotics,100,General
+2026-03-21,Antibiotics,101,Emergency
+2026-03-21,Antibiotics,101,ICU
+2026-03-21,IV Fluids,70,General
+2026-03-21,IV Fluids,148,Emergency
+2026-03-21,IV Fluids,87,ICU
+2026-03-22,Paracetamol,77,General
+2026-03-22,Paracetamol,86,Emergency
+2026-03-22,Paracetamol,37,ICU
+2026-03-22,Amoxicillin,58,General
+2026-03-22,Amoxicillin,60,Emergency
+2026-03-22,Amoxicillin,48,ICU
+2026-03-22,Insulin,30,General
+2026-03-22,Insulin,102,Emergency
+2026-03-22,Insulin,31,ICU
+2026-03-22,Antibiotics,68,General
+2026-03-22,Antibiotics,84,Emergency
+2026-03-22,Antibiotics,46,ICU
+2026-03-22,IV Fluids,42,General
+2026-03-22,IV Fluids,92,Emergency
+2026-03-22,IV Fluids,86,ICU
+2026-03-23,Paracetamol,42,General
+2026-03-23,Paracetamol,52,Emergency
+2026-03-23,Paracetamol,60,ICU
+2026-03-23,Amoxicillin,74,General
+2026-03-23,Amoxicillin,50,Emergency
+2026-03-23,Amoxicillin,44,ICU
+2026-03-23,Insulin,96,General
+2026-03-23,Insulin,84,Emergency
+2026-03-23,Insulin,66,ICU
+2026-03-23,Antibiotics,95,General
+2026-03-23,Antibiotics,65,Emergency
+2026-03-23,Antibiotics,109,ICU
+2026-03-23,IV Fluids,69,General
+2026-03-23,IV Fluids,73,Emergency
+2026-03-23,IV Fluids,79,ICU
+2026-03-24,Paracetamol,98,General
+2026-03-24,Paracetamol,78,Emergency
+2026-03-24,Paracetamol,112,ICU
+2026-03-24,Amoxicillin,65,General
+2026-03-24,Amoxicillin,58,Emergency
+2026-03-24,Amoxicillin,97,ICU
+2026-03-24,Insulin,105,General
+2026-03-24,Insulin,38,Emergency
+2026-03-24,Insulin,66,ICU
+2026-03-24,Antibiotics,17,General
+2026-03-24,Antibiotics,26,Emergency
+2026-03-24,Antibiotics,61,ICU
+2026-03-24,IV Fluids,93,General
+2026-03-24,IV Fluids,73,Emergency
+2026-03-24,IV Fluids,23,ICU
+2026-03-25,Paracetamol,103,General
+2026-03-25,Paracetamol,78,Emergency
+2026-03-25,Paracetamol,106,ICU
+2026-03-25,Amoxicillin,50,General
+2026-03-25,Amoxicillin,49,Emergency
+2026-03-25,Amoxicillin,75,ICU
+2026-03-25,Insulin,91,General
+2026-03-25,Insulin,66,Emergency
+2026-03-25,Insulin,28,ICU
+2026-03-25,Antibiotics,87,General
+2026-03-25,Antibiotics,63,Emergency
+2026-03-25,Antibiotics,53,ICU
+2026-03-25,IV Fluids,58,General
+2026-03-25,IV Fluids,130,Emergency
+2026-03-25,IV Fluids,66,ICU
+2026-03-26,Paracetamol,85,General
+2026-03-26,Paracetamol,73,Emergency
+2026-03-26,Paracetamol,76,ICU
+2026-03-26,Amoxicillin,58,General
+2026-03-26,Amoxicillin,58,Emergency
+2026-03-26,Amoxicillin,109,ICU
+2026-03-26,Insulin,35,General
+2026-03-26,Insulin,82,Emergency
+2026-03-26,Insulin,36,ICU
+2026-03-26,Antibiotics,106,General
+2026-03-26,Antibiotics,111,Emergency
+2026-03-26,Antibiotics,78,ICU
+2026-03-26,IV Fluids,25,General
+2026-03-26,IV Fluids,76,Emergency
+2026-03-26,IV Fluids,74,ICU
+2026-03-27,Paracetamol,80,General
+2026-03-27,Paracetamol,81,Emergency
+2026-03-27,Paracetamol,79,ICU
+2026-03-27,Amoxicillin,109,General
+2026-03-27,Amoxicillin,85,Emergency
+2026-03-27,Amoxicillin,64,ICU
+2026-03-27,Insulin,40,General
+2026-03-27,Insulin,97,Emergency
+2026-03-27,Insulin,64,ICU
+2026-03-27,Antibiotics,39,General
+2026-03-27,Antibiotics,89,Emergency
+2026-03-27,Antibiotics,37,ICU
+2026-03-27,IV Fluids,46,General
+2026-03-27,IV Fluids,77,Emergency
+2026-03-27,IV Fluids,44,ICU
+2026-03-28,Paracetamol,57,General
+2026-03-28,Paracetamol,88,Emergency
+2026-03-28,Paracetamol,76,ICU
+2026-03-28,Amoxicillin,82,General
+2026-03-28,Amoxicillin,107,Emergency
+2026-03-28,Amoxicillin,60,ICU
+2026-03-28,Insulin,23,General
+2026-03-28,Insulin,51,Emergency
+2026-03-28,Insulin,98,ICU
+2026-03-28,Antibiotics,97,General
+2026-03-28,Antibiotics,80,Emergency
+2026-03-28,Antibiotics,40,ICU
+2026-03-28,IV Fluids,68,General
+2026-03-28,IV Fluids,137,Emergency
+2026-03-28,IV Fluids,80,ICU
+2026-03-29,Paracetamol,88,General
+2026-03-29,Paracetamol,58,Emergency
+2026-03-29,Paracetamol,52,ICU
+2026-03-29,Amoxicillin,66,General
+2026-03-29,Amoxicillin,26,Emergency
+2026-03-29,Amoxicillin,69,ICU
+2026-03-29,Insulin,76,General
+2026-03-29,Insulin,27,Emergency
+2026-03-29,Insulin,52,ICU
+2026-03-29,Antibiotics,48,General
+2026-03-29,Antibiotics,85,Emergency
+2026-03-29,Antibiotics,32,ICU
+2026-03-29,IV Fluids,40,General
+2026-03-29,IV Fluids,147,Emergency
+2026-03-29,IV Fluids,88,ICU
+2026-03-30,Paracetamol,28,General
+2026-03-30,Paracetamol,15,Emergency
+2026-03-30,Paracetamol,61,ICU
+2026-03-30,Amoxicillin,74,General
+2026-03-30,Amoxicillin,60,Emergency
+2026-03-30,Amoxicillin,71,ICU
+2026-03-30,Insulin,28,General
+2026-03-30,Insulin,38,Emergency
+2026-03-30,Insulin,68,ICU
+2026-03-30,Antibiotics,109,General
+2026-03-30,Antibiotics,86,Emergency
+2026-03-30,Antibiotics,29,ICU
+2026-03-30,IV Fluids,22,General
+2026-03-30,IV Fluids,102,Emergency
+2026-03-30,IV Fluids,16,ICU
+2026-03-31,Paracetamol,73,General
+2026-03-31,Paracetamol,34,Emergency
+2026-03-31,Paracetamol,62,ICU
+2026-03-31,Amoxicillin,85,General
+2026-03-31,Amoxicillin,65,Emergency
+2026-03-31,Amoxicillin,62,ICU
+2026-03-31,Insulin,51,General
+2026-03-31,Insulin,40,Emergency
+2026-03-31,Insulin,56,ICU
+2026-03-31,Antibiotics,72,General
+2026-03-31,Antibiotics,58,Emergency
+2026-03-31,Antibiotics,68,ICU
+2026-03-31,IV Fluids,43,General
+2026-03-31,IV Fluids,158,Emergency
+2026-03-31,IV Fluids,57,ICU
+2026-04-01,Paracetamol,33,General
+2026-04-01,Paracetamol,19,Emergency
+2026-04-01,Paracetamol,40,ICU
+2026-04-01,Amoxicillin,107,General
+2026-04-01,Amoxicillin,63,Emergency
+2026-04-01,Amoxicillin,87,ICU
+2026-04-01,Insulin,31,General
+2026-04-01,Insulin,62,Emergency
+2026-04-01,Insulin,33,ICU
+2026-04-01,Antibiotics,103,General
+2026-04-01,Antibiotics,30,Emergency
+2026-04-01,Antibiotics,106,ICU
+2026-04-01,IV Fluids,39,General
+2026-04-01,IV Fluids,81,Emergency
+2026-04-01,IV Fluids,16,ICU
+2026-04-02,Paracetamol,76,General
+2026-04-02,Paracetamol,98,Emergency
+2026-04-02,Paracetamol,50,ICU
+2026-04-02,Amoxicillin,28,General
+2026-04-02,Amoxicillin,30,Emergency
+2026-04-02,Amoxicillin,39,ICU
+2026-04-02,Insulin,11,General
+2026-04-02,Insulin,89,Emergency
+2026-04-02,Insulin,86,ICU
+2026-04-02,Antibiotics,25,General
+2026-04-02,Antibiotics,51,Emergency
+2026-04-02,Antibiotics,69,ICU
+2026-04-02,IV Fluids,72,General
+2026-04-02,IV Fluids,131,Emergency
+2026-04-02,IV Fluids,90,ICU
+2026-04-03,Paracetamol,67,General
+2026-04-03,Paracetamol,40,Emergency
+2026-04-03,Paracetamol,76,ICU
+2026-04-03,Amoxicillin,99,General
+2026-04-03,Amoxicillin,55,Emergency
+2026-04-03,Amoxicillin,85,ICU
+2026-04-03,Insulin,22,General
+2026-04-03,Insulin,56,Emergency
+2026-04-03,Insulin,101,ICU
+2026-04-03,Antibiotics,90,General
+2026-04-03,Antibiotics,81,Emergency
+2026-04-03,Antibiotics,61,ICU
+2026-04-03,IV Fluids,95,General
+2026-04-03,IV Fluids,148,Emergency
+2026-04-03,IV Fluids,46,ICU
+2026-04-04,Paracetamol,40,General
+2026-04-04,Paracetamol,17,Emergency
+2026-04-04,Paracetamol,73,ICU
+2026-04-04,Amoxicillin,24,General
+2026-04-04,Amoxicillin,68,Emergency
+2026-04-04,Amoxicillin,80,ICU
+2026-04-04,Insulin,83,General
+2026-04-04,Insulin,57,Emergency
+2026-04-04,Insulin,76,ICU
+2026-04-04,Antibiotics,30,General
+2026-04-04,Antibiotics,91,Emergency
+2026-04-04,Antibiotics,42,ICU
+2026-04-04,IV Fluids,102,General
+2026-04-04,IV Fluids,133,Emergency
+2026-04-04,IV Fluids,39,ICU
+2026-04-05,Paracetamol,79,General
+2026-04-05,Paracetamol,76,Emergency
+2026-04-05,Paracetamol,75,ICU
+2026-04-05,Amoxicillin,55,General
+2026-04-05,Amoxicillin,48,Emergency
+2026-04-05,Amoxicillin,48,ICU
+2026-04-05,Insulin,61,General
+2026-04-05,Insulin,12,Emergency
+2026-04-05,Insulin,43,ICU
+2026-04-05,Antibiotics,84,General
+2026-04-05,Antibiotics,45,Emergency
+2026-04-05,Antibiotics,70,ICU
+2026-04-05,IV Fluids,44,General
+2026-04-05,IV Fluids,108,Emergency
+2026-04-05,IV Fluids,20,ICU
+2026-04-06,Paracetamol,99,General
+2026-04-06,Paracetamol,39,Emergency
+2026-04-06,Paracetamol,43,ICU
+2026-04-06,Amoxicillin,87,General
+2026-04-06,Amoxicillin,104,Emergency
+2026-04-06,Amoxicillin,84,ICU
+2026-04-06,Insulin,38,General
+2026-04-06,Insulin,62,Emergency
+2026-04-06,Insulin,57,ICU
+2026-04-06,Antibiotics,110,General
+2026-04-06,Antibiotics,87,Emergency
+2026-04-06,Antibiotics,59,ICU
+2026-04-06,IV Fluids,21,General
+2026-04-06,IV Fluids,153,Emergency
+2026-04-06,IV Fluids,62,ICU
+2026-04-07,Paracetamol,70,General
+2026-04-07,Paracetamol,58,Emergency
+2026-04-07,Paracetamol,72,ICU
+2026-04-07,Amoxicillin,38,General
+2026-04-07,Amoxicillin,86,Emergency
+2026-04-07,Amoxicillin,40,ICU
+2026-04-07,Insulin,81,General
+2026-04-07,Insulin,77,Emergency
+2026-04-07,Insulin,103,ICU
+2026-04-07,Antibiotics,45,General
+2026-04-07,Antibiotics,28,Emergency
+2026-04-07,Antibiotics,29,ICU
+2026-04-07,IV Fluids,31,General
+2026-04-07,IV Fluids,159,Emergency
+2026-04-07,IV Fluids,72,ICU
+2026-04-08,Paracetamol,80,General
+2026-04-08,Paracetamol,18,Emergency
+2026-04-08,Paracetamol,86,ICU
+2026-04-08,Amoxicillin,82,General
+2026-04-08,Amoxicillin,57,Emergency
+2026-04-08,Amoxicillin,69,ICU
+2026-04-08,Insulin,43,General
+2026-04-08,Insulin,60,Emergency
+2026-04-08,Insulin,32,ICU
+2026-04-08,Antibiotics,71,General
+2026-04-08,Antibiotics,68,Emergency
+2026-04-08,Antibiotics,36,ICU
+2026-04-08,IV Fluids,97,General
+2026-04-08,IV Fluids,74,Emergency
+2026-04-08,IV Fluids,89,ICU
+2026-04-09,Paracetamol,82,General
+2026-04-09,Paracetamol,103,Emergency
+2026-04-09,Paracetamol,39,ICU
+2026-04-09,Amoxicillin,38,General
+2026-04-09,Amoxicillin,67,Emergency
+2026-04-09,Amoxicillin,28,ICU
+2026-04-09,Insulin,56,General
+2026-04-09,Insulin,67,Emergency
+2026-04-09,Insulin,51,ICU
+2026-04-09,Antibiotics,14,General
+2026-04-09,Antibiotics,98,Emergency
+2026-04-09,Antibiotics,88,ICU
+2026-04-09,IV Fluids,104,General
+2026-04-09,IV Fluids,116,Emergency
+2026-04-09,IV Fluids,73,ICU
+2026-04-10,Paracetamol,66,General
+2026-04-10,Paracetamol,76,Emergency
+2026-04-10,Paracetamol,19,ICU
+2026-04-10,Amoxicillin,46,General
+2026-04-10,Amoxicillin,69,Emergency
+2026-04-10,Amoxicillin,22,ICU
+2026-04-10,Insulin,100,General
+2026-04-10,Insulin,55,Emergency
+2026-04-10,Insulin,61,ICU
+2026-04-10,Antibiotics,100,General
+2026-04-10,Antibiotics,62,Emergency
+2026-04-10,Antibiotics,37,ICU
+2026-04-10,IV Fluids,92,General
+2026-04-10,IV Fluids,118,Emergency
+2026-04-10,IV Fluids,85,ICU
+2026-04-11,Paracetamol,36,General
+2026-04-11,Paracetamol,88,Emergency
+2026-04-11,Paracetamol,66,ICU
+2026-04-11,Amoxicillin,71,General
+2026-04-11,Amoxicillin,46,Emergency
+2026-04-11,Amoxicillin,109,ICU
+2026-04-11,Insulin,96,General
+2026-04-11,Insulin,73,Emergency
+2026-04-11,Insulin,35,ICU
+2026-04-11,Antibiotics,57,General
+2026-04-11,Antibiotics,88,Emergency
+2026-04-11,Antibiotics,79,ICU
+2026-04-11,IV Fluids,57,General
+2026-04-11,IV Fluids,135,Emergency
+2026-04-11,IV Fluids,55,ICU
+2026-04-12,Paracetamol,94,General
+2026-04-12,Paracetamol,32,Emergency
+2026-04-12,Paracetamol,75,ICU
+2026-04-12,Amoxicillin,102,General
+2026-04-12,Amoxicillin,71,Emergency
+2026-04-12,Amoxicillin,94,ICU
+2026-04-12,Insulin,27,General
+2026-04-12,Insulin,81,Emergency
+2026-04-12,Insulin,51,ICU
+2026-04-12,Antibiotics,63,General
+2026-04-12,Antibiotics,53,Emergency
+2026-04-12,Antibiotics,40,ICU
+2026-04-12,IV Fluids,54,General
+2026-04-12,IV Fluids,145,Emergency
+2026-04-12,IV Fluids,64,ICU
+2026-04-13,Paracetamol,35,General
+2026-04-13,Paracetamol,66,Emergency
+2026-04-13,Paracetamol,39,ICU
+2026-04-13,Amoxicillin,91,General
+2026-04-13,Amoxicillin,39,Emergency
+2026-04-13,Amoxicillin,87,ICU
+2026-04-13,Insulin,19,General
+2026-04-13,Insulin,74,Emergency
+2026-04-13,Insulin,34,ICU
+2026-04-13,Antibiotics,56,General
+2026-04-13,Antibiotics,55,Emergency
+2026-04-13,Antibiotics,38,ICU
+2026-04-13,IV Fluids,39,General
+2026-04-13,IV Fluids,129,Emergency
+2026-04-13,IV Fluids,21,ICU
+2026-04-14,Paracetamol,64,General
+2026-04-14,Paracetamol,96,Emergency
+2026-04-14,Paracetamol,93,ICU
+2026-04-14,Amoxicillin,50,General
+2026-04-14,Amoxicillin,89,Emergency
+2026-04-14,Amoxicillin,47,ICU
+2026-04-14,Insulin,68,General
+2026-04-14,Insulin,104,Emergency
+2026-04-14,Insulin,98,ICU
+2026-04-14,Antibiotics,102,General
+2026-04-14,Antibiotics,67,Emergency
+2026-04-14,Antibiotics,75,ICU
+2026-04-14,IV Fluids,16,General
+2026-04-14,IV Fluids,129,Emergency
+2026-04-14,IV Fluids,36,ICU
+2026-04-15,Paracetamol,16,General
+2026-04-15,Paracetamol,58,Emergency
+2026-04-15,Paracetamol,68,ICU
+2026-04-15,Amoxicillin,94,General
+2026-04-15,Amoxicillin,86,Emergency
+2026-04-15,Amoxicillin,93,ICU
+2026-04-15,Insulin,61,General
+2026-04-15,Insulin,25,Emergency
+2026-04-15,Insulin,57,ICU
+2026-04-15,Antibiotics,36,General
+2026-04-15,Antibiotics,37,Emergency
+2026-04-15,Antibiotics,46,ICU
+2026-04-15,IV Fluids,112,General
+2026-04-15,IV Fluids,106,Emergency
+2026-04-15,IV Fluids,90,ICU
+2026-04-16,Paracetamol,69,General
+2026-04-16,Paracetamol,109,Emergency
+2026-04-16,Paracetamol,97,ICU
+2026-04-16,Amoxicillin,74,General
+2026-04-16,Amoxicillin,105,Emergency
+2026-04-16,Amoxicillin,39,ICU
+2026-04-16,Insulin,54,General
+2026-04-16,Insulin,79,Emergency
+2026-04-16,Insulin,27,ICU
+2026-04-16,Antibiotics,27,General
+2026-04-16,Antibiotics,92,Emergency
+2026-04-16,Antibiotics,108,ICU
+2026-04-16,IV Fluids,22,General
+2026-04-16,IV Fluids,161,Emergency
+2026-04-16,IV Fluids,77,ICU
+2026-04-17,Paracetamol,58,General
+2026-04-17,Paracetamol,31,Emergency
+2026-04-17,Paracetamol,103,ICU
+2026-04-17,Amoxicillin,109,General
+2026-04-17,Amoxicillin,80,Emergency
+2026-04-17,Amoxicillin,69,ICU
+2026-04-17,Insulin,107,General
+2026-04-17,Insulin,92,Emergency
+2026-04-17,Insulin,83,ICU
+2026-04-17,Antibiotics,21,General
+2026-04-17,Antibiotics,62,Emergency
+2026-04-17,Antibiotics,34,ICU
+2026-04-17,IV Fluids,79,General
+2026-04-17,IV Fluids,144,Emergency
+2026-04-17,IV Fluids,84,ICU
+2026-04-18,Paracetamol,33,General
+2026-04-18,Paracetamol,73,Emergency
+2026-04-18,Paracetamol,29,ICU
+2026-04-18,Amoxicillin,84,General
+2026-04-18,Amoxicillin,107,Emergency
+2026-04-18,Amoxicillin,44,ICU
+2026-04-18,Insulin,84,General
+2026-04-18,Insulin,14,Emergency
+2026-04-18,Insulin,41,ICU
+2026-04-18,Antibiotics,21,General
+2026-04-18,Antibiotics,48,Emergency
+2026-04-18,Antibiotics,106,ICU
+2026-04-18,IV Fluids,51,General
+2026-04-18,IV Fluids,126,Emergency
+2026-04-18,IV Fluids,61,ICU
+2026-04-19,Paracetamol,33,General
+2026-04-19,Paracetamol,91,Emergency
+2026-04-19,Paracetamol,82,ICU
+2026-04-19,Amoxicillin,110,General
+2026-04-19,Amoxicillin,99,Emergency
+2026-04-19,Amoxicillin,29,ICU
+2026-04-19,Insulin,94,General
+2026-04-19,Insulin,34,Emergency
+2026-04-19,Insulin,101,ICU
+2026-04-19,Antibiotics,69,General
+2026-04-19,Antibiotics,66,Emergency
+2026-04-19,Antibiotics,38,ICU
+2026-04-19,IV Fluids,20,General
+2026-04-19,IV Fluids,127,Emergency
+2026-04-19,IV Fluids,104,ICU
+2026-04-20,Paracetamol,54,General
+2026-04-20,Paracetamol,83,Emergency
+2026-04-20,Paracetamol,44,ICU
+2026-04-20,Amoxicillin,16,General
+2026-04-20,Amoxicillin,57,Emergency
+2026-04-20,Amoxicillin,75,ICU
+2026-04-20,Insulin,40,General
+2026-04-20,Insulin,81,Emergency
+2026-04-20,Insulin,91,ICU
+2026-04-20,Antibiotics,59,General
+2026-04-20,Antibiotics,79,Emergency
+2026-04-20,Antibiotics,90,ICU
+2026-04-20,IV Fluids,36,General
+2026-04-20,IV Fluids,98,Emergency
+2026-04-20,IV Fluids,57,ICU
+2026-04-21,Paracetamol,44,General
+2026-04-21,Paracetamol,27,Emergency
+2026-04-21,Paracetamol,101,ICU
+2026-04-21,Amoxicillin,34,General
+2026-04-21,Amoxicillin,57,Emergency
+2026-04-21,Amoxicillin,97,ICU
+2026-04-21,Insulin,40,General
+2026-04-21,Insulin,73,Emergency
+2026-04-21,Insulin,105,ICU
+2026-04-21,Antibiotics,74,General
+2026-04-21,Antibiotics,30,Emergency
+2026-04-21,Antibiotics,30,ICU
+2026-04-21,IV Fluids,85,General
+2026-04-21,IV Fluids,83,Emergency
+2026-04-21,IV Fluids,24,ICU
+2026-04-22,Paracetamol,43,General
+2026-04-22,Paracetamol,41,Emergency
+2026-04-22,Paracetamol,42,ICU
+2026-04-22,Amoxicillin,51,General
+2026-04-22,Amoxicillin,53,Emergency
+2026-04-22,Amoxicillin,44,ICU
+2026-04-22,Insulin,97,General
+2026-04-22,Insulin,59,Emergency
+2026-04-22,Insulin,94,ICU
+2026-04-22,Antibiotics,55,General
+2026-04-22,Antibiotics,84,Emergency
+2026-04-22,Antibiotics,109,ICU
+2026-04-22,IV Fluids,99,General
+2026-04-22,IV Fluids,75,Emergency
+2026-04-22,IV Fluids,88,ICU
+2026-04-23,Paracetamol,64,General
+2026-04-23,Paracetamol,58,Emergency
+2026-04-23,Paracetamol,84,ICU
+2026-04-23,Amoxicillin,27,General
+2026-04-23,Amoxicillin,62,Emergency
+2026-04-23,Amoxicillin,109,ICU
+2026-04-23,Insulin,72,General
+2026-04-23,Insulin,40,Emergency
+2026-04-23,Insulin,39,ICU
+2026-04-23,Antibiotics,31,General
+2026-04-23,Antibiotics,34,Emergency
+2026-04-23,Antibiotics,72,ICU
+2026-04-23,IV Fluids,55,General
+2026-04-23,IV Fluids,71,Emergency
+2026-04-23,IV Fluids,77,ICU
+2026-04-24,Paracetamol,48,General
+2026-04-24,Paracetamol,47,Emergency
+2026-04-24,Paracetamol,32,ICU
+2026-04-24,Amoxicillin,47,General
+2026-04-24,Amoxicillin,76,Emergency
+2026-04-24,Amoxicillin,58,ICU
+2026-04-24,Insulin,48,General
+2026-04-24,Insulin,53,Emergency
+2026-04-24,Insulin,63,ICU
+2026-04-24,Antibiotics,98,General
+2026-04-24,Antibiotics,89,Emergency
+2026-04-24,Antibiotics,74,ICU
+2026-04-24,IV Fluids,30,General
+2026-04-24,IV Fluids,78,Emergency
+2026-04-24,IV Fluids,90,ICU
+2026-04-25,Paracetamol,58,General
+2026-04-25,Paracetamol,31,Emergency
+2026-04-25,Paracetamol,60,ICU
+2026-04-25,Amoxicillin,18,General
+2026-04-25,Amoxicillin,67,Emergency
+2026-04-25,Amoxicillin,52,ICU
+2026-04-25,Insulin,61,General
+2026-04-25,Insulin,110,Emergency
+2026-04-25,Insulin,74,ICU
+2026-04-25,Antibiotics,40,General
+2026-04-25,Antibiotics,62,Emergency
+2026-04-25,Antibiotics,75,ICU
+2026-04-25,IV Fluids,34,General
+2026-04-25,IV Fluids,134,Emergency
+2026-04-25,IV Fluids,43,ICU
+2026-04-26,Paracetamol,52,General
+2026-04-26,Paracetamol,28,Emergency
+2026-04-26,Paracetamol,72,ICU
+2026-04-26,Amoxicillin,15,General
+2026-04-26,Amoxicillin,72,Emergency
+2026-04-26,Amoxicillin,29,ICU
+2026-04-26,Insulin,42,General
+2026-04-26,Insulin,45,Emergency
+2026-04-26,Insulin,62,ICU
+2026-04-26,Antibiotics,91,General
+2026-04-26,Antibiotics,44,Emergency
+2026-04-26,Antibiotics,47,ICU
+2026-04-26,IV Fluids,27,General
+2026-04-26,IV Fluids,120,Emergency
+2026-04-26,IV Fluids,83,ICU
+2026-04-27,Paracetamol,86,General
+2026-04-27,Paracetamol,96,Emergency
+2026-04-27,Paracetamol,68,ICU
+2026-04-27,Amoxicillin,56,General
+2026-04-27,Amoxicillin,39,Emergency
+2026-04-27,Amoxicillin,32,ICU
+2026-04-27,Insulin,77,General
+2026-04-27,Insulin,47,Emergency
+2026-04-27,Insulin,68,ICU
+2026-04-27,Antibiotics,79,General
+2026-04-27,Antibiotics,35,Emergency
+2026-04-27,Antibiotics,22,ICU
+2026-04-27,IV Fluids,58,General
+2026-04-27,IV Fluids,141,Emergency
+2026-04-27,IV Fluids,20,ICU
+2026-04-28,Paracetamol,30,General
+2026-04-28,Paracetamol,24,Emergency
+2026-04-28,Paracetamol,104,ICU
+2026-04-28,Amoxicillin,83,General
+2026-04-28,Amoxicillin,24,Emergency
+2026-04-28,Amoxicillin,72,ICU
+2026-04-28,Insulin,28,General
+2026-04-28,Insulin,91,Emergency
+2026-04-28,Insulin,96,ICU
+2026-04-28,Antibiotics,55,General
+2026-04-28,Antibiotics,71,Emergency
+2026-04-28,Antibiotics,98,ICU
+2026-04-28,IV Fluids,53,General
+2026-04-28,IV Fluids,135,Emergency
+2026-04-28,IV Fluids,41,ICU
+2026-04-29,Paracetamol,33,General
+2026-04-29,Paracetamol,63,Emergency
+2026-04-29,Paracetamol,61,ICU
+2026-04-29,Amoxicillin,48,General
+2026-04-29,Amoxicillin,83,Emergency
+2026-04-29,Amoxicillin,78,ICU
+2026-04-29,Insulin,35,General
+2026-04-29,Insulin,57,Emergency
+2026-04-29,Insulin,33,ICU
+2026-04-29,Antibiotics,87,General
+2026-04-29,Antibiotics,28,Emergency
+2026-04-29,Antibiotics,109,ICU
+2026-04-29,IV Fluids,42,General
+2026-04-29,IV Fluids,126,Emergency
+2026-04-29,IV Fluids,48,ICU
+2026-04-30,Paracetamol,76,General
+2026-04-30,Paracetamol,99,Emergency
+2026-04-30,Paracetamol,59,ICU
+2026-04-30,Amoxicillin,72,General
+2026-04-30,Amoxicillin,48,Emergency
+2026-04-30,Amoxicillin,101,ICU
+2026-04-30,Insulin,103,General
+2026-04-30,Insulin,31,Emergency
+2026-04-30,Insulin,80,ICU
+2026-04-30,Antibiotics,38,General
+2026-04-30,Antibiotics,68,Emergency
+2026-04-30,Antibiotics,82,ICU
+2026-04-30,IV Fluids,79,General
+2026-04-30,IV Fluids,75,Emergency
+2026-04-30,IV Fluids,25,ICU
+2026-05-01,Paracetamol,38,General
+2026-05-01,Paracetamol,70,Emergency
+2026-05-01,Paracetamol,73,ICU
+2026-05-01,Amoxicillin,99,General
+2026-05-01,Amoxicillin,82,Emergency
+2026-05-01,Amoxicillin,69,ICU
+2026-05-01,Insulin,40,General
+2026-05-01,Insulin,80,Emergency
+2026-05-01,Insulin,47,ICU
+2026-05-01,Antibiotics,89,General
+2026-05-01,Antibiotics,82,Emergency
+2026-05-01,Antibiotics,68,ICU
+2026-05-01,IV Fluids,38,General
+2026-05-01,IV Fluids,69,Emergency
+2026-05-01,IV Fluids,62,ICU
+2026-05-02,Paracetamol,47,General
+2026-05-02,Paracetamol,98,Emergency
+2026-05-02,Paracetamol,81,ICU
+2026-05-02,Amoxicillin,79,General
+2026-05-02,Amoxicillin,91,Emergency
+2026-05-02,Amoxicillin,68,ICU
+2026-05-02,Insulin,46,General
+2026-05-02,Insulin,81,Emergency
+2026-05-02,Insulin,89,ICU
+2026-05-02,Antibiotics,23,General
+2026-05-02,Antibiotics,68,Emergency
+2026-05-02,Antibiotics,38,ICU
+2026-05-02,IV Fluids,72,General
+2026-05-02,IV Fluids,96,Emergency
+2026-05-02,IV Fluids,85,ICU
+2026-05-03,Paracetamol,105,General
+2026-05-03,Paracetamol,85,Emergency
+2026-05-03,Paracetamol,50,ICU
+2026-05-03,Amoxicillin,96,General
+2026-05-03,Amoxicillin,67,Emergency
+2026-05-03,Amoxicillin,83,ICU
+2026-05-03,Insulin,32,General
+2026-05-03,Insulin,42,Emergency
+2026-05-03,Insulin,61,ICU
+2026-05-03,Antibiotics,80,General
+2026-05-03,Antibiotics,32,Emergency
+2026-05-03,Antibiotics,59,ICU
+2026-05-03,IV Fluids,77,General
+2026-05-03,IV Fluids,122,Emergency
+2026-05-03,IV Fluids,34,ICU
+2026-05-04,Paracetamol,74,General
+2026-05-04,Paracetamol,61,Emergency
+2026-05-04,Paracetamol,110,ICU
+2026-05-04,Amoxicillin,99,General
+2026-05-04,Amoxicillin,24,Emergency
+2026-05-04,Amoxicillin,23,ICU
+2026-05-04,Insulin,79,General
+2026-05-04,Insulin,109,Emergency
+2026-05-04,Insulin,77,ICU
+2026-05-04,Antibiotics,20,General
+2026-05-04,Antibiotics,86,Emergency
+2026-05-04,Antibiotics,64,ICU
+2026-05-04,IV Fluids,74,General
+2026-05-04,IV Fluids,142,Emergency
+2026-05-04,IV Fluids,57,ICU
+2026-05-05,Paracetamol,63,General
+2026-05-05,Paracetamol,57,Emergency
+2026-05-05,Paracetamol,86,ICU
+2026-05-05,Amoxicillin,77,General
+2026-05-05,Amoxicillin,92,Emergency
+2026-05-05,Amoxicillin,58,ICU
+2026-05-05,Insulin,40,General
+2026-05-05,Insulin,99,Emergency
+2026-05-05,Insulin,27,ICU
+2026-05-05,Antibiotics,23,General
+2026-05-05,Antibiotics,69,Emergency
+2026-05-05,Antibiotics,23,ICU
+2026-05-05,IV Fluids,35,General
+2026-05-05,IV Fluids,85,Emergency
+2026-05-05,IV Fluids,50,ICU
+2026-05-06,Paracetamol,32,General
+2026-05-06,Paracetamol,62,Emergency
+2026-05-06,Paracetamol,61,ICU
+2026-05-06,Amoxicillin,18,General
+2026-05-06,Amoxicillin,66,Emergency
+2026-05-06,Amoxicillin,77,ICU
+2026-05-06,Insulin,109,General
+2026-05-06,Insulin,92,Emergency
+2026-05-06,Insulin,64,ICU
+2026-05-06,Antibiotics,103,General
+2026-05-06,Antibiotics,82,Emergency
+2026-05-06,Antibiotics,55,ICU
+2026-05-06,IV Fluids,35,General
+2026-05-06,IV Fluids,146,Emergency
+2026-05-06,IV Fluids,93,ICU
+2026-05-07,Paracetamol,75,General
+2026-05-07,Paracetamol,27,Emergency
+2026-05-07,Paracetamol,112,ICU
+2026-05-07,Amoxicillin,51,General
+2026-05-07,Amoxicillin,45,Emergency
+2026-05-07,Amoxicillin,31,ICU
+2026-05-07,Insulin,46,General
+2026-05-07,Insulin,53,Emergency
+2026-05-07,Insulin,27,ICU
+2026-05-07,Antibiotics,44,General
+2026-05-07,Antibiotics,92,Emergency
+2026-05-07,Antibiotics,52,ICU
+2026-05-07,IV Fluids,41,General
+2026-05-07,IV Fluids,81,Emergency
+2026-05-07,IV Fluids,15,ICU
+2026-05-08,Paracetamol,37,General
+2026-05-08,Paracetamol,46,Emergency
+2026-05-08,Paracetamol,75,ICU
+2026-05-08,Amoxicillin,31,General
+2026-05-08,Amoxicillin,102,Emergency
+2026-05-08,Amoxicillin,18,ICU
+2026-05-08,Insulin,33,General
+2026-05-08,Insulin,88,Emergency
+2026-05-08,Insulin,49,ICU
+2026-05-08,Antibiotics,29,General
+2026-05-08,Antibiotics,36,Emergency
+2026-05-08,Antibiotics,37,ICU
+2026-05-08,IV Fluids,99,General
+2026-05-08,IV Fluids,135,Emergency
+2026-05-08,IV Fluids,88,ICU
+2026-05-09,Paracetamol,94,General
+2026-05-09,Paracetamol,79,Emergency
+2026-05-09,Paracetamol,33,ICU
+2026-05-09,Amoxicillin,98,General
+2026-05-09,Amoxicillin,75,Emergency
+2026-05-09,Amoxicillin,82,ICU
+2026-05-09,Insulin,61,General
+2026-05-09,Insulin,56,Emergency
+2026-05-09,Insulin,91,ICU
+2026-05-09,Antibiotics,26,General
+2026-05-09,Antibiotics,104,Emergency
+2026-05-09,Antibiotics,102,ICU
+2026-05-09,IV Fluids,24,General
+2026-05-09,IV Fluids,139,Emergency
+2026-05-09,IV Fluids,77,ICU
+2026-05-10,Paracetamol,51,General
+2026-05-10,Paracetamol,85,Emergency
+2026-05-10,Paracetamol,24,ICU
+2026-05-10,Amoxicillin,99,General
+2026-05-10,Amoxicillin,88,Emergency
+2026-05-10,Amoxicillin,87,ICU
+2026-05-10,Insulin,109,General
+2026-05-10,Insulin,42,Emergency
+2026-05-10,Insulin,29,ICU
+2026-05-10,Antibiotics,32,General
+2026-05-10,Antibiotics,91,Emergency
+2026-05-10,Antibiotics,53,ICU
+2026-05-10,IV Fluids,113,General
+2026-05-10,IV Fluids,97,Emergency
+2026-05-10,IV Fluids,75,ICU
+2026-05-11,Paracetamol,67,General
+2026-05-11,Paracetamol,48,Emergency
+2026-05-11,Paracetamol,70,ICU
+2026-05-11,Amoxicillin,37,General
+2026-05-11,Amoxicillin,38,Emergency
+2026-05-11,Amoxicillin,49,ICU
+2026-05-11,Insulin,111,General
+2026-05-11,Insulin,83,Emergency
+2026-05-11,Insulin,33,ICU
+2026-05-11,Antibiotics,32,General
+2026-05-11,Antibiotics,100,Emergency
+2026-05-11,Antibiotics,50,ICU
+2026-05-11,IV Fluids,24,General
+2026-05-11,IV Fluids,152,Emergency
+2026-05-11,IV Fluids,56,ICU
+2026-05-12,Paracetamol,31,General
+2026-05-12,Paracetamol,71,Emergency
+2026-05-12,Paracetamol,21,ICU
+2026-05-12,Amoxicillin,53,General
+2026-05-12,Amoxicillin,90,Emergency
+2026-05-12,Amoxicillin,95,ICU
+2026-05-12,Insulin,78,General
+2026-05-12,Insulin,37,Emergency
+2026-05-12,Insulin,86,ICU
+2026-05-12,Antibiotics,91,General
+2026-05-12,Antibiotics,15,Emergency
+2026-05-12,Antibiotics,57,ICU
+2026-05-12,IV Fluids,70,General
+2026-05-12,IV Fluids,79,Emergency
+2026-05-12,IV Fluids,87,ICU
+2026-05-13,Paracetamol,68,General
+2026-05-13,Paracetamol,98,Emergency
+2026-05-13,Paracetamol,74,ICU
+2026-05-13,Amoxicillin,79,General
+2026-05-13,Amoxicillin,21,Emergency
+2026-05-13,Amoxicillin,54,ICU
+2026-05-13,Insulin,63,General
+2026-05-13,Insulin,75,Emergency
+2026-05-13,Insulin,98,ICU
+2026-05-13,Antibiotics,91,General
+2026-05-13,Antibiotics,111,Emergency
+2026-05-13,Antibiotics,43,ICU
+2026-05-13,IV Fluids,31,General
+2026-05-13,IV Fluids,137,Emergency
+2026-05-13,IV Fluids,109,ICU
+2026-05-14,Paracetamol,70,General
+2026-05-14,Paracetamol,92,Emergency
+2026-05-14,Paracetamol,46,ICU
+2026-05-14,Amoxicillin,52,General
+2026-05-14,Amoxicillin,22,Emergency
+2026-05-14,Amoxicillin,94,ICU
+2026-05-14,Insulin,83,General
+2026-05-14,Insulin,90,Emergency
+2026-05-14,Insulin,67,ICU
+2026-05-14,Antibiotics,71,General
+2026-05-14,Antibiotics,50,Emergency
+2026-05-14,Antibiotics,111,ICU
+2026-05-14,IV Fluids,29,General
+2026-05-14,IV Fluids,129,Emergency
+2026-05-14,IV Fluids,84,ICU
+2026-05-15,Paracetamol,68,General
+2026-05-15,Paracetamol,40,Emergency
+2026-05-15,Paracetamol,93,ICU
+2026-05-15,Amoxicillin,68,General
+2026-05-15,Amoxicillin,79,Emergency
+2026-05-15,Amoxicillin,58,ICU
+2026-05-15,Insulin,50,General
+2026-05-15,Insulin,32,Emergency
+2026-05-15,Insulin,96,ICU
+2026-05-15,Antibiotics,70,General
+2026-05-15,Antibiotics,41,Emergency
+2026-05-15,Antibiotics,109,ICU
+2026-05-15,IV Fluids,76,General
+2026-05-15,IV Fluids,80,Emergency
+2026-05-15,IV Fluids,11,ICU
+2026-05-16,Paracetamol,85,General
+2026-05-16,Paracetamol,65,Emergency
+2026-05-16,Paracetamol,30,ICU
+2026-05-16,Amoxicillin,42,General
+2026-05-16,Amoxicillin,82,Emergency
+2026-05-16,Amoxicillin,112,ICU
+2026-05-16,Insulin,30,General
+2026-05-16,Insulin,87,Emergency
+2026-05-16,Insulin,45,ICU
+2026-05-16,Antibiotics,54,General
+2026-05-16,Antibiotics,82,Emergency
+2026-05-16,Antibiotics,80,ICU
+2026-05-16,IV Fluids,77,General
+2026-05-16,IV Fluids,131,Emergency
+2026-05-16,IV Fluids,87,ICU
+2026-05-17,Paracetamol,86,General
+2026-05-17,Paracetamol,106,Emergency
+2026-05-17,Paracetamol,63,ICU
+2026-05-17,Amoxicillin,49,General
+2026-05-17,Amoxicillin,50,Emergency
+2026-05-17,Amoxicillin,22,ICU
+2026-05-17,Insulin,66,General
+2026-05-17,Insulin,64,Emergency
+2026-05-17,Insulin,71,ICU
+2026-05-17,Antibiotics,37,General
+2026-05-17,Antibiotics,57,Emergency
+2026-05-17,Antibiotics,65,ICU
+2026-05-17,IV Fluids,90,General
+2026-05-17,IV Fluids,116,Emergency
+2026-05-17,IV Fluids,78,ICU
+2026-05-18,Paracetamol,66,General
+2026-05-18,Paracetamol,93,Emergency
+2026-05-18,Paracetamol,56,ICU
+2026-05-18,Amoxicillin,57,General
+2026-05-18,Amoxicillin,81,Emergency
+2026-05-18,Amoxicillin,89,ICU
+2026-05-18,Insulin,36,General
+2026-05-18,Insulin,38,Emergency
+2026-05-18,Insulin,99,ICU
+2026-05-18,Antibiotics,97,General
+2026-05-18,Antibiotics,94,Emergency
+2026-05-18,Antibiotics,37,ICU
+2026-05-18,IV Fluids,37,General
+2026-05-18,IV Fluids,112,Emergency
+2026-05-18,IV Fluids,93,ICU
+2026-05-19,Paracetamol,14,General
+2026-05-19,Paracetamol,97,Emergency
+2026-05-19,Paracetamol,65,ICU
+2026-05-19,Amoxicillin,32,General
+2026-05-19,Amoxicillin,84,Emergency
+2026-05-19,Amoxicillin,101,ICU
+2026-05-19,Insulin,62,General
+2026-05-19,Insulin,69,Emergency
+2026-05-19,Insulin,58,ICU
+2026-05-19,Antibiotics,36,General
+2026-05-19,Antibiotics,65,Emergency
+2026-05-19,Antibiotics,96,ICU
+2026-05-19,IV Fluids,57,General
+2026-05-19,IV Fluids,153,Emergency
+2026-05-19,IV Fluids,108,ICU
+2026-05-20,Paracetamol,103,General
+2026-05-20,Paracetamol,37,Emergency
+2026-05-20,Paracetamol,71,ICU
+2026-05-20,Amoxicillin,52,General
+2026-05-20,Amoxicillin,99,Emergency
+2026-05-20,Amoxicillin,68,ICU
+2026-05-20,Insulin,72,General
+2026-05-20,Insulin,91,Emergency
+2026-05-20,Insulin,48,ICU
+2026-05-20,Antibiotics,60,General
+2026-05-20,Antibiotics,38,Emergency
+2026-05-20,Antibiotics,33,ICU
+2026-05-20,IV Fluids,95,General
+2026-05-20,IV Fluids,149,Emergency
+2026-05-20,IV Fluids,89,ICU
+2026-05-21,Paracetamol,29,General
+2026-05-21,Paracetamol,40,Emergency
+2026-05-21,Paracetamol,98,ICU
+2026-05-21,Amoxicillin,72,General
+2026-05-21,Amoxicillin,72,Emergency
+2026-05-21,Amoxicillin,87,ICU
+2026-05-21,Insulin,83,General
+2026-05-21,Insulin,83,Emergency
+2026-05-21,Insulin,79,ICU
+2026-05-21,Antibiotics,92,General
+2026-05-21,Antibiotics,56,Emergency
+2026-05-21,Antibiotics,65,ICU
+2026-05-21,IV Fluids,36,General
+2026-05-21,IV Fluids,73,Emergency
+2026-05-21,IV Fluids,102,ICU
+2026-05-22,Paracetamol,72,General
+2026-05-22,Paracetamol,88,Emergency
+2026-05-22,Paracetamol,99,ICU
+2026-05-22,Amoxicillin,42,General
+2026-05-22,Amoxicillin,82,Emergency
+2026-05-22,Amoxicillin,30,ICU
+2026-05-22,Insulin,70,General
+2026-05-22,Insulin,19,Emergency
+2026-05-22,Insulin,14,ICU
+2026-05-22,Antibiotics,39,General
+2026-05-22,Antibiotics,69,Emergency
+2026-05-22,Antibiotics,99,ICU
+2026-05-22,IV Fluids,75,General
+2026-05-22,IV Fluids,121,Emergency
+2026-05-22,IV Fluids,94,ICU
+2026-05-23,Paracetamol,98,General
+2026-05-23,Paracetamol,74,Emergency
+2026-05-23,Paracetamol,63,ICU
+2026-05-23,Amoxicillin,70,General
+2026-05-23,Amoxicillin,84,Emergency
+2026-05-23,Amoxicillin,62,ICU
+2026-05-23,Insulin,86,General
+2026-05-23,Insulin,77,Emergency
+2026-05-23,Insulin,35,ICU
+2026-05-23,Antibiotics,99,General
+2026-05-23,Antibiotics,34,Emergency
+2026-05-23,Antibiotics,96,ICU
+2026-05-23,IV Fluids,88,General
+2026-05-23,IV Fluids,153,Emergency
+2026-05-23,IV Fluids,73,ICU
+2026-05-24,Paracetamol,46,General
+2026-05-24,Paracetamol,67,Emergency
+2026-05-24,Paracetamol,30,ICU
+2026-05-24,Amoxicillin,101,General
+2026-05-24,Amoxicillin,101,Emergency
+2026-05-24,Amoxicillin,111,ICU
+2026-05-24,Insulin,33,General
+2026-05-24,Insulin,97,Emergency
+2026-05-24,Insulin,56,ICU
+2026-05-24,Antibiotics,42,General
+2026-05-24,Antibiotics,19,Emergency
+2026-05-24,Antibiotics,51,ICU
+2026-05-24,IV Fluids,73,General
+2026-05-24,IV Fluids,75,Emergency
+2026-05-24,IV Fluids,51,ICU
+2026-05-25,Paracetamol,33,General
+2026-05-25,Paracetamol,54,Emergency
+2026-05-25,Paracetamol,73,ICU
+2026-05-25,Amoxicillin,41,General
+2026-05-25,Amoxicillin,83,Emergency
+2026-05-25,Amoxicillin,54,ICU
+2026-05-25,Insulin,52,General
+2026-05-25,Insulin,108,Emergency
+2026-05-25,Insulin,54,ICU
+2026-05-25,Antibiotics,57,General
+2026-05-25,Antibiotics,31,Emergency
+2026-05-25,Antibiotics,78,ICU
+2026-05-25,IV Fluids,50,General
+2026-05-25,IV Fluids,131,Emergency
+2026-05-25,IV Fluids,71,ICU
+2026-05-26,Paracetamol,68,General
+2026-05-26,Paracetamol,37,Emergency
+2026-05-26,Paracetamol,94,ICU
+2026-05-26,Amoxicillin,57,General
+2026-05-26,Amoxicillin,78,Emergency
+2026-05-26,Amoxicillin,85,ICU
+2026-05-26,Insulin,97,General
+2026-05-26,Insulin,58,Emergency
+2026-05-26,Insulin,59,ICU
+2026-05-26,Antibiotics,68,General
+2026-05-26,Antibiotics,93,Emergency
+2026-05-26,Antibiotics,87,ICU
+2026-05-26,IV Fluids,73,General
+2026-05-26,IV Fluids,126,Emergency
+2026-05-26,IV Fluids,66,ICU
+2026-05-27,Paracetamol,64,General
+2026-05-27,Paracetamol,20,Emergency
+2026-05-27,Paracetamol,28,ICU
+2026-05-27,Amoxicillin,81,General
+2026-05-27,Amoxicillin,101,Emergency
+2026-05-27,Amoxicillin,34,ICU
+2026-05-27,Insulin,19,General
+2026-05-27,Insulin,70,Emergency
+2026-05-27,Insulin,34,ICU
+2026-05-27,Antibiotics,47,General
+2026-05-27,Antibiotics,83,Emergency
+2026-05-27,Antibiotics,88,ICU
+2026-05-27,IV Fluids,43,General
+2026-05-27,IV Fluids,118,Emergency
+2026-05-27,IV Fluids,36,ICU
+2026-05-28,Paracetamol,100,General
+2026-05-28,Paracetamol,86,Emergency
+2026-05-28,Paracetamol,82,ICU
+2026-05-28,Amoxicillin,74,General
+2026-05-28,Amoxicillin,18,Emergency
+2026-05-28,Amoxicillin,86,ICU
+2026-05-28,Insulin,26,General
+2026-05-28,Insulin,43,Emergency
+2026-05-28,Insulin,89,ICU
+2026-05-28,Antibiotics,31,General
+2026-05-28,Antibiotics,43,Emergency
+2026-05-28,Antibiotics,58,ICU
+2026-05-28,IV Fluids,80,General
+2026-05-28,IV Fluids,160,Emergency
+2026-05-28,IV Fluids,56,ICU
+2026-05-29,Paracetamol,32,General
+2026-05-29,Paracetamol,66,Emergency
+2026-05-29,Paracetamol,92,ICU
+2026-05-29,Amoxicillin,82,General
+2026-05-29,Amoxicillin,87,Emergency
+2026-05-29,Amoxicillin,96,ICU
+2026-05-29,Insulin,95,General
+2026-05-29,Insulin,41,Emergency
+2026-05-29,Insulin,41,ICU
+2026-05-29,Antibiotics,53,General
+2026-05-29,Antibiotics,42,Emergency
+2026-05-29,Antibiotics,83,ICU
+2026-05-29,IV Fluids,111,General
+2026-05-29,IV Fluids,104,Emergency
+2026-05-29,IV Fluids,83,ICU
+2026-05-30,Paracetamol,56,General
+2026-05-30,Paracetamol,53,Emergency
+2026-05-30,Paracetamol,83,ICU
+2026-05-30,Amoxicillin,33,General
+2026-05-30,Amoxicillin,27,Emergency
+2026-05-30,Amoxicillin,46,ICU
+2026-05-30,Insulin,75,General
+2026-05-30,Insulin,49,Emergency
+2026-05-30,Insulin,97,ICU
+2026-05-30,Antibiotics,51,General
+2026-05-30,Antibiotics,30,Emergency
+2026-05-30,Antibiotics,66,ICU
+2026-05-30,IV Fluids,64,General
+2026-05-30,IV Fluids,93,Emergency
+2026-05-30,IV Fluids,48,ICU
+2026-05-31,Paracetamol,59,General
+2026-05-31,Paracetamol,59,Emergency
+2026-05-31,Paracetamol,87,ICU
+2026-05-31,Amoxicillin,44,General
+2026-05-31,Amoxicillin,19,Emergency
+2026-05-31,Amoxicillin,34,ICU
+2026-05-31,Insulin,103,General
+2026-05-31,Insulin,50,Emergency
+2026-05-31,Insulin,84,ICU
+2026-05-31,Antibiotics,23,General
+2026-05-31,Antibiotics,27,Emergency
+2026-05-31,Antibiotics,87,ICU
+2026-05-31,IV Fluids,46,General
+2026-05-31,IV Fluids,126,Emergency
+2026-05-31,IV Fluids,46,ICU
+2026-06-01,Paracetamol,77,General
+2026-06-01,Paracetamol,46,Emergency
+2026-06-01,Paracetamol,80,ICU
+2026-06-01,Amoxicillin,63,General
+2026-06-01,Amoxicillin,36,Emergency
+2026-06-01,Amoxicillin,20,ICU
+2026-06-01,Insulin,59,General
+2026-06-01,Insulin,98,Emergency
+2026-06-01,Insulin,56,ICU
+2026-06-01,Antibiotics,49,General
+2026-06-01,Antibiotics,47,Emergency
+2026-06-01,Antibiotics,73,ICU
+2026-06-01,IV Fluids,50,General
+2026-06-01,IV Fluids,113,Emergency
+2026-06-01,IV Fluids,56,ICU
+2026-06-02,Paracetamol,98,General
+2026-06-02,Paracetamol,102,Emergency
+2026-06-02,Paracetamol,24,ICU
+2026-06-02,Amoxicillin,96,General
+2026-06-02,Amoxicillin,69,Emergency
+2026-06-02,Amoxicillin,68,ICU
+2026-06-02,Insulin,19,General
+2026-06-02,Insulin,66,Emergency
+2026-06-02,Insulin,57,ICU
+2026-06-02,Antibiotics,114,General
+2026-06-02,Antibiotics,69,Emergency
+2026-06-02,Antibiotics,59,ICU
+2026-06-02,IV Fluids,56,General
+2026-06-02,IV Fluids,140,Emergency
+2026-06-02,IV Fluids,55,ICU
+2026-06-03,Paracetamol,91,General
+2026-06-03,Paracetamol,58,Emergency
+2026-06-03,Paracetamol,79,ICU
+2026-06-03,Amoxicillin,34,General
+2026-06-03,Amoxicillin,51,Emergency
+2026-06-03,Amoxicillin,28,ICU
+2026-06-03,Insulin,93,General
+2026-06-03,Insulin,47,Emergency
+2026-06-03,Insulin,31,ICU
+2026-06-03,Antibiotics,90,General
+2026-06-03,Antibiotics,31,Emergency
+2026-06-03,Antibiotics,89,ICU
+2026-06-03,IV Fluids,75,General
+2026-06-03,IV Fluids,89,Emergency
+2026-06-03,IV Fluids,43,ICU
+2026-06-04,Paracetamol,26,General
+2026-06-04,Paracetamol,57,Emergency
+2026-06-04,Paracetamol,53,ICU
+2026-06-04,Amoxicillin,27,General
+2026-06-04,Amoxicillin,79,Emergency
+2026-06-04,Amoxicillin,39,ICU
+2026-06-04,Insulin,87,General
+2026-06-04,Insulin,50,Emergency
+2026-06-04,Insulin,90,ICU
+2026-06-04,Antibiotics,41,General
+2026-06-04,Antibiotics,18,Emergency
+2026-06-04,Antibiotics,42,ICU
+2026-06-04,IV Fluids,25,General
+2026-06-04,IV Fluids,129,Emergency
+2026-06-04,IV Fluids,36,ICU
+2026-06-05,Paracetamol,41,General
+2026-06-05,Paracetamol,101,Emergency
+2026-06-05,Paracetamol,35,ICU
+2026-06-05,Amoxicillin,55,General
+2026-06-05,Amoxicillin,15,Emergency
+2026-06-05,Amoxicillin,62,ICU
+2026-06-05,Insulin,15,General
+2026-06-05,Insulin,47,Emergency
+2026-06-05,Insulin,63,ICU
+2026-06-05,Antibiotics,28,General
+2026-06-05,Antibiotics,92,Emergency
+2026-06-05,Antibiotics,85,ICU
+2026-06-05,IV Fluids,75,General
+2026-06-05,IV Fluids,151,Emergency
+2026-06-05,IV Fluids,31,ICU
+2026-06-06,Paracetamol,52,General
+2026-06-06,Paracetamol,14,Emergency
+2026-06-06,Paracetamol,64,ICU
+2026-06-06,Amoxicillin,40,General
+2026-06-06,Amoxicillin,66,Emergency
+2026-06-06,Amoxicillin,47,ICU
+2026-06-06,Insulin,61,General
+2026-06-06,Insulin,53,Emergency
+2026-06-06,Insulin,46,ICU
+2026-06-06,Antibiotics,57,General
+2026-06-06,Antibiotics,90,Emergency
+2026-06-06,Antibiotics,42,ICU
+2026-06-06,IV Fluids,37,General
+2026-06-06,IV Fluids,63,Emergency
+2026-06-06,IV Fluids,15,ICU
+2026-06-07,Paracetamol,47,General
+2026-06-07,Paracetamol,78,Emergency
+2026-06-07,Paracetamol,63,ICU
+2026-06-07,Amoxicillin,79,General
+2026-06-07,Amoxicillin,64,Emergency
+2026-06-07,Amoxicillin,81,ICU
+2026-06-07,Insulin,46,General
+2026-06-07,Insulin,51,Emergency
+2026-06-07,Insulin,20,ICU
+2026-06-07,Antibiotics,87,General
+2026-06-07,Antibiotics,37,Emergency
+2026-06-07,Antibiotics,45,ICU
+2026-06-07,IV Fluids,54,General
+2026-06-07,IV Fluids,146,Emergency
+2026-06-07,IV Fluids,13,ICU
+2026-06-08,Paracetamol,92,General
+2026-06-08,Paracetamol,26,Emergency
+2026-06-08,Paracetamol,85,ICU
+2026-06-08,Amoxicillin,91,General
+2026-06-08,Amoxicillin,58,Emergency
+2026-06-08,Amoxicillin,83,ICU
+2026-06-08,Insulin,85,General
+2026-06-08,Insulin,85,Emergency
+2026-06-08,Insulin,66,ICU
+2026-06-08,Antibiotics,71,General
+2026-06-08,Antibiotics,86,Emergency
+2026-06-08,Antibiotics,59,ICU
+2026-06-08,IV Fluids,37,General
+2026-06-08,IV Fluids,144,Emergency
+2026-06-08,IV Fluids,44,ICU
+2026-06-09,Paracetamol,71,General
+2026-06-09,Paracetamol,91,Emergency
+2026-06-09,Paracetamol,87,ICU
+2026-06-09,Amoxicillin,59,General
+2026-06-09,Amoxicillin,32,Emergency
+2026-06-09,Amoxicillin,70,ICU
+2026-06-09,Insulin,36,General
+2026-06-09,Insulin,74,Emergency
+2026-06-09,Insulin,85,ICU
+2026-06-09,Antibiotics,41,General
+2026-06-09,Antibiotics,32,Emergency
+2026-06-09,Antibiotics,35,ICU
+2026-06-09,IV Fluids,93,General
+2026-06-09,IV Fluids,93,Emergency
+2026-06-09,IV Fluids,55,ICU
+2026-06-10,Paracetamol,91,General
+2026-06-10,Paracetamol,15,Emergency
+2026-06-10,Paracetamol,80,ICU
+2026-06-10,Amoxicillin,60,General
+2026-06-10,Amoxicillin,27,Emergency
+2026-06-10,Amoxicillin,42,ICU
+2026-06-10,Insulin,78,General
+2026-06-10,Insulin,12,Emergency
+2026-06-10,Insulin,28,ICU
+2026-06-10,Antibiotics,89,General
+2026-06-10,Antibiotics,94,Emergency
+2026-06-10,Antibiotics,17,ICU
+2026-06-10,IV Fluids,32,General
+2026-06-10,IV Fluids,83,Emergency
+2026-06-10,IV Fluids,44,ICU
+2026-06-11,Paracetamol,45,General
+2026-06-11,Paracetamol,29,Emergency
+2026-06-11,Paracetamol,61,ICU
+2026-06-11,Amoxicillin,55,General
+2026-06-11,Amoxicillin,64,Emergency
+2026-06-11,Amoxicillin,37,ICU
+2026-06-11,Insulin,41,General
+2026-06-11,Insulin,40,Emergency
+2026-06-11,Insulin,93,ICU
+2026-06-11,Antibiotics,75,General
+2026-06-11,Antibiotics,62,Emergency
+2026-06-11,Antibiotics,34,ICU
+2026-06-11,IV Fluids,66,General
+2026-06-11,IV Fluids,103,Emergency
+2026-06-11,IV Fluids,70,ICU
+2026-06-12,Paracetamol,59,General
+2026-06-12,Paracetamol,28,Emergency
+2026-06-12,Paracetamol,93,ICU
+2026-06-12,Amoxicillin,55,General
+2026-06-12,Amoxicillin,47,Emergency
+2026-06-12,Amoxicillin,82,ICU
+2026-06-12,Insulin,45,General
+2026-06-12,Insulin,38,Emergency
+2026-06-12,Insulin,109,ICU
+2026-06-12,Antibiotics,43,General
+2026-06-12,Antibiotics,36,Emergency
+2026-06-12,Antibiotics,61,ICU
+2026-06-12,IV Fluids,87,General
+2026-06-12,IV Fluids,107,Emergency
+2026-06-12,IV Fluids,45,ICU
+2026-06-13,Paracetamol,30,General
+2026-06-13,Paracetamol,66,Emergency
+2026-06-13,Paracetamol,76,ICU
+2026-06-13,Amoxicillin,37,General
+2026-06-13,Amoxicillin,23,Emergency
+2026-06-13,Amoxicillin,101,ICU
+2026-06-13,Insulin,33,General
+2026-06-13,Insulin,82,Emergency
+2026-06-13,Insulin,20,ICU
+2026-06-13,Antibiotics,22,General
+2026-06-13,Antibiotics,47,Emergency
+2026-06-13,Antibiotics,28,ICU
+2026-06-13,IV Fluids,40,General
+2026-06-13,IV Fluids,148,Emergency
+2026-06-13,IV Fluids,75,ICU
+2026-06-14,Paracetamol,66,General
+2026-06-14,Paracetamol,52,Emergency
+2026-06-14,Paracetamol,48,ICU
+2026-06-14,Amoxicillin,85,General
+2026-06-14,Amoxicillin,86,Emergency
+2026-06-14,Amoxicillin,70,ICU
+2026-06-14,Insulin,21,General
+2026-06-14,Insulin,82,Emergency
+2026-06-14,Insulin,67,ICU
+2026-06-14,Antibiotics,69,General
+2026-06-14,Antibiotics,27,Emergency
+2026-06-14,Antibiotics,90,ICU
+2026-06-14,IV Fluids,70,General
+2026-06-14,IV Fluids,148,Emergency
+2026-06-14,IV Fluids,77,ICU
+2026-06-15,Paracetamol,87,General
+2026-06-15,Paracetamol,66,Emergency
+2026-06-15,Paracetamol,41,ICU
+2026-06-15,Amoxicillin,80,General
+2026-06-15,Amoxicillin,27,Emergency
+2026-06-15,Amoxicillin,100,ICU
+2026-06-15,Insulin,72,General
+2026-06-15,Insulin,44,Emergency
+2026-06-15,Insulin,86,ICU
+2026-06-15,Antibiotics,103,General
+2026-06-15,Antibiotics,40,Emergency
+2026-06-15,Antibiotics,68,ICU
+2026-06-15,IV Fluids,86,General
+2026-06-15,IV Fluids,162,Emergency
+2026-06-15,IV Fluids,66,ICU
+2026-06-16,Paracetamol,106,General
+2026-06-16,Paracetamol,29,Emergency
+2026-06-16,Paracetamol,82,ICU
+2026-06-16,Amoxicillin,44,General
+2026-06-16,Amoxicillin,69,Emergency
+2026-06-16,Amoxicillin,89,ICU
+2026-06-16,Insulin,95,General
+2026-06-16,Insulin,31,Emergency
+2026-06-16,Insulin,103,ICU
+2026-06-16,Antibiotics,81,General
+2026-06-16,Antibiotics,79,Emergency
+2026-06-16,Antibiotics,53,ICU
+2026-06-16,IV Fluids,61,General
+2026-06-16,IV Fluids,158,Emergency
+2026-06-16,IV Fluids,53,ICU
+2026-06-17,Paracetamol,80,General
+2026-06-17,Paracetamol,73,Emergency
+2026-06-17,Paracetamol,31,ICU
+2026-06-17,Amoxicillin,42,General
+2026-06-17,Amoxicillin,55,Emergency
+2026-06-17,Amoxicillin,73,ICU
+2026-06-17,Insulin,97,General
+2026-06-17,Insulin,106,Emergency
+2026-06-17,Insulin,37,ICU
+2026-06-17,Antibiotics,102,General
+2026-06-17,Antibiotics,102,Emergency
+2026-06-17,Antibiotics,51,ICU
+2026-06-17,IV Fluids,47,General
+2026-06-17,IV Fluids,84,Emergency
+2026-06-17,IV Fluids,48,ICU
+2026-06-18,Paracetamol,90,General
+2026-06-18,Paracetamol,79,Emergency
+2026-06-18,Paracetamol,93,ICU
+2026-06-18,Amoxicillin,98,General
+2026-06-18,Amoxicillin,32,Emergency
+2026-06-18,Amoxicillin,96,ICU
+2026-06-18,Insulin,35,General
+2026-06-18,Insulin,108,Emergency
+2026-06-18,Insulin,61,ICU
+2026-06-18,Antibiotics,53,General
+2026-06-18,Antibiotics,37,Emergency
+2026-06-18,Antibiotics,68,ICU
+2026-06-18,IV Fluids,23,General
+2026-06-18,IV Fluids,100,Emergency
+2026-06-18,IV Fluids,82,ICU
+2026-06-19,Paracetamol,73,General
+2026-06-19,Paracetamol,62,Emergency
+2026-06-19,Paracetamol,29,ICU
+2026-06-19,Amoxicillin,78,General
+2026-06-19,Amoxicillin,32,Emergency
+2026-06-19,Amoxicillin,47,ICU
+2026-06-19,Insulin,54,General
+2026-06-19,Insulin,94,Emergency
+2026-06-19,Insulin,87,ICU
+2026-06-19,Antibiotics,60,General
+2026-06-19,Antibiotics,73,Emergency
+2026-06-19,Antibiotics,65,ICU
+2026-06-19,IV Fluids,27,General
+2026-06-19,IV Fluids,97,Emergency
+2026-06-19,IV Fluids,19,ICU
+2026-06-20,Paracetamol,89,General
+2026-06-20,Paracetamol,27,Emergency
+2026-06-20,Paracetamol,59,ICU
+2026-06-20,Amoxicillin,59,General
+2026-06-20,Amoxicillin,101,Emergency
+2026-06-20,Amoxicillin,91,ICU
+2026-06-20,Insulin,44,General
+2026-06-20,Insulin,65,Emergency
+2026-06-20,Insulin,38,ICU
+2026-06-20,Antibiotics,76,General
+2026-06-20,Antibiotics,98,Emergency
+2026-06-20,Antibiotics,40,ICU
+2026-06-20,IV Fluids,91,General
+2026-06-20,IV Fluids,84,Emergency
+2026-06-20,IV Fluids,67,ICU
+2026-06-21,Paracetamol,78,General
+2026-06-21,Paracetamol,104,Emergency
+2026-06-21,Paracetamol,20,ICU
+2026-06-21,Amoxicillin,75,General
+2026-06-21,Amoxicillin,94,Emergency
+2026-06-21,Amoxicillin,63,ICU
+2026-06-21,Insulin,98,General
+2026-06-21,Insulin,97,Emergency
+2026-06-21,Insulin,61,ICU
+2026-06-21,Antibiotics,52,General
+2026-06-21,Antibiotics,70,Emergency
+2026-06-21,Antibiotics,43,ICU
+2026-06-21,IV Fluids,108,General
+2026-06-21,IV Fluids,150,Emergency
+2026-06-21,IV Fluids,40,ICU
+2026-06-22,Paracetamol,70,General
+2026-06-22,Paracetamol,82,Emergency
+2026-06-22,Paracetamol,15,ICU
+2026-06-22,Amoxicillin,103,General
+2026-06-22,Amoxicillin,44,Emergency
+2026-06-22,Amoxicillin,99,ICU
+2026-06-22,Insulin,87,General
+2026-06-22,Insulin,51,Emergency
+2026-06-22,Insulin,27,ICU
+2026-06-22,Antibiotics,94,General
+2026-06-22,Antibiotics,85,Emergency
+2026-06-22,Antibiotics,42,ICU
+2026-06-22,IV Fluids,82,General
+2026-06-22,IV Fluids,121,Emergency
+2026-06-22,IV Fluids,91,ICU
+2026-06-23,Paracetamol,66,General
+2026-06-23,Paracetamol,86,Emergency
+2026-06-23,Paracetamol,68,ICU
+2026-06-23,Amoxicillin,98,General
+2026-06-23,Amoxicillin,97,Emergency
+2026-06-23,Amoxicillin,34,ICU
+2026-06-23,Insulin,89,General
+2026-06-23,Insulin,60,Emergency
+2026-06-23,Insulin,75,ICU
+2026-06-23,Antibiotics,117,General
+2026-06-23,Antibiotics,34,Emergency
+2026-06-23,Antibiotics,80,ICU
+2026-06-23,IV Fluids,80,General
+2026-06-23,IV Fluids,96,Emergency
+2026-06-23,IV Fluids,104,ICU
+2026-06-24,Paracetamol,99,General
+2026-06-24,Paracetamol,33,Emergency
+2026-06-24,Paracetamol,46,ICU
+2026-06-24,Amoxicillin,74,General
+2026-06-24,Amoxicillin,32,Emergency
+2026-06-24,Amoxicillin,34,ICU
+2026-06-24,Insulin,70,General
+2026-06-24,Insulin,84,Emergency
+2026-06-24,Insulin,87,ICU
+2026-06-24,Antibiotics,42,General
+2026-06-24,Antibiotics,73,Emergency
+2026-06-24,Antibiotics,63,ICU
+2026-06-24,IV Fluids,107,General
+2026-06-24,IV Fluids,128,Emergency
+2026-06-24,IV Fluids,110,ICU
+2026-06-25,Paracetamol,47,General
+2026-06-25,Paracetamol,22,Emergency
+2026-06-25,Paracetamol,73,ICU
+2026-06-25,Amoxicillin,84,General
+2026-06-25,Amoxicillin,46,Emergency
+2026-06-25,Amoxicillin,100,ICU
+2026-06-25,Insulin,68,General
+2026-06-25,Insulin,57,Emergency
+2026-06-25,Insulin,53,ICU
+2026-06-25,Antibiotics,47,General
+2026-06-25,Antibiotics,56,Emergency
+2026-06-25,Antibiotics,59,ICU
+2026-06-25,IV Fluids,99,General
+2026-06-25,IV Fluids,131,Emergency
+2026-06-25,IV Fluids,92,ICU
+2026-06-26,Paracetamol,71,General
+2026-06-26,Paracetamol,41,Emergency
+2026-06-26,Paracetamol,26,ICU
+2026-06-26,Amoxicillin,18,General
+2026-06-26,Amoxicillin,58,Emergency
+2026-06-26,Amoxicillin,38,ICU
+2026-06-26,Insulin,36,General
+2026-06-26,Insulin,59,Emergency
+2026-06-26,Insulin,76,ICU
+2026-06-26,Antibiotics,19,General
+2026-06-26,Antibiotics,57,Emergency
+2026-06-26,Antibiotics,91,ICU
+2026-06-26,IV Fluids,80,General
+2026-06-26,IV Fluids,104,Emergency
+2026-06-26,IV Fluids,24,ICU
+2026-06-27,Paracetamol,89,General
+2026-06-27,Paracetamol,30,Emergency
+2026-06-27,Paracetamol,83,ICU
+2026-06-27,Amoxicillin,63,General
+2026-06-27,Amoxicillin,47,Emergency
+2026-06-27,Amoxicillin,38,ICU
+2026-06-27,Insulin,61,General
+2026-06-27,Insulin,86,Emergency
+2026-06-27,Insulin,64,ICU
+2026-06-27,Antibiotics,89,General
+2026-06-27,Antibiotics,108,Emergency
+2026-06-27,Antibiotics,47,ICU
+2026-06-27,IV Fluids,62,General
+2026-06-27,IV Fluids,112,Emergency
+2026-06-27,IV Fluids,47,ICU
+2026-06-28,Paracetamol,49,General
+2026-06-28,Paracetamol,45,Emergency
+2026-06-28,Paracetamol,53,ICU
+2026-06-28,Amoxicillin,47,General
+2026-06-28,Amoxicillin,24,Emergency
+2026-06-28,Amoxicillin,85,ICU
+2026-06-28,Insulin,84,General
+2026-06-28,Insulin,51,Emergency
+2026-06-28,Insulin,31,ICU
+2026-06-28,Antibiotics,91,General
+2026-06-28,Antibiotics,18,Emergency
+2026-06-28,Antibiotics,56,ICU
+2026-06-28,IV Fluids,74,General
+2026-06-28,IV Fluids,111,Emergency
+2026-06-28,IV Fluids,100,ICU
+2026-06-29,Paracetamol,16,General
+2026-06-29,Paracetamol,87,Emergency
+2026-06-29,Paracetamol,89,ICU
+2026-06-29,Amoxicillin,60,General
+2026-06-29,Amoxicillin,67,Emergency
+2026-06-29,Amoxicillin,93,ICU
+2026-06-29,Insulin,66,General
+2026-06-29,Insulin,91,Emergency
+2026-06-29,Insulin,90,ICU
+2026-06-29,Antibiotics,68,General
+2026-06-29,Antibiotics,58,Emergency
+2026-06-29,Antibiotics,80,ICU
+2026-06-29,IV Fluids,70,General
+2026-06-29,IV Fluids,94,Emergency
+2026-06-29,IV Fluids,36,ICU
+2026-06-30,Paracetamol,48,General
+2026-06-30,Paracetamol,86,Emergency
+2026-06-30,Paracetamol,81,ICU
+2026-06-30,Amoxicillin,86,General
+2026-06-30,Amoxicillin,32,Emergency
+2026-06-30,Amoxicillin,30,ICU
+2026-06-30,Insulin,25,General
+2026-06-30,Insulin,89,Emergency
+2026-06-30,Insulin,72,ICU
+2026-06-30,Antibiotics,64,General
+2026-06-30,Antibiotics,35,Emergency
+2026-06-30,Antibiotics,46,ICU
+2026-06-30,IV Fluids,83,General
+2026-06-30,IV Fluids,116,Emergency
+2026-06-30,IV Fluids,101,ICU
+2026-07-01,Paracetamol,36,General
+2026-07-01,Paracetamol,70,Emergency
+2026-07-01,Paracetamol,96,ICU
+2026-07-01,Amoxicillin,88,General
+2026-07-01,Amoxicillin,82,Emergency
+2026-07-01,Amoxicillin,95,ICU
+2026-07-01,Insulin,43,General
+2026-07-01,Insulin,28,Emergency
+2026-07-01,Insulin,89,ICU
+2026-07-01,Antibiotics,28,General
+2026-07-01,Antibiotics,80,Emergency
+2026-07-01,Antibiotics,57,ICU
+2026-07-01,IV Fluids,44,General
+2026-07-01,IV Fluids,145,Emergency
+2026-07-01,IV Fluids,54,ICU
+2026-07-02,Paracetamol,102,General
+2026-07-02,Paracetamol,28,Emergency
+2026-07-02,Paracetamol,98,ICU
+2026-07-02,Amoxicillin,106,General
+2026-07-02,Amoxicillin,36,Emergency
+2026-07-02,Amoxicillin,91,ICU
+2026-07-02,Insulin,79,General
+2026-07-02,Insulin,103,Emergency
+2026-07-02,Insulin,85,ICU
+2026-07-02,Antibiotics,80,General
+2026-07-02,Antibiotics,16,Emergency
+2026-07-02,Antibiotics,91,ICU
+2026-07-02,IV Fluids,52,General
+2026-07-02,IV Fluids,93,Emergency
+2026-07-02,IV Fluids,26,ICU
+2026-07-03,Paracetamol,25,General
+2026-07-03,Paracetamol,92,Emergency
+2026-07-03,Paracetamol,72,ICU
+2026-07-03,Amoxicillin,41,General
+2026-07-03,Amoxicillin,103,Emergency
+2026-07-03,Amoxicillin,39,ICU
+2026-07-03,Insulin,23,General
+2026-07-03,Insulin,103,Emergency
+2026-07-03,Insulin,66,ICU
+2026-07-03,Antibiotics,67,General
+2026-07-03,Antibiotics,51,Emergency
+2026-07-03,Antibiotics,78,ICU
+2026-07-03,IV Fluids,100,General
+2026-07-03,IV Fluids,83,Emergency
+2026-07-03,IV Fluids,79,ICU
+2026-07-04,Paracetamol,86,General
+2026-07-04,Paracetamol,64,Emergency
+2026-07-04,Paracetamol,56,ICU
+2026-07-04,Amoxicillin,15,General
+2026-07-04,Amoxicillin,80,Emergency
+2026-07-04,Amoxicillin,17,ICU
+2026-07-04,Insulin,82,General
+2026-07-04,Insulin,19,Emergency
+2026-07-04,Insulin,65,ICU
+2026-07-04,Antibiotics,108,General
+2026-07-04,Antibiotics,98,Emergency
+2026-07-04,Antibiotics,62,ICU
+2026-07-04,IV Fluids,22,General
+2026-07-04,IV Fluids,95,Emergency
+2026-07-04,IV Fluids,101,ICU
+2026-07-05,Paracetamol,73,General
+2026-07-05,Paracetamol,101,Emergency
+2026-07-05,Paracetamol,57,ICU
+2026-07-05,Amoxicillin,62,General
+2026-07-05,Amoxicillin,59,Emergency
+2026-07-05,Amoxicillin,17,ICU
+2026-07-05,Insulin,39,General
+2026-07-05,Insulin,63,Emergency
+2026-07-05,Insulin,92,ICU
+2026-07-05,Antibiotics,99,General
+2026-07-05,Antibiotics,31,Emergency
+2026-07-05,Antibiotics,64,ICU
+2026-07-05,IV Fluids,28,General
+2026-07-05,IV Fluids,97,Emergency
+2026-07-05,IV Fluids,22,ICU
+2026-07-06,Paracetamol,113,General
+2026-07-06,Paracetamol,75,Emergency
+2026-07-06,Paracetamol,41,ICU
+2026-07-06,Amoxicillin,53,General
+2026-07-06,Amoxicillin,87,Emergency
+2026-07-06,Amoxicillin,94,ICU
+2026-07-06,Insulin,111,General
+2026-07-06,Insulin,19,Emergency
+2026-07-06,Insulin,76,ICU
+2026-07-06,Antibiotics,31,General
+2026-07-06,Antibiotics,61,Emergency
+2026-07-06,Antibiotics,77,ICU
+2026-07-06,IV Fluids,112,General
+2026-07-06,IV Fluids,100,Emergency
+2026-07-06,IV Fluids,61,ICU
+2026-07-07,Paracetamol,78,General
+2026-07-07,Paracetamol,25,Emergency
+2026-07-07,Paracetamol,99,ICU
+2026-07-07,Amoxicillin,77,General
+2026-07-07,Amoxicillin,102,Emergency
+2026-07-07,Amoxicillin,72,ICU
+2026-07-07,Insulin,66,General
+2026-07-07,Insulin,41,Emergency
+2026-07-07,Insulin,52,ICU
+2026-07-07,Antibiotics,90,General
+2026-07-07,Antibiotics,59,Emergency
+2026-07-07,Antibiotics,30,ICU
+2026-07-07,IV Fluids,75,General
+2026-07-07,IV Fluids,129,Emergency
+2026-07-07,IV Fluids,38,ICU
+2026-07-08,Paracetamol,74,General
+2026-07-08,Paracetamol,71,Emergency
+2026-07-08,Paracetamol,24,ICU
+2026-07-08,Amoxicillin,76,General
+2026-07-08,Amoxicillin,88,Emergency
+2026-07-08,Amoxicillin,37,ICU
+2026-07-08,Insulin,27,General
+2026-07-08,Insulin,79,Emergency
+2026-07-08,Insulin,91,ICU
+2026-07-08,Antibiotics,83,General
+2026-07-08,Antibiotics,112,Emergency
+2026-07-08,Antibiotics,100,ICU
+2026-07-08,IV Fluids,105,General
+2026-07-08,IV Fluids,150,Emergency
+2026-07-08,IV Fluids,103,ICU
+2026-07-09,Paracetamol,52,General
+2026-07-09,Paracetamol,34,Emergency
+2026-07-09,Paracetamol,73,ICU
+2026-07-09,Amoxicillin,55,General
+2026-07-09,Amoxicillin,93,Emergency
+2026-07-09,Amoxicillin,90,ICU
+2026-07-09,Insulin,91,General
+2026-07-09,Insulin,110,Emergency
+2026-07-09,Insulin,84,ICU
+2026-07-09,Antibiotics,80,General
+2026-07-09,Antibiotics,37,Emergency
+2026-07-09,Antibiotics,48,ICU
+2026-07-09,IV Fluids,57,General
+2026-07-09,IV Fluids,75,Emergency
+2026-07-09,IV Fluids,90,ICU
+2026-07-10,Paracetamol,93,General
+2026-07-10,Paracetamol,78,Emergency
+2026-07-10,Paracetamol,87,ICU
+2026-07-10,Amoxicillin,77,General
+2026-07-10,Amoxicillin,111,Emergency
+2026-07-10,Amoxicillin,33,ICU
+2026-07-10,Insulin,88,General
+2026-07-10,Insulin,33,Emergency
+2026-07-10,Insulin,27,ICU
+2026-07-10,Antibiotics,43,General
+2026-07-10,Antibiotics,39,Emergency
+2026-07-10,Antibiotics,36,ICU
+2026-07-10,IV Fluids,53,General
+2026-07-10,IV Fluids,91,Emergency
+2026-07-10,IV Fluids,76,ICU
+2026-07-11,Paracetamol,25,General
+2026-07-11,Paracetamol,102,Emergency
+2026-07-11,Paracetamol,103,ICU
+2026-07-11,Amoxicillin,52,General
+2026-07-11,Amoxicillin,75,Emergency
+2026-07-11,Amoxicillin,64,ICU
+2026-07-11,Insulin,45,General
+2026-07-11,Insulin,65,Emergency
+2026-07-11,Insulin,51,ICU
+2026-07-11,Antibiotics,34,General
+2026-07-11,Antibiotics,64,Emergency
+2026-07-11,Antibiotics,109,ICU
+2026-07-11,IV Fluids,30,General
+2026-07-11,IV Fluids,102,Emergency
+2026-07-11,IV Fluids,91,ICU
+2026-07-12,Paracetamol,28,General
+2026-07-12,Paracetamol,77,Emergency
+2026-07-12,Paracetamol,64,ICU
+2026-07-12,Amoxicillin,16,General
+2026-07-12,Amoxicillin,70,Emergency
+2026-07-12,Amoxicillin,47,ICU
+2026-07-12,Insulin,45,General
+2026-07-12,Insulin,64,Emergency
+2026-07-12,Insulin,68,ICU
+2026-07-12,Antibiotics,73,General
+2026-07-12,Antibiotics,47,Emergency
+2026-07-12,Antibiotics,65,ICU
+2026-07-12,IV Fluids,58,General
+2026-07-12,IV Fluids,150,Emergency
+2026-07-12,IV Fluids,93,ICU
+2026-07-13,Paracetamol,55,General
+2026-07-13,Paracetamol,34,Emergency
+2026-07-13,Paracetamol,99,ICU
+2026-07-13,Amoxicillin,97,General
+2026-07-13,Amoxicillin,92,Emergency
+2026-07-13,Amoxicillin,18,ICU
+2026-07-13,Insulin,98,General
+2026-07-13,Insulin,107,Emergency
+2026-07-13,Insulin,67,ICU
+2026-07-13,Antibiotics,89,General
+2026-07-13,Antibiotics,103,Emergency
+2026-07-13,Antibiotics,54,ICU
+2026-07-13,IV Fluids,72,General
+2026-07-13,IV Fluids,100,Emergency
+2026-07-13,IV Fluids,74,ICU
+2026-07-14,Paracetamol,38,General
+2026-07-14,Paracetamol,79,Emergency
+2026-07-14,Paracetamol,89,ICU
+2026-07-14,Amoxicillin,67,General
+2026-07-14,Amoxicillin,87,Emergency
+2026-07-14,Amoxicillin,103,ICU
+2026-07-14,Insulin,27,General
+2026-07-14,Insulin,36,Emergency
+2026-07-14,Insulin,90,ICU
+2026-07-14,Antibiotics,49,General
+2026-07-14,Antibiotics,88,Emergency
+2026-07-14,Antibiotics,35,ICU
+2026-07-14,IV Fluids,47,General
+2026-07-14,IV Fluids,119,Emergency
+2026-07-14,IV Fluids,71,ICU
+2026-07-15,Paracetamol,92,General
+2026-07-15,Paracetamol,91,Emergency
+2026-07-15,Paracetamol,87,ICU
+2026-07-15,Amoxicillin,57,General
+2026-07-15,Amoxicillin,67,Emergency
+2026-07-15,Amoxicillin,64,ICU
+2026-07-15,Insulin,103,General
+2026-07-15,Insulin,51,Emergency
+2026-07-15,Insulin,41,ICU
+2026-07-15,Antibiotics,40,General
+2026-07-15,Antibiotics,38,Emergency
+2026-07-15,Antibiotics,19,ICU
+2026-07-15,IV Fluids,68,General
+2026-07-15,IV Fluids,86,Emergency
+2026-07-15,IV Fluids,44,ICU
+2026-07-16,Paracetamol,92,General
+2026-07-16,Paracetamol,59,Emergency
+2026-07-16,Paracetamol,19,ICU
+2026-07-16,Amoxicillin,56,General
+2026-07-16,Amoxicillin,108,Emergency
+2026-07-16,Amoxicillin,75,ICU
+2026-07-16,Insulin,111,General
+2026-07-16,Insulin,101,Emergency
+2026-07-16,Insulin,41,ICU
+2026-07-16,Antibiotics,69,General
+2026-07-16,Antibiotics,79,Emergency
+2026-07-16,Antibiotics,59,ICU
+2026-07-16,IV Fluids,71,General
+2026-07-16,IV Fluids,98,Emergency
+2026-07-16,IV Fluids,39,ICU
+2026-07-17,Paracetamol,35,General
+2026-07-17,Paracetamol,59,Emergency
+2026-07-17,Paracetamol,77,ICU
+2026-07-17,Amoxicillin,20,General
+2026-07-17,Amoxicillin,88,Emergency
+2026-07-17,Amoxicillin,45,ICU
+2026-07-17,Insulin,60,General
+2026-07-17,Insulin,63,Emergency
+2026-07-17,Insulin,89,ICU
+2026-07-17,Antibiotics,21,General
+2026-07-17,Antibiotics,104,Emergency
+2026-07-17,Antibiotics,37,ICU
+2026-07-17,IV Fluids,95,General
+2026-07-17,IV Fluids,85,Emergency
+2026-07-17,IV Fluids,55,ICU
+2026-07-18,Paracetamol,90,General
+2026-07-18,Paracetamol,82,Emergency
+2026-07-18,Paracetamol,102,ICU
+2026-07-18,Amoxicillin,61,General
+2026-07-18,Amoxicillin,89,Emergency
+2026-07-18,Amoxicillin,22,ICU
+2026-07-18,Insulin,81,General
+2026-07-18,Insulin,101,Emergency
+2026-07-18,Insulin,63,ICU
+2026-07-18,Antibiotics,64,General
+2026-07-18,Antibiotics,30,Emergency
+2026-07-18,Antibiotics,63,ICU
+2026-07-18,IV Fluids,36,General
+2026-07-18,IV Fluids,154,Emergency
+2026-07-18,IV Fluids,39,ICU
+2026-07-19,Paracetamol,101,General
+2026-07-19,Paracetamol,83,Emergency
+2026-07-19,Paracetamol,56,ICU
+2026-07-19,Amoxicillin,83,General
+2026-07-19,Amoxicillin,99,Emergency
+2026-07-19,Amoxicillin,15,ICU
+2026-07-19,Insulin,40,General
+2026-07-19,Insulin,51,Emergency
+2026-07-19,Insulin,63,ICU
+2026-07-19,Antibiotics,95,General
+2026-07-19,Antibiotics,43,Emergency
+2026-07-19,Antibiotics,58,ICU
+2026-07-19,IV Fluids,27,General
+2026-07-19,IV Fluids,81,Emergency
+2026-07-19,IV Fluids,77,ICU
+2026-07-20,Paracetamol,39,General
+2026-07-20,Paracetamol,30,Emergency
+2026-07-20,Paracetamol,86,ICU
+2026-07-20,Amoxicillin,49,General
+2026-07-20,Amoxicillin,62,Emergency
+2026-07-20,Amoxicillin,43,ICU
+2026-07-20,Insulin,26,General
+2026-07-20,Insulin,73,Emergency
+2026-07-20,Insulin,88,ICU
+2026-07-20,Antibiotics,51,General
+2026-07-20,Antibiotics,45,Emergency
+2026-07-20,Antibiotics,59,ICU
+2026-07-20,IV Fluids,41,General
+2026-07-20,IV Fluids,95,Emergency
+2026-07-20,IV Fluids,39,ICU
+2026-07-21,Paracetamol,38,General
+2026-07-21,Paracetamol,46,Emergency
+2026-07-21,Paracetamol,31,ICU
+2026-07-21,Amoxicillin,76,General
+2026-07-21,Amoxicillin,67,Emergency
+2026-07-21,Amoxicillin,107,ICU
+2026-07-21,Insulin,71,General
+2026-07-21,Insulin,103,Emergency
+2026-07-21,Insulin,77,ICU
+2026-07-21,Antibiotics,65,General
+2026-07-21,Antibiotics,33,Emergency
+2026-07-21,Antibiotics,71,ICU
+2026-07-21,IV Fluids,40,General
+2026-07-21,IV Fluids,122,Emergency
+2026-07-21,IV Fluids,88,ICU
+2026-07-22,Paracetamol,54,General
+2026-07-22,Paracetamol,40,Emergency
+2026-07-22,Paracetamol,80,ICU
+2026-07-22,Amoxicillin,83,General
+2026-07-22,Amoxicillin,96,Emergency
+2026-07-22,Amoxicillin,92,ICU
+2026-07-22,Insulin,97,General
+2026-07-22,Insulin,49,Emergency
+2026-07-22,Insulin,61,ICU
+2026-07-22,Antibiotics,29,General
+2026-07-22,Antibiotics,40,Emergency
+2026-07-22,Antibiotics,116,ICU
+2026-07-22,IV Fluids,91,General
+2026-07-22,IV Fluids,78,Emergency
+2026-07-22,IV Fluids,64,ICU
+2026-07-23,Paracetamol,59,General
+2026-07-23,Paracetamol,64,Emergency
+2026-07-23,Paracetamol,54,ICU
+2026-07-23,Amoxicillin,20,General
+2026-07-23,Amoxicillin,53,Emergency
+2026-07-23,Amoxicillin,101,ICU
+2026-07-23,Insulin,62,General
+2026-07-23,Insulin,46,Emergency
+2026-07-23,Insulin,70,ICU
+2026-07-23,Antibiotics,76,General
+2026-07-23,Antibiotics,36,Emergency
+2026-07-23,Antibiotics,90,ICU
+2026-07-23,IV Fluids,76,General
+2026-07-23,IV Fluids,147,Emergency
+2026-07-23,IV Fluids,78,ICU
+2026-07-24,Paracetamol,71,General
+2026-07-24,Paracetamol,93,Emergency
+2026-07-24,Paracetamol,65,ICU
+2026-07-24,Amoxicillin,64,General
+2026-07-24,Amoxicillin,84,Emergency
+2026-07-24,Amoxicillin,87,ICU
+2026-07-24,Insulin,56,General
+2026-07-24,Insulin,39,Emergency
+2026-07-24,Insulin,48,ICU
+2026-07-24,Antibiotics,28,General
+2026-07-24,Antibiotics,17,Emergency
+2026-07-24,Antibiotics,54,ICU
+2026-07-24,IV Fluids,111,General
+2026-07-24,IV Fluids,161,Emergency
+2026-07-24,IV Fluids,112,ICU
+2026-07-25,Paracetamol,77,General
+2026-07-25,Paracetamol,68,Emergency
+2026-07-25,Paracetamol,86,ICU
+2026-07-25,Amoxicillin,68,General
+2026-07-25,Amoxicillin,101,Emergency
+2026-07-25,Amoxicillin,104,ICU
+2026-07-25,Insulin,34,General
+2026-07-25,Insulin,26,Emergency
+2026-07-25,Insulin,76,ICU
+2026-07-25,Antibiotics,104,General
+2026-07-25,Antibiotics,35,Emergency
+2026-07-25,Antibiotics,29,ICU
+2026-07-25,IV Fluids,114,General
+2026-07-25,IV Fluids,113,Emergency
+2026-07-25,IV Fluids,35,ICU
+2026-07-26,Paracetamol,57,General
+2026-07-26,Paracetamol,87,Emergency
+2026-07-26,Paracetamol,49,ICU
+2026-07-26,Amoxicillin,73,General
+2026-07-26,Amoxicillin,82,Emergency
+2026-07-26,Amoxicillin,75,ICU
+2026-07-26,Insulin,82,General
+2026-07-26,Insulin,46,Emergency
+2026-07-26,Insulin,41,ICU
+2026-07-26,Antibiotics,100,General
+2026-07-26,Antibiotics,109,Emergency
+2026-07-26,Antibiotics,90,ICU
+2026-07-26,IV Fluids,98,General
+2026-07-26,IV Fluids,126,Emergency
+2026-07-26,IV Fluids,38,ICU
+2026-07-27,Paracetamol,103,General
+2026-07-27,Paracetamol,59,Emergency
+2026-07-27,Paracetamol,102,ICU
+2026-07-27,Amoxicillin,99,General
+2026-07-27,Amoxicillin,58,Emergency
+2026-07-27,Amoxicillin,90,ICU
+2026-07-27,Insulin,110,General
+2026-07-27,Insulin,13,Emergency
+2026-07-27,Insulin,59,ICU
+2026-07-27,Antibiotics,29,General
+2026-07-27,Antibiotics,68,Emergency
+2026-07-27,Antibiotics,79,ICU
+2026-07-27,IV Fluids,56,General
+2026-07-27,IV Fluids,136,Emergency
+2026-07-27,IV Fluids,28,ICU
+2026-07-28,Paracetamol,52,General
+2026-07-28,Paracetamol,54,Emergency
+2026-07-28,Paracetamol,28,ICU
+2026-07-28,Amoxicillin,89,General
+2026-07-28,Amoxicillin,45,Emergency
+2026-07-28,Amoxicillin,59,ICU
+2026-07-28,Insulin,94,General
+2026-07-28,Insulin,82,Emergency
+2026-07-28,Insulin,93,ICU
+2026-07-28,Antibiotics,39,General
+2026-07-28,Antibiotics,58,Emergency
+2026-07-28,Antibiotics,89,ICU
+2026-07-28,IV Fluids,39,General
+2026-07-28,IV Fluids,100,Emergency
+2026-07-28,IV Fluids,68,ICU
+2026-07-29,Paracetamol,34,General
+2026-07-29,Paracetamol,110,Emergency
+2026-07-29,Paracetamol,95,ICU
+2026-07-29,Amoxicillin,118,General
+2026-07-29,Amoxicillin,98,Emergency
+2026-07-29,Amoxicillin,91,ICU
+2026-07-29,Insulin,74,General
+2026-07-29,Insulin,65,Emergency
+2026-07-29,Insulin,106,ICU
+2026-07-29,Antibiotics,45,General
+2026-07-29,Antibiotics,42,Emergency
+2026-07-29,Antibiotics,26,ICU
+2026-07-29,IV Fluids,58,General
+2026-07-29,IV Fluids,139,Emergency
+2026-07-29,IV Fluids,105,ICU
+2026-07-30,Paracetamol,89,General
+2026-07-30,Paracetamol,61,Emergency
+2026-07-30,Paracetamol,86,ICU
+2026-07-30,Amoxicillin,72,General
+2026-07-30,Amoxicillin,111,Emergency
+2026-07-30,Amoxicillin,15,ICU
+2026-07-30,Insulin,35,General
+2026-07-30,Insulin,32,Emergency
+2026-07-30,Insulin,94,ICU
+2026-07-30,Antibiotics,76,General
+2026-07-30,Antibiotics,53,Emergency
+2026-07-30,Antibiotics,89,ICU
+2026-07-30,IV Fluids,64,General
+2026-07-30,IV Fluids,137,Emergency
+2026-07-30,IV Fluids,57,ICU
+2026-07-31,Paracetamol,61,General
+2026-07-31,Paracetamol,75,Emergency
+2026-07-31,Paracetamol,86,ICU
+2026-07-31,Amoxicillin,97,General
+2026-07-31,Amoxicillin,100,Emergency
+2026-07-31,Amoxicillin,91,ICU
+2026-07-31,Insulin,77,General
+2026-07-31,Insulin,105,Emergency
+2026-07-31,Insulin,46,ICU
+2026-07-31,Antibiotics,24,General
+2026-07-31,Antibiotics,84,Emergency
+2026-07-31,Antibiotics,48,ICU
+2026-07-31,IV Fluids,64,General
+2026-07-31,IV Fluids,154,Emergency
+2026-07-31,IV Fluids,33,ICU
+2026-08-01,Paracetamol,51,General
+2026-08-01,Paracetamol,91,Emergency
+2026-08-01,Paracetamol,90,ICU
+2026-08-01,Amoxicillin,56,General
+2026-08-01,Amoxicillin,79,Emergency
+2026-08-01,Amoxicillin,27,ICU
+2026-08-01,Insulin,101,General
+2026-08-01,Insulin,50,Emergency
+2026-08-01,Insulin,113,ICU
+2026-08-01,Antibiotics,78,General
+2026-08-01,Antibiotics,74,Emergency
+2026-08-01,Antibiotics,92,ICU
+2026-08-01,IV Fluids,40,General
+2026-08-01,IV Fluids,154,Emergency
+2026-08-01,IV Fluids,56,ICU
+2026-08-02,Paracetamol,89,General
+2026-08-02,Paracetamol,66,Emergency
+2026-08-02,Paracetamol,60,ICU
+2026-08-02,Amoxicillin,36,General
+2026-08-02,Amoxicillin,41,Emergency
+2026-08-02,Amoxicillin,81,ICU
+2026-08-02,Insulin,53,General
+2026-08-02,Insulin,74,Emergency
+2026-08-02,Insulin,57,ICU
+2026-08-02,Antibiotics,41,General
+2026-08-02,Antibiotics,13,Emergency
+2026-08-02,Antibiotics,56,ICU
+2026-08-02,IV Fluids,23,General
+2026-08-02,IV Fluids,90,Emergency
+2026-08-02,IV Fluids,108,ICU
+2026-08-03,Paracetamol,87,General
+2026-08-03,Paracetamol,61,Emergency
+2026-08-03,Paracetamol,41,ICU
+2026-08-03,Amoxicillin,37,General
+2026-08-03,Amoxicillin,118,Emergency
+2026-08-03,Amoxicillin,22,ICU
+2026-08-03,Insulin,25,General
+2026-08-03,Insulin,46,Emergency
+2026-08-03,Insulin,72,ICU
+2026-08-03,Antibiotics,59,General
+2026-08-03,Antibiotics,96,Emergency
+2026-08-03,Antibiotics,33,ICU
+2026-08-03,IV Fluids,88,General
+2026-08-03,IV Fluids,99,Emergency
+2026-08-03,IV Fluids,62,ICU
+2026-08-04,Paracetamol,87,General
+2026-08-04,Paracetamol,74,Emergency
+2026-08-04,Paracetamol,47,ICU
+2026-08-04,Amoxicillin,47,General
+2026-08-04,Amoxicillin,37,Emergency
+2026-08-04,Amoxicillin,41,ICU
+2026-08-04,Insulin,56,General
+2026-08-04,Insulin,80,Emergency
+2026-08-04,Insulin,41,ICU
+2026-08-04,Antibiotics,33,General
+2026-08-04,Antibiotics,52,Emergency
+2026-08-04,Antibiotics,73,ICU
+2026-08-04,IV Fluids,73,General
+2026-08-04,IV Fluids,133,Emergency
+2026-08-04,IV Fluids,54,ICU
+2026-08-05,Paracetamol,56,General
+2026-08-05,Paracetamol,96,Emergency
+2026-08-05,Paracetamol,88,ICU
+2026-08-05,Amoxicillin,66,General
+2026-08-05,Amoxicillin,63,Emergency
+2026-08-05,Amoxicillin,33,ICU
+2026-08-05,Insulin,68,General
+2026-08-05,Insulin,56,Emergency
+2026-08-05,Insulin,50,ICU
+2026-08-05,Antibiotics,63,General
+2026-08-05,Antibiotics,73,Emergency
+2026-08-05,Antibiotics,106,ICU
+2026-08-05,IV Fluids,57,General
+2026-08-05,IV Fluids,142,Emergency
+2026-08-05,IV Fluids,62,ICU
+2026-08-06,Paracetamol,85,General
+2026-08-06,Paracetamol,48,Emergency
+2026-08-06,Paracetamol,101,ICU
+2026-08-06,Amoxicillin,61,General
+2026-08-06,Amoxicillin,74,Emergency
+2026-08-06,Amoxicillin,60,ICU
+2026-08-06,Insulin,110,General
+2026-08-06,Insulin,30,Emergency
+2026-08-06,Insulin,34,ICU
+2026-08-06,Antibiotics,84,General
+2026-08-06,Antibiotics,94,Emergency
+2026-08-06,Antibiotics,47,ICU
+2026-08-06,IV Fluids,103,General
+2026-08-06,IV Fluids,149,Emergency
+2026-08-06,IV Fluids,100,ICU
+2026-08-07,Paracetamol,27,General
+2026-08-07,Paracetamol,46,Emergency
+2026-08-07,Paracetamol,27,ICU
+2026-08-07,Amoxicillin,33,General
+2026-08-07,Amoxicillin,88,Emergency
+2026-08-07,Amoxicillin,78,ICU
+2026-08-07,Insulin,22,General
+2026-08-07,Insulin,70,Emergency
+2026-08-07,Insulin,41,ICU
+2026-08-07,Antibiotics,90,General
+2026-08-07,Antibiotics,36,Emergency
+2026-08-07,Antibiotics,95,ICU
+2026-08-07,IV Fluids,62,General
+2026-08-07,IV Fluids,137,Emergency
+2026-08-07,IV Fluids,78,ICU
+2026-08-08,Paracetamol,63,General
+2026-08-08,Paracetamol,74,Emergency
+2026-08-08,Paracetamol,104,ICU
+2026-08-08,Amoxicillin,54,General
+2026-08-08,Amoxicillin,69,Emergency
+2026-08-08,Amoxicillin,63,ICU
+2026-08-08,Insulin,32,General
+2026-08-08,Insulin,62,Emergency
+2026-08-08,Insulin,30,ICU
+2026-08-08,Antibiotics,32,General
+2026-08-08,Antibiotics,98,Emergency
+2026-08-08,Antibiotics,105,ICU
+2026-08-08,IV Fluids,39,General
+2026-08-08,IV Fluids,110,Emergency
+2026-08-08,IV Fluids,100,ICU
+2026-08-09,Paracetamol,25,General
+2026-08-09,Paracetamol,40,Emergency
+2026-08-09,Paracetamol,99,ICU
+2026-08-09,Amoxicillin,44,General
+2026-08-09,Amoxicillin,104,Emergency
+2026-08-09,Amoxicillin,89,ICU
+2026-08-09,Insulin,55,General
+2026-08-09,Insulin,42,Emergency
+2026-08-09,Insulin,71,ICU
+2026-08-09,Antibiotics,102,General
+2026-08-09,Antibiotics,99,Emergency
+2026-08-09,Antibiotics,106,ICU
+2026-08-09,IV Fluids,86,General
+2026-08-09,IV Fluids,151,Emergency
+2026-08-09,IV Fluids,58,ICU
+2026-08-10,Paracetamol,67,General
+2026-08-10,Paracetamol,85,Emergency
+2026-08-10,Paracetamol,85,ICU
+2026-08-10,Amoxicillin,57,General
+2026-08-10,Amoxicillin,42,Emergency
+2026-08-10,Amoxicillin,98,ICU
+2026-08-10,Insulin,45,General
+2026-08-10,Insulin,75,Emergency
+2026-08-10,Insulin,89,ICU
+2026-08-10,Antibiotics,15,General
+2026-08-10,Antibiotics,90,Emergency
+2026-08-10,Antibiotics,99,ICU
+2026-08-10,IV Fluids,43,General
+2026-08-10,IV Fluids,82,Emergency
+2026-08-10,IV Fluids,61,ICU
+2026-08-11,Paracetamol,110,General
+2026-08-11,Paracetamol,89,Emergency
+2026-08-11,Paracetamol,46,ICU
+2026-08-11,Amoxicillin,89,General
+2026-08-11,Amoxicillin,62,Emergency
+2026-08-11,Amoxicillin,68,ICU
+2026-08-11,Insulin,73,General
+2026-08-11,Insulin,94,Emergency
+2026-08-11,Insulin,95,ICU
+2026-08-11,Antibiotics,64,General
+2026-08-11,Antibiotics,30,Emergency
+2026-08-11,Antibiotics,20,ICU
+2026-08-11,IV Fluids,92,General
+2026-08-11,IV Fluids,153,Emergency
+2026-08-11,IV Fluids,81,ICU
+2026-08-12,Paracetamol,29,General
+2026-08-12,Paracetamol,34,Emergency
+2026-08-12,Paracetamol,48,ICU
+2026-08-12,Amoxicillin,28,General
+2026-08-12,Amoxicillin,41,Emergency
+2026-08-12,Amoxicillin,53,ICU
+2026-08-12,Insulin,22,General
+2026-08-12,Insulin,58,Emergency
+2026-08-12,Insulin,90,ICU
+2026-08-12,Antibiotics,80,General
+2026-08-12,Antibiotics,79,Emergency
+2026-08-12,Antibiotics,44,ICU
+2026-08-12,IV Fluids,79,General
+2026-08-12,IV Fluids,145,Emergency
+2026-08-12,IV Fluids,29,ICU
+2026-08-13,Paracetamol,46,General
+2026-08-13,Paracetamol,101,Emergency
+2026-08-13,Paracetamol,65,ICU
+2026-08-13,Amoxicillin,38,General
+2026-08-13,Amoxicillin,28,Emergency
+2026-08-13,Amoxicillin,20,ICU
+2026-08-13,Insulin,94,General
+2026-08-13,Insulin,86,Emergency
+2026-08-13,Insulin,80,ICU
+2026-08-13,Antibiotics,49,General
+2026-08-13,Antibiotics,49,Emergency
+2026-08-13,Antibiotics,90,ICU
+2026-08-13,IV Fluids,85,General
+2026-08-13,IV Fluids,153,Emergency
+2026-08-13,IV Fluids,104,ICU
+2026-08-14,Paracetamol,47,General
+2026-08-14,Paracetamol,75,Emergency
+2026-08-14,Paracetamol,23,ICU
+2026-08-14,Amoxicillin,92,General
+2026-08-14,Amoxicillin,92,Emergency
+2026-08-14,Amoxicillin,47,ICU
+2026-08-14,Insulin,58,General
+2026-08-14,Insulin,52,Emergency
+2026-08-14,Insulin,34,ICU
+2026-08-14,Antibiotics,108,General
+2026-08-14,Antibiotics,18,Emergency
+2026-08-14,Antibiotics,47,ICU
+2026-08-14,IV Fluids,75,General
+2026-08-14,IV Fluids,145,Emergency
+2026-08-14,IV Fluids,48,ICU
+2026-08-15,Paracetamol,82,General
+2026-08-15,Paracetamol,30,Emergency
+2026-08-15,Paracetamol,69,ICU
+2026-08-15,Amoxicillin,40,General
+2026-08-15,Amoxicillin,26,Emergency
+2026-08-15,Amoxicillin,16,ICU
+2026-08-15,Insulin,16,General
+2026-08-15,Insulin,83,Emergency
+2026-08-15,Insulin,100,ICU
+2026-08-15,Antibiotics,85,General
+2026-08-15,Antibiotics,24,Emergency
+2026-08-15,Antibiotics,19,ICU
+2026-08-15,IV Fluids,59,General
+2026-08-15,IV Fluids,155,Emergency
+2026-08-15,IV Fluids,85,ICU
+2026-08-16,Paracetamol,95,General
+2026-08-16,Paracetamol,73,Emergency
+2026-08-16,Paracetamol,23,ICU
+2026-08-16,Amoxicillin,96,General
+2026-08-16,Amoxicillin,75,Emergency
+2026-08-16,Amoxicillin,42,ICU
+2026-08-16,Insulin,43,General
+2026-08-16,Insulin,36,Emergency
+2026-08-16,Insulin,31,ICU
+2026-08-16,Antibiotics,51,General
+2026-08-16,Antibiotics,60,Emergency
+2026-08-16,Antibiotics,86,ICU
+2026-08-16,IV Fluids,23,General
+2026-08-16,IV Fluids,157,Emergency
+2026-08-16,IV Fluids,86,ICU
+2026-08-17,Paracetamol,109,General
+2026-08-17,Paracetamol,73,Emergency
+2026-08-17,Paracetamol,80,ICU
+2026-08-17,Amoxicillin,105,General
+2026-08-17,Amoxicillin,79,Emergency
+2026-08-17,Amoxicillin,18,ICU
+2026-08-17,Insulin,27,General
+2026-08-17,Insulin,66,Emergency
+2026-08-17,Insulin,37,ICU
+2026-08-17,Antibiotics,83,General
+2026-08-17,Antibiotics,30,Emergency
+2026-08-17,Antibiotics,74,ICU
+2026-08-17,IV Fluids,48,General
+2026-08-17,IV Fluids,85,Emergency
+2026-08-17,IV Fluids,85,ICU
+2026-08-18,Paracetamol,102,General
+2026-08-18,Paracetamol,46,Emergency
+2026-08-18,Paracetamol,59,ICU
+2026-08-18,Amoxicillin,82,General
+2026-08-18,Amoxicillin,55,Emergency
+2026-08-18,Amoxicillin,70,ICU
+2026-08-18,Insulin,103,General
+2026-08-18,Insulin,60,Emergency
+2026-08-18,Insulin,42,ICU
+2026-08-18,Antibiotics,48,General
+2026-08-18,Antibiotics,51,Emergency
+2026-08-18,Antibiotics,41,ICU
+2026-08-18,IV Fluids,71,General
+2026-08-18,IV Fluids,142,Emergency
+2026-08-18,IV Fluids,64,ICU
+2026-08-19,Paracetamol,98,General
+2026-08-19,Paracetamol,96,Emergency
+2026-08-19,Paracetamol,90,ICU
+2026-08-19,Amoxicillin,79,General
+2026-08-19,Amoxicillin,78,Emergency
+2026-08-19,Amoxicillin,88,ICU
+2026-08-19,Insulin,19,General
+2026-08-19,Insulin,80,Emergency
+2026-08-19,Insulin,99,ICU
+2026-08-19,Antibiotics,65,General
+2026-08-19,Antibiotics,49,Emergency
+2026-08-19,Antibiotics,68,ICU
+2026-08-19,IV Fluids,95,General
+2026-08-19,IV Fluids,131,Emergency
+2026-08-19,IV Fluids,82,ICU
+2026-08-20,Paracetamol,80,General
+2026-08-20,Paracetamol,60,Emergency
+2026-08-20,Paracetamol,98,ICU
+2026-08-20,Amoxicillin,92,General
+2026-08-20,Amoxicillin,83,Emergency
+2026-08-20,Amoxicillin,54,ICU
+2026-08-20,Insulin,52,General
+2026-08-20,Insulin,43,Emergency
+2026-08-20,Insulin,56,ICU
+2026-08-20,Antibiotics,42,General
+2026-08-20,Antibiotics,56,Emergency
+2026-08-20,Antibiotics,42,ICU
+2026-08-20,IV Fluids,88,General
+2026-08-20,IV Fluids,150,Emergency
+2026-08-20,IV Fluids,37,ICU
+2026-08-21,Paracetamol,69,General
+2026-08-21,Paracetamol,101,Emergency
+2026-08-21,Paracetamol,66,ICU
+2026-08-21,Amoxicillin,61,General
+2026-08-21,Amoxicillin,43,Emergency
+2026-08-21,Amoxicillin,76,ICU
+2026-08-21,Insulin,68,General
+2026-08-21,Insulin,34,Emergency
+2026-08-21,Insulin,42,ICU
+2026-08-21,Antibiotics,66,General
+2026-08-21,Antibiotics,19,Emergency
+2026-08-21,Antibiotics,42,ICU
+2026-08-21,IV Fluids,88,General
+2026-08-21,IV Fluids,160,Emergency
+2026-08-21,IV Fluids,32,ICU
+2026-08-22,Paracetamol,91,General
+2026-08-22,Paracetamol,22,Emergency
+2026-08-22,Paracetamol,95,ICU
+2026-08-22,Amoxicillin,34,General
+2026-08-22,Amoxicillin,43,Emergency
+2026-08-22,Amoxicillin,19,ICU
+2026-08-22,Insulin,39,General
+2026-08-22,Insulin,79,Emergency
+2026-08-22,Insulin,113,ICU
+2026-08-22,Antibiotics,72,General
+2026-08-22,Antibiotics,55,Emergency
+2026-08-22,Antibiotics,99,ICU
+2026-08-22,IV Fluids,80,General
+2026-08-22,IV Fluids,96,Emergency
+2026-08-22,IV Fluids,99,ICU
+2026-08-23,Paracetamol,49,General
+2026-08-23,Paracetamol,95,Emergency
+2026-08-23,Paracetamol,67,ICU
+2026-08-23,Amoxicillin,58,General
+2026-08-23,Amoxicillin,83,Emergency
+2026-08-23,Amoxicillin,64,ICU
+2026-08-23,Insulin,69,General
+2026-08-23,Insulin,119,Emergency
+2026-08-23,Insulin,69,ICU
+2026-08-23,Antibiotics,84,General
+2026-08-23,Antibiotics,108,Emergency
+2026-08-23,Antibiotics,33,ICU
+2026-08-23,IV Fluids,58,General
+2026-08-23,IV Fluids,102,Emergency
+2026-08-23,IV Fluids,44,ICU

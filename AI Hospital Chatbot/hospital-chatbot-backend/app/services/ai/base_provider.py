@@ -13,3 +13,7 @@ class BaseAIProvider(ABC):
         By default, it just yields the full response. Providers can override this.
         """
         yield self.generate_response(messages)
+
+    def generate_insights(self, data: Dict[str, any]) -> Dict[str, any]:
+        """Generate structured insights from raw data."""
+        return {}

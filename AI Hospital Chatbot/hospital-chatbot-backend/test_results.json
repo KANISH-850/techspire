@@ -1,0 +1,21 @@
+{
+    "AI-002 Dashboard KPI": "PASS",
+    "AI-002 Dashboard Revenue": "PASS",
+    "AI-002 Dashboard Departments": "PASS",
+    "AI-002 Dashboard Alerts": "PASS",
+    "AI-002 Dashboard AI Recommendations": "PASS",
+    "AI-003 Predictive Revenue": "PASS",
+    "AI-003 Predictive Admissions": "PASS",
+    "AI-003 Predictive Bed Occupancy": "PASS",
+    "AI-003 Predictive Medicine Demand": "PASS",
+    "AI-003 Predictive Inventory": "PASS",
+    "AI-004 Reports Financial PDF": "PASS",
+    "AI-004 Reports Clinical Excel": "PASS",
+    "AI-004 Reports Inventory PDF": "PASS",
+    "AI-004 Reports Procurement Excel": "PASS",
+    "AI-005 Inventory Status (Low Stock)": "PASS",
+    "AI-005 Inventory Expiry": "PASS",
+    "AI-005 Inventory Vendors": "PASS",
+    "AI-005 Inventory Recommendations": "PASS",
+    "AI-005 Create Purchase Order": "PASS"
+}

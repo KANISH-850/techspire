@@ -23,15 +23,15 @@ class MessageResponse(MessageBase):
 class ConversationBase(BaseModel):
     title: Optional[str] = None
     status: str = "active"
+    session_id: Optional[str] = None
 
 
 class ConversationCreate(ConversationBase):
-    user_id: str
+    pass
 
 
 class ConversationResponse(ConversationBase):
     id: str
-    user_id: str
     created_at: datetime
     updated_at: datetime
 

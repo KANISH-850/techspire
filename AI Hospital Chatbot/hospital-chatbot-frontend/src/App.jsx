@@ -1,149 +1,65 @@
-import React, { useState, useEffect } from 'react';
-import Sidebar from './Sidebar';
-import ChatArea from './ChatArea';
+import React from 'react';
+import { Routes, Route, Link, useLocation } from 'react-router-dom';
+import { LayoutDashboard, MessageSquare, LineChart, FileText, Package } from 'lucide-react';
+import Chatbot from './pages/Chatbot';
+import Dashboard from './pages/Dashboard';
+import PredictiveAnalytics from './pages/PredictiveAnalytics';
+import ReportBuilder from './pages/ReportBuilder';
+import Procurement from './pages/Procurement';
 import './App.css';
 
-const API_BASE_URL = 'http://localhost:8000/api/v1';
-const MOCK_USER_ID = "user-demo-123";
-
 function App() {
-  const [conversationId, setConversationId] = useState(null);
-  const [messages, setMessages] = useState([]);
-  const [inputValue, setInputValue] = useState('');
-  const [isLoading, setIsLoading] = useState(false);
+  const location = useLocation();
 
-  useEffect(() => {
-    const initAuthAndConversation = async () => {
-      try {
-        const controller = new AbortController();
-        const timeoutId = setTimeout(() => controller.abort(), 3000);
-        
-        const res = await fetch(`${API_BASE_URL}/chatbot/conversations`, {
-          method: 'POST',
-          headers: { 
-            'Content-Type': 'application/json'
-          },
-          body: JSON.stringify({ title: 'New Consultation', status: 'active' }),
-          signal: controller.signal
-        });
-        
-        clearTimeout(timeoutId);
-        
-        if (!res.ok) throw new Error('Failed to create conversation');
-        const data = await res.json();
-        setConversationId(data.id);
-        
-        setMessages([
-          {
-            id: 'system-1',
-            role: 'assistant',
-            content: "Good morning! I'm your HealthSync AI assistant. How can I help you manage your health today?",
-            timestamp: new Date().toISOString()
-          }
-        ]);
-      } catch (error) {
-        console.error("Failed to initialize conversation", error);
-        setConversationId('fallback-offline-id'); 
-        setMessages([
-          {
-            id: 'error-1',
-            role: 'error',
-            content: 'Unable to connect to the hospital backend. Ensure backend is running.',
-            timestamp: new Date().toISOString()
-          }
-        ]);
-      }
-    };
-    initAuthAndConversation();
-  }, []);
-
-  const handleSend = async (e) => {
-    e.preventDefault();
-    if (!inputValue.trim() || isLoading || !conversationId) return;
-
-    const userMessage = {
-      id: Date.now().toString(),
-      role: 'user',
-      content: inputValue,
-      timestamp: new Date().toISOString()
-    };
-
-    setMessages(prev => [...prev, userMessage]);
-    setInputValue('');
-    setIsLoading(true);
-
-    try {
-      const controller = new AbortController();
-      const timeoutId = setTimeout(() => controller.abort(), 60000); // 60 seconds for AI stream
-
-      const res = await fetch(`${API_BASE_URL}/chatbot/chat`, {
-        method: 'POST',
-        headers: { 
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({
-          conversation_id: conversationId,
-          message: userMessage.content
-        }),
-        signal: controller.signal
-      });
-
-      clearTimeout(timeoutId);
-
-      if (!res.ok) throw new Error('Network response was not ok');
-      
-      // Handle the streaming response
-      const reader = res.body.getReader();
-      const decoder = new TextDecoder("utf-8");
-      let done = false;
-      
-      const assistantMessageId = Date.now().toString() + "-ai";
-      setMessages(prev => [...prev, {
-        id: assistantMessageId,
-        role: 'assistant',
-        content: '',
-        timestamp: new Date().toISOString()
-      }]);
-
-      while (!done) {
-        const { value, done: readerDone } = await reader.read();
-        done = readerDone;
-        if (value) {
-          const chunk = decoder.decode(value, { stream: true });
-          setMessages(prev => 
-            prev.map(msg => 
-              msg.id === assistantMessageId 
-                ? { ...msg, content: msg.content + chunk } 
-                : msg
-            )
-          );
-        }
-      }
-
-    } catch (error) {
-      console.error("Failed to send message", error);
-      setMessages(prev => [...prev, {
-        id: Date.now().toString(),
-        role: 'error',
-        content: "Sorry, I'm having trouble connecting to the server. Or AI quota exceeded.",
-        timestamp: new Date().toISOString()
-      }]);
-    } finally {
-      setIsLoading(false);
-    }
-  };
+  const navItems = [
+    { path: '/', label: 'CEO Dashboard', icon: LayoutDashboard },
+    { path: '/chatbot', label: 'AI Chatbot', icon: MessageSquare },
+    { path: '/predictive-analytics', label: 'Predictive Analytics', icon: LineChart },
+    { path: '/reports', label: 'Report Builder', icon: FileText },
+    { path: '/procurement', label: 'Procurement', icon: Package }
+  ];
 
   return (
-    <div className="app-layout">
-      <Sidebar />
-      <ChatArea 
-        messages={messages}
-        inputValue={inputValue}
-        setInputValue={setInputValue}
-        handleSend={handleSend}
-        isLoading={isLoading}
-        conversationId={conversationId}
-      />
+    <div className="flex h-screen bg-[#F8FAFC]">
+      {/* Global Sidebar for HMS Modules */}
+      <aside className="w-64 bg-[#0F172A] text-white flex flex-col">
+        <div className="p-6 border-b border-gray-800">
+          <h1 className="text-xl font-bold flex items-center gap-2 text-white">
+            <span className="text-[#38BDF8]">✚</span> HealthSync AI
+          </h1>
+        </div>
+        <nav className="flex-1 py-4">
+          {navItems.map((item) => {
+            const Icon = item.icon;
+            const isActive = location.pathname === item.path;
+            return (
+              <Link
+                key={item.path}
+                to={item.path}
+                className={`flex items-center gap-3 px-6 py-3 transition-colors ${
+                  isActive 
+                    ? 'bg-[#1E293B] text-white border-l-4 border-[#38BDF8]' 
+                    : 'text-gray-400 hover:bg-[#1E293B] hover:text-white border-l-4 border-transparent'
+                }`}
+              >
+                <Icon className="w-5 h-5" />
+                <span className="font-medium">{item.label}</span>
+              </Link>
+            );
+          })}
+        </nav>
+      </aside>
+
+      {/* Main Content Area */}
+      <main className="flex-1 overflow-auto flex flex-col relative">
+        <Routes>
+          <Route path="/" element={<Dashboard />} />
+          <Route path="/chatbot" element={<Chatbot />} />
+          <Route path="/predictive-analytics" element={<PredictiveAnalytics />} />
+          <Route path="/reports" element={<ReportBuilder />} />
+          <Route path="/procurement" element={<Procurement />} />
+        </Routes>
+      </main>
     </div>
   );
 }

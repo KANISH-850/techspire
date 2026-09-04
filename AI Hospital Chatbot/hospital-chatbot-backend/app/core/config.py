@@ -18,7 +18,7 @@ class Settings(BaseSettings):
 
     @property
     def DATABASE_URL(self) -> str:
-        return "sqlite:///./hospital_chatbot.db"
+        return f"postgresql://{self.DATABASE_USER}:{self.DATABASE_PASSWORD}@{self.DATABASE_HOST}:{self.DATABASE_PORT}/{self.DATABASE_NAME}"
     
     # Security settings
     SECRET_KEY: str
@@ -32,6 +32,10 @@ class Settings(BaseSettings):
     OPENAI_MODEL: str = "gpt-4o-mini"
     GEMINI_API_KEY: str = ""
     OLLAMA_BASE_URL: str = "http://localhost:11434"
+    OLLAMA_MODEL: str = "qwen3:4b"
+    OLLAMA_EMBEDDING_MODEL: str = "nomic-embed-text"
+    CHROMA_PERSIST_DIRECTORY: str = "./chroma_db"
+    RAG_TOP_K: int = 3
 
     # Model configuration
     model_config = SettingsConfigDict(env_file=".env", case_sensitive=True, extra="ignore")

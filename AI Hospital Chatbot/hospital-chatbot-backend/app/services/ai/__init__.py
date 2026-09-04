@@ -16,6 +16,11 @@ def get_ai_provider() -> BaseAIProvider:
         )
     elif provider == "gemini":
         return GeminiProvider(api_key=settings.GEMINI_API_KEY)
+    elif provider == "ollama":
+        return OllamaProvider(
+            model=settings.OLLAMA_MODEL,
+            host=settings.OLLAMA_BASE_URL
+        )
     elif provider == "mock":
         from app.services.ai.mock_provider import MockProvider
         return MockProvider()

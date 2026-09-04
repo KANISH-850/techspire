@@ -9,15 +9,16 @@ from app.modules.chatbot.schemas.conversation import ConversationBase, Conversat
 
 
 class CRUDConversation(CRUDBase[Conversation, ConversationCreate, ConversationBase]):
-    def get_by_user(
-        self, db: Session, *, user_id: str, skip: int = 0, limit: int = 100
+    def get_by_session_id(
+        self, db: Session, *, session_id: str, skip: int = 0, limit: int = 100
     ) -> List[Conversation]:
         """
-        Retrieve all conversations for a specific user.
+        Retrieve all conversations for a specific anonymous session.
         """
         stmt = (
             select(self.model)
-            .where(self.model.user_id == user_id)
+            .where(self.model.session_id == session_id)
+            .order_by(self.model.updated_at.desc())
             .offset(skip)
             .limit(limit)
         )

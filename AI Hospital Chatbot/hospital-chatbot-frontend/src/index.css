@@ -1,25 +1,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 
 :root {
-  /* Medical Tech Light Palette */
-  --sidebar-bg: #F0F4F8;
-  --chat-bg: #FFFFFF;
-  --text-primary: #1F2937;
-  --text-secondary: #6B7280;
+  /* Premium Dark Mode Palette */
+  --chat-bg: #0F172A; /* Deep slate background */
   
-  --primary-blue: #003380;
-  --primary-blue-hover: #002266;
-  --secondary-blue: #EBF3FA;
+  --text-primary: #F8FAFC; 
+  --text-secondary: #94A3B8; 
   
-  --accent-green: #10B981;
-  --chip-outline: #2C7A7B;
-  --chip-text: #2C7A7B;
+  --primary-blue: #0EA5E9; /* Vibrant Cyan accent */
+  --primary-blue-hover: #0284C7;
   
-  --user-msg-bg: #003380;
-  --assistant-msg-bg: #F9FAFB;
-  --border-color: #E5E7EB;
+  --avatar-bg: #1E293B; /* Slightly lighter slate for bot avatar */
   
-  --error-color: #EF4444;
+  --chip-outline: rgba(14, 165, 233, 0.5); /* Cyan */
+  --chip-text: #0EA5E9;
+  
+  --user-msg-bg: linear-gradient(135deg, #0EA5E9 0%, #2563EB 100%);
+  --assistant-msg-bg: rgba(30, 41, 59, 0.6); /* Glassmorphism base */
+  --assistant-msg-border: rgba(255, 255, 255, 0.08);
+  
+  --input-bg: rgba(30, 41, 59, 0.8);
+  --date-pill-bg: #1E293B;
+  --date-pill-text: #94A3B8;
+  
+  --error-color: #F87171;
   
   --font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 }
@@ -36,12 +40,15 @@ body {
   color: var(--text-primary);
   height: 100vh;
   overflow: hidden;
+  /* Add subtle background radial gradient for depth */
+  background-image: radial-gradient(circle at top right, #1e293b 0%, #0f172a 50%);
 }
 
 #root {
   width: 100%;
   height: 100%;
   display: flex;
+  justify-content: center;
 }
 
 /* Scrollbar styling */
@@ -52,9 +59,9 @@ body {
   background: transparent;
 }
 ::-webkit-scrollbar-thumb {
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(255, 255, 255, 0.1);
   border-radius: 10px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(255, 255, 255, 0.2);
 }

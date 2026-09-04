@@ -9,8 +9,6 @@ from app.core.database import Base
 
 if TYPE_CHECKING:
     from app.modules.chatbot.models.message import Message
-    from app.modules.chatbot.models.user import User
-
 
 class Conversation(Base):
     __tablename__ = "conversations"
@@ -18,7 +16,8 @@ class Conversation(Base):
     id: Mapped[str] = mapped_column(
         String, primary_key=True, default=lambda: str(uuid.uuid4()), index=True
     )
-    user_id: Mapped[str] = mapped_column(ForeignKey("users.id"), index=True)
+    session_id: Mapped[str] = mapped_column(String, index=True, nullable=True)
+
     title: Mapped[str] = mapped_column(String, nullable=True)
     status: Mapped[str] = mapped_column(
         String, default="active"
@@ -32,8 +31,7 @@ class Conversation(Base):
         onupdate=lambda: datetime.now(timezone.utc),
     )
 
-    # Relationships
-    user: Mapped["User"] = relationship(back_populates="conversations")
+
     messages: Mapped[List["Message"]] = relationship(
         back_populates="conversation", cascade="all, delete-orphan"
     )

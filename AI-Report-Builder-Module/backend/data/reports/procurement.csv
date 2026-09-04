@@ -1,0 +1,134 @@
+date,vendor,purchase_value,status,delivery_time_days
+2026-02-26,HealthEquip Inc.,17475.88,Pending,
+2026-02-26,HealthEquip Inc.,2498.45,Completed,8.0
+2026-02-26,HealthEquip Inc.,20801.19,Pending,
+2026-02-26,SurgicalTools Ltd.,6615.25,Completed,12.0
+2026-02-27,MedSupply Co.,47760.22,Completed,8.0
+2026-02-28,SurgicalTools Ltd.,37533.35,Pending,
+2026-03-04,MedSupply Co.,33726.04,Completed,3.0
+2026-03-05,MedSupply Co.,48566.86,Cancelled,
+2026-03-05,MedSupply Co.,34841.53,Pending,
+2026-03-05,MedSupply Co.,7682.72,Pending,
+2026-03-08,HealthEquip Inc.,42063.27,Pending,
+2026-03-08,SurgicalTools Ltd.,24305.67,Completed,8.0
+2026-03-11,MedSupply Co.,5025.05,Cancelled,
+2026-03-12,HealthEquip Inc.,43891.08,Cancelled,
+2026-03-12,PharmaGlobal,24072.36,Cancelled,
+2026-03-12,PharmaGlobal,17948.39,Completed,3.0
+2026-03-12,MedSupply Co.,2596.26,Completed,3.0
+2026-03-13,SurgicalTools Ltd.,30695.82,Completed,9.0
+2026-03-14,HealthEquip Inc.,28511.37,Completed,7.0
+2026-03-16,PharmaGlobal,40168.46,Completed,7.0
+2026-03-16,PharmaGlobal,6091.04,Completed,5.0
+2026-03-17,HealthEquip Inc.,26841.15,Completed,1.0
+2026-03-17,PharmaGlobal,34373.67,Completed,5.0
+2026-03-17,PharmaGlobal,34593.5,Completed,7.0
+2026-03-17,PharmaGlobal,44486.67,Completed,9.0
+2026-03-22,MedSupply Co.,38667.85,Completed,1.0
+2026-03-23,MedSupply Co.,33368.44,Completed,9.0
+2026-03-23,HealthEquip Inc.,48471.67,Completed,7.0
+2026-03-28,MedSupply Co.,21316.11,Completed,4.0
+2026-03-31,SurgicalTools Ltd.,10709.35,Completed,2.0
+2026-03-31,SurgicalTools Ltd.,42423.33,Completed,13.0
+2026-04-01,SurgicalTools Ltd.,22981.59,Cancelled,
+2026-04-01,HealthEquip Inc.,14662.92,Pending,
+2026-04-01,PharmaGlobal,49105.09,Completed,12.0
+2026-04-01,MedSupply Co.,40956.53,Pending,
+2026-04-02,SurgicalTools Ltd.,11072.21,Completed,13.0
+2026-04-02,MedSupply Co.,38463.76,Pending,
+2026-04-02,MedSupply Co.,14060.6,Cancelled,
+2026-04-02,MedSupply Co.,22481.1,Pending,
+2026-04-03,SurgicalTools Ltd.,21982.84,Completed,5.0
+2026-04-03,SurgicalTools Ltd.,12813.39,Pending,
+2026-04-03,SurgicalTools Ltd.,14215.59,Completed,4.0
+2026-04-03,PharmaGlobal,3607.51,Pending,
+2026-04-04,PharmaGlobal,38919.6,Completed,12.0
+2026-04-04,MedSupply Co.,7949.23,Cancelled,
+2026-04-04,PharmaGlobal,49580.21,Completed,13.0
+2026-04-04,SurgicalTools Ltd.,20856.69,Completed,4.0
+2026-04-11,HealthEquip Inc.,3266.0,Completed,8.0
+2026-04-11,SurgicalTools Ltd.,10977.39,Completed,5.0
+2026-04-11,HealthEquip Inc.,33920.24,Completed,5.0
+2026-04-12,PharmaGlobal,15499.84,Completed,7.0
+2026-04-12,MedSupply Co.,3204.67,Completed,13.0
+2026-04-12,HealthEquip Inc.,7776.33,Pending,
+2026-04-21,MedSupply Co.,13659.36,Completed,13.0
+2026-04-21,PharmaGlobal,4098.64,Completed,6.0
+2026-04-22,SurgicalTools Ltd.,43525.0,Completed,12.0
+2026-04-22,SurgicalTools Ltd.,46982.25,Cancelled,
+2026-04-26,HealthEquip Inc.,22775.24,Completed,13.0
+2026-04-30,MedSupply Co.,38654.35,Completed,1.0
+2026-05-02,SurgicalTools Ltd.,42578.85,Completed,11.0
+2026-05-09,HealthEquip Inc.,19763.95,Completed,12.0
+2026-05-10,SurgicalTools Ltd.,41160.88,Pending,
+2026-05-14,HealthEquip Inc.,18778.19,Pending,
+2026-05-18,PharmaGlobal,38207.64,Completed,10.0
+2026-05-18,SurgicalTools Ltd.,8086.24,Completed,2.0
+2026-05-19,PharmaGlobal,47284.14,Completed,6.0
+2026-05-19,HealthEquip Inc.,21810.28,Cancelled,
+2026-05-19,MedSupply Co.,30120.47,Completed,13.0
+2026-05-19,HealthEquip Inc.,12695.45,Pending,
+2026-05-20,SurgicalTools Ltd.,26163.67,Completed,12.0
+2026-05-20,SurgicalTools Ltd.,9999.71,Completed,4.0
+2026-05-20,MedSupply Co.,34960.62,Completed,3.0
+2026-05-20,SurgicalTools Ltd.,28304.7,Completed,6.0
+2026-05-21,SurgicalTools Ltd.,21954.39,Completed,5.0
+2026-05-21,MedSupply Co.,6225.29,Completed,4.0
+2026-05-21,SurgicalTools Ltd.,16367.34,Completed,2.0
+2026-05-26,SurgicalTools Ltd.,44531.0,Completed,5.0
+2026-05-27,HealthEquip Inc.,5106.51,Pending,
+2026-05-27,PharmaGlobal,4704.96,Completed,6.0
+2026-05-27,MedSupply Co.,48161.1,Completed,9.0
+2026-05-28,SurgicalTools Ltd.,18615.98,Completed,12.0
+2026-06-20,PharmaGlobal,42034.6,Completed,12.0
+2026-06-20,PharmaGlobal,16376.9,Pending,
+2026-06-21,SurgicalTools Ltd.,4671.85,Completed,2.0
+2026-06-21,PharmaGlobal,46512.67,Completed,6.0
+2026-06-21,PharmaGlobal,49325.28,Completed,5.0
+2026-06-25,SurgicalTools Ltd.,8590.15,Cancelled,
+2026-06-25,MedSupply Co.,20345.12,Completed,3.0
+2026-06-26,PharmaGlobal,1272.0,Completed,1.0
+2026-06-30,PharmaGlobal,16516.06,Pending,
+2026-07-01,MedSupply Co.,1634.65,Completed,4.0
+2026-07-01,MedSupply Co.,3575.1,Cancelled,
+2026-07-03,PharmaGlobal,20010.87,Completed,13.0
+2026-07-03,HealthEquip Inc.,22101.8,Pending,
+2026-07-03,SurgicalTools Ltd.,31743.2,Pending,
+2026-07-07,HealthEquip Inc.,40251.43,Cancelled,
+2026-07-09,SurgicalTools Ltd.,5971.64,Completed,2.0
+2026-07-09,HealthEquip Inc.,44528.17,Completed,8.0
+2026-07-09,PharmaGlobal,7952.51,Completed,4.0
+2026-07-12,MedSupply Co.,40064.39,Completed,9.0
+2026-07-12,HealthEquip Inc.,28957.15,Cancelled,
+2026-07-12,MedSupply Co.,1009.28,Cancelled,
+2026-07-14,MedSupply Co.,32211.83,Pending,
+2026-07-14,PharmaGlobal,38058.25,Pending,
+2026-07-14,PharmaGlobal,33740.06,Completed,6.0
+2026-07-15,PharmaGlobal,9208.33,Completed,1.0
+2026-07-15,PharmaGlobal,12871.59,Completed,9.0
+2026-07-16,PharmaGlobal,13802.37,Completed,2.0
+2026-07-16,MedSupply Co.,38136.59,Completed,6.0
+2026-07-16,HealthEquip Inc.,40285.48,Cancelled,
+2026-07-16,PharmaGlobal,7902.01,Completed,8.0
+2026-07-17,HealthEquip Inc.,28812.57,Completed,9.0
+2026-07-27,SurgicalTools Ltd.,44549.55,Completed,7.0
+2026-07-27,HealthEquip Inc.,7634.41,Completed,5.0
+2026-07-27,PharmaGlobal,23715.57,Completed,2.0
+2026-07-28,PharmaGlobal,29890.74,Completed,13.0
+2026-07-28,MedSupply Co.,35471.22,Completed,9.0
+2026-07-28,SurgicalTools Ltd.,20153.42,Pending,
+2026-07-28,PharmaGlobal,3002.09,Completed,10.0
+2026-07-29,PharmaGlobal,47578.97,Completed,8.0
+2026-07-29,MedSupply Co.,11669.6,Pending,
+2026-07-29,SurgicalTools Ltd.,18665.44,Completed,1.0
+2026-07-29,HealthEquip Inc.,44746.89,Pending,
+2026-08-07,MedSupply Co.,25063.31,Completed,10.0
+2026-08-10,SurgicalTools Ltd.,48730.97,Completed,8.0
+2026-08-14,HealthEquip Inc.,30089.04,Completed,5.0
+2026-08-14,MedSupply Co.,44709.59,Completed,1.0
+2026-08-14,HealthEquip Inc.,46077.91,Completed,12.0
+2026-08-14,SurgicalTools Ltd.,22824.98,Completed,12.0
+2026-08-20,HealthEquip Inc.,14547.65,Cancelled,
+2026-08-20,HealthEquip Inc.,38544.67,Completed,11.0
+2026-08-20,PharmaGlobal,40661.13,Completed,11.0
+2026-08-20,SurgicalTools Ltd.,18610.05,Completed,2.0
