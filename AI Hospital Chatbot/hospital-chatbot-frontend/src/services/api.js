@@ -20,7 +20,7 @@ export const dashboardService = {
   },
   getDepartments: async (filters = {}) => {
     const response = await api.get('/dashboard/departments', { params: filters });
-    return response.data;
+    return response.data.departments || response.data;
   },
   getAlerts: async () => {
     const response = await api.get('/dashboard/alerts');

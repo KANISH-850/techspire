@@ -1,5 +1,8 @@
 @import "tailwindcss";
+@import "../../shared/techspire-theme.css";
 
 body {
-  background-color: #f8fafc;
+  background-color: var(--ts-bg);
+  color: var(--ts-text-primary);
+  font-family: var(--ts-font);
 }

@@ -1,0 +1,175 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Start TechSpire (All Modules)",
+            "dependsOn": [
+                "Chatbot: Backend",
+                "Chatbot: Frontend",
+                "Procurement: Backend",
+                "Procurement: Frontend",
+                "Report Builder: Backend",
+                "Report Builder: Frontend",
+                "CEO Dashboard: Backend",
+                "CEO Dashboard: Frontend",
+                "Predictive Analytics: Backend",
+                "Predictive Analytics: Frontend"
+            ],
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Chatbot: Backend",
+            "type": "shell",
+            "command": ".\\.venv\\Scripts\\python.exe -m uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload",
+            "options": {
+                "cwd": "${workspaceFolder}/AI Hospital Chatbot/hospital-chatbot-backend"
+            },
+            "presentation": {
+                "group": "Chatbot",
+                "panel": "shared",
+                "clear": true
+            },
+            "isBackground": true,
+            "problemMatcher": []
+        },
+        {
+            "label": "Chatbot: Frontend",
+            "type": "shell",
+            "command": "npm run dev",
+            "options": {
+                "cwd": "${workspaceFolder}/AI Hospital Chatbot/hospital-chatbot-frontend"
+            },
+            "presentation": {
+                "group": "Chatbot",
+                "panel": "shared",
+                "clear": true
+            },
+            "isBackground": true,
+            "problemMatcher": []
+        },
+        {
+            "label": "Procurement: Backend",
+            "type": "shell",
+            "command": ".\\venv\\Scripts\\python.exe -m uvicorn app.main:app --host 0.0.0.0 --port 8003 --reload",
+            "options": {
+                "cwd": "${workspaceFolder}/AI-Procurement-Module/backend"
+            },
+            "presentation": {
+                "group": "Procurement",
+                "panel": "shared",
+                "clear": true
+            },
+            "isBackground": true,
+            "problemMatcher": []
+        },
+        {
+            "label": "Procurement: Frontend",
+            "type": "shell",
+            "command": "npm run dev",
+            "options": {
+                "cwd": "${workspaceFolder}/AI-Procurement-Module/frontend"
+            },
+            "presentation": {
+                "group": "Procurement",
+                "panel": "shared",
+                "clear": true
+            },
+            "isBackground": true,
+            "problemMatcher": []
+        },
+        {
+            "label": "Report Builder: Backend",
+            "type": "shell",
+            "command": ".\\venv\\Scripts\\python.exe -m uvicorn app.main:app --host 0.0.0.0 --port 8002 --reload",
+            "options": {
+                "cwd": "${workspaceFolder}/AI-Report-Builder-Module/backend"
+            },
+            "presentation": {
+                "group": "Report Builder",
+                "panel": "shared",
+                "clear": true
+            },
+            "isBackground": true,
+            "problemMatcher": []
+        },
+        {
+            "label": "Report Builder: Frontend",
+            "type": "shell",
+            "command": "npm run dev",
+            "options": {
+                "cwd": "${workspaceFolder}/AI-Report-Builder-Module/frontend"
+            },
+            "presentation": {
+                "group": "Report Builder",
+                "panel": "shared",
+                "clear": true
+            },
+            "isBackground": true,
+            "problemMatcher": []
+        },
+        {
+            "label": "CEO Dashboard: Backend",
+            "type": "shell",
+            "command": ".\\venv\\Scripts\\python.exe -m uvicorn app.main:app --host 0.0.0.0 --port 8004 --reload",
+            "options": {
+                "cwd": "${workspaceFolder}/CEO-Executive-AI-Dashboard/backend"
+            },
+            "presentation": {
+                "group": "CEO Dashboard",
+                "panel": "shared",
+                "clear": true
+            },
+            "isBackground": true,
+            "problemMatcher": []
+        },
+        {
+            "label": "CEO Dashboard: Frontend",
+            "type": "shell",
+            "command": "npm run dev",
+            "options": {
+                "cwd": "${workspaceFolder}/CEO-Executive-AI-Dashboard/frontend"
+            },
+            "presentation": {
+                "group": "CEO Dashboard",
+                "panel": "shared",
+                "clear": true
+            },
+            "isBackground": true,
+            "problemMatcher": []
+        },
+        {
+            "label": "Predictive Analytics: Backend",
+            "type": "shell",
+            "command": ".\\venv\\Scripts\\python.exe -m uvicorn app.main:app --host 0.0.0.0 --port 8001 --reload",
+            "options": {
+                "cwd": "${workspaceFolder}/Predictive-Analytics-Module/backend"
+            },
+            "presentation": {
+                "group": "Predictive Analytics",
+                "panel": "shared",
+                "clear": true
+            },
+            "isBackground": true,
+            "problemMatcher": []
+        },
+        {
+            "label": "Predictive Analytics: Frontend",
+            "type": "shell",
+            "command": "npm run dev",
+            "options": {
+                "cwd": "${workspaceFolder}/Predictive-Analytics-Module/frontend"
+            },
+            "presentation": {
+                "group": "Predictive Analytics",
+                "panel": "shared",
+                "clear": true
+            },
+            "isBackground": true,
+            "problemMatcher": []
+        }
+    ]
+}

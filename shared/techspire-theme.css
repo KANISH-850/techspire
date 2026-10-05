@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+/* ==========================================
+   TechSpire Unified Theme System (CSS Tokens)
+   ========================================== */
+:root {
+  --ts-font: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  
+  /* Brand Identity & Accents */
+  --ts-brand-cyan: #0EA5E9;
+  --ts-brand-blue: #2563EB;
+  --ts-brand-indigo: #6366F1;
+  --ts-brand-purple: #8B5CF6;
+  --ts-brand-gradient: linear-gradient(135deg, #0EA5E9 0%, #2563EB 50%, #6366F1 100%);
+  --ts-brand-gradient-hover: linear-gradient(135deg, #0284C7 0%, #1D4ED8 50%, #4F46E5 100%);
+
+  /* Default Dark Mode (Executive Slate Cyber Theme) */
+  --ts-bg: #0F172A;
+  --ts-bg-subtle: #1E293B;
+  --ts-bg-floating: #0B1120;
+  
+  --ts-card-bg: rgba(30, 41, 59, 0.7);
+  --ts-card-hover: rgba(51, 65, 85, 0.8);
+  --ts-border: rgba(255, 255, 255, 0.08);
+  --ts-border-strong: rgba(255, 255, 255, 0.16);
+
+  --ts-text-primary: #F8FAFC;
+  --ts-text-secondary: #94A3B8;
+  --ts-text-muted: #64748B;
+  --ts-text-inverse: #0F172A;
+
+  /* Status Colors */
+  --ts-success: #10B981;
+  --ts-success-bg: rgba(16, 185, 129, 0.12);
+  --ts-warning: #F59E0B;
+  --ts-warning-bg: rgba(245, 158, 11, 0.12);
+  --ts-danger: #EF4444;
+  --ts-danger-bg: rgba(239, 68, 68, 0.12);
+  --ts-info: #3B82F6;
+  --ts-info-bg: rgba(59, 130, 246, 0.12);
+
+  /* Elevation & Shadows */
+  --ts-shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3);
+  --ts-shadow-md: 0 4px 12px rgba(0, 0, 0, 0.4);
+  --ts-shadow-lg: 0 10px 25px rgba(0, 0, 0, 0.5);
+  --ts-backdrop: blur(16px);
+}
+
+/* Light Mode Overrides */
+[data-theme="light"] {
+  --ts-bg: #F8FAFC;
+  --ts-bg-subtle: #F1F5F9;
+  --ts-bg-floating: #FFFFFF;
+  
+  --ts-card-bg: #FFFFFF;
+  --ts-card-hover: #F8FAFC;
+  --ts-border: #E2E8F0;
+  --ts-border-strong: #CBD5E1;
+
+  --ts-text-primary: #0F172A;
+  --ts-text-secondary: #475569;
+  --ts-text-muted: #94A3B8;
+  --ts-text-inverse: #F8FAFC;
+
+  --ts-shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.05);
+  --ts-shadow-md: 0 4px 12px rgba(15, 23, 42, 0.06);
+  --ts-shadow-lg: 0 10px 25px rgba(15, 23, 42, 0.1);
+}
+
+/* Global Reset & Base Typography */
+body {
+  font-family: var(--ts-font);
+  background-color: var(--ts-bg);
+  color: var(--ts-text-primary);
+  transition: background-color 0.3s ease, color 0.3s ease;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Common Utility Classes for Plug and Play Theme */
+.ts-glass-card {
+  background: var(--ts-card-bg);
+  backdrop-filter: var(--ts-backdrop);
+  border: 1px solid var(--ts-border);
+  border-radius: 16px;
+  box-shadow: var(--ts-shadow-md);
+  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.ts-glass-card:hover {
+  border-color: var(--ts-border-strong);
+}
+
+.ts-btn-primary {
+  background: var(--ts-brand-gradient);
+  color: #FFFFFF;
+  font-weight: 600;
+  padding: 0.5rem 1.25rem;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: opacity 0.2s ease, transform 0.1s ease;
+}
+
+.ts-btn-primary:hover {
+  opacity: 0.92;
+  transform: translateY(-1px);
+}
+
+.ts-badge {
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.ts-badge-cyan {
+  background: rgba(14, 165, 233, 0.15);
+  color: var(--ts-brand-cyan);
+  border: 1px solid rgba(14, 165, 233, 0.3);
+}
+
+.ts-badge-success {
+  background: var(--ts-success-bg);
+  color: var(--ts-success);
+  border: 1px solid rgba(16, 185, 129, 0.3);
+}
+
+.ts-badge-warning {
+  background: var(--ts-warning-bg);
+  color: var(--ts-warning);
+  border: 1px solid rgba(245, 158, 11, 0.3);
+}
+
+.ts-badge-danger {
+  background: var(--ts-danger-bg);
+  color: var(--ts-danger);
+  border: 1px solid rgba(239, 68, 68, 0.3);
+}

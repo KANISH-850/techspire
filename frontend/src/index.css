@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@import "./styles/techspire-theme.css";
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--ts-bg);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--ts-border-strong);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--ts-text-muted);
+}

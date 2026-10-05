@@ -53,7 +53,38 @@ class ChatService:
             db.commit()
             db.refresh(conversation)
 
-        # 4. Retrieve hospital context
+        # 4. Check for HMS Navigation Intents
+        msg_lower = request.message.lower().strip()
+        nav_routes = {
+            "dashboard": ("/", "CEO Executive AI Dashboard"),
+            "predictive": ("/predictive-analytics", "Predictive AI Analytics"),
+            "prediction": ("/predictive-analytics", "Predictive AI Analytics"),
+            "forecast": ("/predictive-analytics", "Predictive AI Analytics"),
+            "report": ("/reports", "AI Report Builder"),
+            "procurement": ("/procurement", "AI Procurement & Inventory Assistant"),
+            "inventory": ("/procurement", "AI Procurement & Inventory Assistant"),
+            "chatbot": ("/chatbot", "AI Hospital Chatbot")
+        }
+
+        # Check if query is explicitly asking to open/navigate to a page
+        if any(k in msg_lower for k in ["open ", "show ", "go to ", "navigate ", "view "]):
+            for keyword, (route, name) in nav_routes.items():
+                if keyword in msg_lower:
+                    nav_reply = f"Opening **{name}** module for you...\n\n[NAVIGATE:{route}]"
+                    def nav_generate():
+                        yield nav_reply
+                        message_repo.create(
+                            db,
+                            obj_in={
+                                "conversation_id": request.conversation_id,
+                                "role": "assistant",
+                                "content": nav_reply,
+                                "status": "sent",
+                            },
+                        )
+                    return nav_generate()
+
+        # 4b. Retrieve hospital context
         try:
             retriever = Retriever()
             retrieved_docs = retriever.retrieve_relevant_documents(request.message)

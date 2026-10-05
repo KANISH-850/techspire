@@ -1,8 +1,11 @@
 @import "tailwindcss";
+@import "../../shared/techspire-theme.css";
 
 @layer base {
   body {
-    @apply bg-[#F7F9FC] text-[#1A202C] font-sans;
+    background-color: var(--ts-bg);
+    color: var(--ts-text-primary);
+    font-family: var(--ts-font);
   }
 }
 
@@ -18,5 +21,8 @@
 
 /* Theme card utility */
 .card-theme {
-  @apply bg-white border border-[#E2E8F0] shadow-sm;
+  background-color: var(--ts-card-bg);
+  border: 1px solid var(--ts-border);
+  box-shadow: var(--ts-shadow-md);
+  border-radius: 1rem;
 }

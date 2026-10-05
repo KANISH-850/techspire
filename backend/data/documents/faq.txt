@@ -1,0 +1,11 @@
+Q: Do you offer free parking?
+A: Yes, free parking is available for all patients and visitors in the main parking structure.
+
+Q: How can I schedule an appointment?
+A: You can schedule an appointment by calling our main desk at +1 (555) 123-4567 during normal business hours or by using our online patient portal.
+
+Q: Do you accept insurance?
+A: We accept most major health insurance plans. Please contact our billing department to verify your coverage before your visit.
+
+Q: What should I bring to my first appointment?
+A: Please bring your ID, insurance card, and any relevant medical records or medication lists.

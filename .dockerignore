@@ -1,0 +1,11 @@
+node_modules
+dist
+.git
+.vscode
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache
+.env
+chroma_db
